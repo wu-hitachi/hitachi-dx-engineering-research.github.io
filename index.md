@@ -1,5 +1,3 @@
-# Hitachi DX Engineering Research
-
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group.
 We strive to achieve advanced software development suitable for the digital transformation era. 
 
@@ -54,7 +52,7 @@ Efficient process and method to develop safety-critical systems.
 - Log-based anomaly detection
 - Keyword-driven testing
 
-## Publication List
+# Publication List
 
 - Sato, N., Kuruma, H., Nakagawa, Y., & Ogawa, H. (2020).
   Formal Verification of a Decision-Tree Ensemble Model and Detection of Its Violation Ranges.
