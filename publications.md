@@ -75,11 +75,11 @@
 - 小川 秀人, 川上 真澄, 加賀 洋渡, 長船 辰昭 (2019).
   日立グループ全社におけるソフトウェア開発プロセス革新.
   日立評論, 101 (2), pp. 76-81. 日立.
-  https://www.hitachihyoron.com/jp/archive/2010s/2019/02/02b05/index.html.
+  [https://www.hitachihyoron.com/jp/archive/2010s/2019/02/02b05/index.html](https://www.hitachihyoron.com/jp/archive/2010s/2019/02/02b05/index.html).
 
 - Hoang, T. S., Sato, N., Myosin, T., Butler, M., Nakagawa, Y., & Ogawa, H. (2018).
   Policing functions for machine learning systems.
-  https://eprints.soton.ac.uk/421233/.
+  [https://eprints.soton.ac.uk/421233/](https://eprints.soton.ac.uk/421233/).
 
 - Sato, N., Kuruma, H., Kaneko, M., Nakagawa, Y., Ogawa, H., Hoang, T. S., & Butler, M. (2018).
   DeepSaucer: Unified Environment for Verifying Deep Neural Networks.
