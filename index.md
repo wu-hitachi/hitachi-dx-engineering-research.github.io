@@ -1,9 +1,14 @@
+日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
+デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
+
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group.
 We strive to achieve advanced software development suitable for the digital transformation era. 
 
 **[Publication List](publications.html)**
 
 ## Modernizing Business with IT
+
+「デジタルトランスフォーメーション」を実現するための最新のITシステム開発手法。
 
 Modern IT system development method for achieving "Digital Transformation".
 
@@ -18,6 +23,8 @@ Modern IT system development method for achieving "Digital Transformation".
 
 ## Intelligent Systems Engineering
 
+信頼性の高い高品質なAIや、AIを使ったシステムを開発するための技術。
+
 Technology for developing reliable, high-quality AI and AI-based systems.
 
 - Quality Assurance for AI systems
@@ -29,6 +36,8 @@ Technology for developing reliable, high-quality AI and AI-based systems.
 - Ethics of AI
 
 ## Data-Driven Software Engineering
+
+ビッグデータやAIを駆使した最先端のソフトウェア開発技術。
 
 Cutting-edge technology with big-data and AI for software development.
 
@@ -42,6 +51,8 @@ Cutting-edge technology with big-data and AI for software development.
 - Project monitoring and alert
 
 ## Safety System Development Process
+
+セーフティ・クリティカルなシステムを開発するための効率的なプロセスと方法。
 
 Efficient process and method to develop safety-critical systems.
 
