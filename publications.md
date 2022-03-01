@@ -1,5 +1,29 @@
 # Publication List
 
+<!-- format
+
+- Given, F., ..., & Given, F. (Year).
+  Title.
+  Journal, Volume (Issue), pp. XXX-XXX.
+  **🎖xxx Award**
+
+- Given, F., ..., & Given, F. (Year, Month).
+  Title.
+  In Proceedings of Conference, pp. XXX-XXX.
+  **🎖xxx Award**
+
+- 姓 名, ..., 姓 名 (xxxx年).
+  題名.
+  論文誌名, Volume (Issue), pp. XXX-XXX.
+  **🎖xxx賞**
+
+- 姓 名, ..., 姓 名 (xxxx年x月).
+  題名.
+  会議名, pp. XXX-XXX.
+  **🎖xxx賞**
+
+-->
+
 - Shimbara, D., Saeki, M., Hayashi, S., & Haugen, Ø. (2021).
   [Handling Quantity in Variability Models for System-of-Systems](https://doi.org/10.1142/S0218194021500200).
   International Journal of Software Engineering and Knowledge Engineering, 31 (5), pp. 693-724.
