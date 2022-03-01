@@ -6,6 +6,8 @@ We strive to achieve advanced software development suitable for the digital tran
 
 **[Publication List](publications.html)**
 
+**[Software Engineering Conferences and Journals](confAndJournals.html)**
+
 ## Modernizing Business with IT
 
 「デジタルトランスフォーメーション」を実現するための最新のITシステム開発手法。
