@@ -24,6 +24,14 @@
 
 -->
 
+- 鍛 忠司, 高橋 健太, 小川 秀人 (2021年).
+  [社会システムへのトラストを再構築する](https://linkingsociety.hitachi.co.jp/_ct/17512841).
+  協創の森ウェビナー第6回「社会システムのトラスト」.
+
+- 佐藤 直人, 小川 秀人, 來間 啓伸, 明神 智之 (2021年).
+  [AIソフトウェアのテスト 答のない答え合わせ［4つの手法］](http://www2.ric.co.jp/create/book/contents/book_1291.html).
+  リックテレコム.
+
 - Shimbara, D., Saeki, M., Hayashi, S., & Haugen, Ø. (2021).
   [Handling Quantity in Variability Models for System-of-Systems](https://doi.org/10.1142/S0218194021500200).
   International Journal of Software Engineering and Knowledge Engineering, 31 (5), pp. 693-724.
@@ -40,6 +48,10 @@
   マイクロサービスアーキテクチャのVR可視化.
   第28回ソフトウェア工学の基礎ワークショップ (FOSE2021).
 
+- 九間 哲士, 肥後 芳樹, 柗本 真佑, 楠本 真二, 安田 和矢 (2021年9月).
+  [自動修正適合性：新しいソフトウェア品質指標とその計測](http://id.nii.ac.jp/1001/00212579/).
+  ソフトウェアエンジニアリングシンポジウム2021.
+
 - 來間 啓伸, 小川 秀人, 佐藤 直人, 明神 智之 (2021年9月).
   [XGBoost法により学習させたAIモデルのふるまいの形式検証](http://id.nii.ac.jp/1001/00212590/).
   ソフトウェアエンジニアリングシンポジウム2021.
@@ -51,6 +63,18 @@
 - Phan, T. T. H., Suzuki, Y., Sato, N., & Kawakami, M. (2021, July).
   FLASX: A Fault Localization Assistant System Using KLEE Symbolic Execution for Embedded Software.
   In Proceedings of the 2nd International KLEE Workshop on Symbolic Execution.
+
+- 佐藤 直人, 來間 啓伸, 小川 秀人 (2021年3月).
+  [最大安全半径の監視によるコンセプトドリフト検知可能性の評価](https://www.ieice.org/ken/paper/202103039CDe/).
+  信学技報, 120 (407), SS2020-35, pp.43-48.
+
+- 馬場 貴成, 長岡 靖子, 小川 秀人 (2020年).
+  [Society 5.0時代の価値協創型DXの実現に向けて ～Lumadaへの取り組み～](http://id.nii.ac.jp/1001/00207225/).
+  情報処理, 61 (1), pp.57-61.
+
+- 小川 秀人 (2020年).
+  [AIビジネスにおける品質保証](https://johokiko.co.jp/publishing/BC200503.php).
+  AIビジネス戦略：効果的な知財戦略・新規事業の立て方・実用化への筋道, 第4章第3節, 情報機構.
 
 - Sato, N., Kuruma, H., Nakagawa, Y., & Ogawa, H. (2020).
   [Formal Verification of a Decision-Tree Ensemble Model and Detection of Its Violation Ranges](https://doi.org/10.1587/transinf.2019EDP7120).
@@ -71,6 +95,10 @@
 - 堀 旭宏, 市井 誠, 川上 真澄 (2020年10月).
   [ソフトウェア開発プロジェクトの完了日予測のためのチケット自動修正方法](https://doi.org/10.11309/jssst.37.4_10).
   コンピュータソフトウェア, 37 (4), pp. 4_10-4_16.
+
+- Sato, N., Kuruma, H., & Ogawa, H. (2020年)
+  [Unsupposable Test-data generation for Machine-learned Software](http://id.nii.ac.jp/1001/00206646/).
+  ソフトウェアエンジニアリングシンポジウム2020.
 
 - 市井 誠, 川上 真澄 (2020年4月).
   [リポジトリマイニングに基づくアンチパターン検出手法](http://doi.org/10.20729/00204242).
