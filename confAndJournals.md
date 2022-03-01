@@ -8,7 +8,7 @@
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> https://2022.esec-fse.org/
 - COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> https://ieeecompsac.computer.org/2022/
 - APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> https://conf.researchr.org/home/apsec-2022
-- SEKE, , International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> http://ksiresearch.org/seke/seke22.html
+- SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> http://ksiresearch.org/seke/seke22.html
 - SAC, ACM/SIGAPP, Symposium on Applied Computing, B, 計算・ソフト全般, <br> http://www.sigapp.org/sac/sac2022/
 
 ### 分野別
@@ -22,15 +22,15 @@
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> https://vissoft.info/
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> https://qrs21.techconf.org/
 - ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> https://issre.net/
-- SPLC, , International Systems and Software Product Line conference, B, SPL, <br> https://2022.splc.net/
+- SPLC, International Systems and Software Product Line conference, B, SPL, <br> https://2022.splc.net/
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> https://safecomp22.iks.fraunhofer.de/
 - ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> https://conf.researchr.org/series/issta
 - ICST, IEEE, International Conference on Software Testing, Verification and Validation, A, テスト, <br> https://icst2022.vrain.upv.es/
 - AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> https://conf.researchr.org/home/ast-2022
-- IoTNAT, , International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> http://emergingtechnet.org/IOTNAT2021/index.php
+- IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> http://emergingtechnet.org/IOTNAT2021/index.php
 - GCCE, IEEE, Global Conference on Consumer Electronics, コンシューマ, <br> https://www.ieee-gcce.org/
 - INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> https://2022.ieee-indin.org/
-- SEAMS, , International Symposium on Software Engineering for Adaptive and Self-Managing Systems, A, アダプティブ, <br> https://conf.researchr.org/home/seams-2022
+- SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems, A, アダプティブ, <br> https://conf.researchr.org/home/seams-2022
 
 ### 人工知能、機械学習工学
 - AAAI, AAAI Conference, A*, AI全般, <br> https://aaai.org/Conferences/AAAI-22/
@@ -47,7 +47,7 @@
 - FIT, 情報処理学会, 情報科学技術フォーラム, 情報全般, <br> https://www.ipsj.or.jp/event/fit/fit2022/
 - 信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> http://www.ieice-taikai.jp/
 - 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> https://www.jssst.or.jp/taikai/
-- 自技会全国大会, 自動車技術会 , , <br> https://www.jsae.or.jp/2022haru/
+- 自技会全国大会, 自動車技術会, <br> https://www.jsae.or.jp/2022haru/
 
 ### ソフトウェア工学全般
 - SIGSE, 情報処理学会, ソフトウェア工学研究会, SE全般, <br> http://www.ipsj.or.jp/sig/se/
@@ -61,7 +61,7 @@
 - SIGCDS, 情報処理学会, コンシューマ・デバイス＆システム, コンシューマ, <br> https://www.sig-cds.net/
 - SIGITS, 情報処理学会, 高度交通システムとスマートコミュニティ, 交通, <br> http://www.ipsj.or.jp/sig/its/
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> https://www.ieice.org/iss/ss/
-    -FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> https://fose.jssst.or.jp/
+    - FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> https://fose.jssst.or.jp/
 - SS, SEA, ソフトウェアシンポジウム, SE全般, <br> https://www.sea.jp/ss2022/
 - SQiP, 日科技連, ソフトウェア品質シンポジウム, 品質, <br> https://www.juse.jp/sqip/symposium/
 - JaSST, Aster, ソフトウェアテストシンポジウム, テスト, <br> http://jasst.jp/
@@ -71,7 +71,7 @@
 ### ソフトウェア工学全般
 - TSE, IEEE, IEEE Transactions on Software Engieering, A*, SE全般, <br> https://www.computer.org/csdl/journal/ts
 - TOSEM, ACM, ACM Transactions on Software Engineering and Methodology, A*, SE全般, <br> https://dl.acm.org/journal/tosem
-- SEKE, , International Journal of Software Engineering and Knowledge Engineering, B, SE全般, <br> https://www.worldscientific.com/worldscinet/ijseke
+- SEKE, International Journal of Software Engineering and Knowledge Engineering, B, SE全般, <br> https://www.worldscientific.com/worldscinet/ijseke
 
 ### 分野別
 - EMSE, Springer, Journal of Empirical Software Engineering, A, エンピリカル, <br> https://www.springer.com/journal/10664
@@ -86,7 +86,7 @@
     - 情報処理学会, 論文誌：情報システム特集, <br> https://www.ipsj.or.jp/journal/cfp/22-N.html
     - 情報処理学会, 論文誌：若手研究者, <br> https://www.ipsj.or.jp/journal/cfp/22-F.html
 - 情報処理学会, デジタルプラクティス, <br> https://www.ipsj.or.jp/dp/index.html
-- 電子情報通信学会, 論文誌(和文), <br> https://www.ieice.org/jpn/books/ronbunshi.html
+- 電子情報通信学会, 論文誌 (和文), <br> https://www.ieice.org/jpn/books/ronbunshi.html
 - 電子情報通信学会, Transaction on Information & Systems, <br> https://www.jstage.jst.go.jp/browse/transinf/-char/ja
     - 電子情報通信学会, Special Section on Information Theory and Its Applications, <br> https://ci.nii.ac.jp/naid/110003212503
     - 電子情報通信学会, Special Section on Empirical Software Engineering, <br> https://www.ieice.org/eng/s_issue/cfp/2023_2ED_2.pdf
