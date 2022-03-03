@@ -25,6 +25,7 @@
 - MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/>
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
+- RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2022>
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2022.refsq.org/>
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs21.techconf.org/>
 - ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre.net/>
