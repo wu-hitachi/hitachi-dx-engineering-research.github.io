@@ -1,6 +1,8 @@
 # Software Engineering Conferences and Journals
 
-*ソフトウェア工学関連会議・論文誌リスト
+ソフトウェア工学関連会議・論文誌リスト
+
+- TOC
 {:toc}
 
 ## 国際会議
