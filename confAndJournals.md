@@ -1,5 +1,4 @@
 # Software Engineering Conferences and Journals
-{:no_toc}
 
 *ソフトウェア工学関連会議・論文誌リスト
 {:toc}
