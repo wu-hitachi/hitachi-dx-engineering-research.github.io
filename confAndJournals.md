@@ -8,7 +8,7 @@
 ## 国際会議
 
 ### ソフトウェア工学全般
-- ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022>
+- ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> 2022.9.1 Technical Track, 2022.10.21 SEIP
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/>
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022>
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem>
@@ -44,6 +44,12 @@
 - ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta
 - ICST, IEEE, International Conference on Software Testing, Verification and Validation, A, テスト, <br> <https://icst2022.vrain.upv.es/>
 - AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2022>
+
+### アーキテクチャ
+- SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>,  2022.5.8 Full Paper
+
+### OSS
+- OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/>, 2022.5.6 Regular Paper
 
 ### 応用分野
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
