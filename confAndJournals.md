@@ -71,7 +71,7 @@
 - 情処全国大会, 情報処理学会, 全国大会, 情報全般, <br> <https://www.ipsj.or.jp/event/taikai/83/>
 - FIT, 情報処理学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2022/>
 - 信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> <http://www.ieice-taikai.jp/>
-- 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> <https://www.jssst.or.jp/taikai/>
+- 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> <https://www.jssst.or.jp/taikai/> <br> 2022.7.8 登壇申込
 - 自技会全国大会, 自動車技術会, <br> <https://www.jsae.or.jp/2022haru/>
 
 ### ソフトウェア工学全般
@@ -79,7 +79,7 @@
     - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2021/>
     - WWS, 情報処理学会, ウィンターワークショップ, SE全般, <br> <http://wws.sigse.jp/2022/>
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> <https://www.ieice.org/iss/ss/>
-- FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/>
+- FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/>
 - SS, SEA, ソフトウェアシンポジウム, SE全般, <br> <https://www.sea.jp/ss2022/>
 
 ### 分野別
