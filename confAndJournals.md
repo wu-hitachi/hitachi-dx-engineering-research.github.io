@@ -20,6 +20,9 @@
 ### 人的要因
 - CHI, ACM, Conference on Human Factors in Computing Systems, A*, 人的要因, <br> <https://chi2022.acm.org/> 
 
+### リポジトリマイニング
+- MSR, The Mining Software Repositories (MSR) conference, A, リポジトリマイニング, <br> https://conf.researchr.org/home/msr-2022 (~~2022.1.17 Technical, 2022.2.16 Industry~~)
+
 ### 要求
 - RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2022> (~~2022.2.17 Research, 2022.3.3 Industrial~~)
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2022.refsq.org/> 
