@@ -41,7 +41,7 @@
 ### 品質、信頼性、安全性
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs21.techconf.org/>
  (~~2021.9.15 Regular, 2021.10.10 Industry~~)
-- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre.net/>
+- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> (2022.5.13 Research (abstruct),  2022.??.?? Industry)
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> <https://safecomp22.iks.fraunhofer.de/> (~~2022.2.7 Full~~)
 
 ### テスト、検証
