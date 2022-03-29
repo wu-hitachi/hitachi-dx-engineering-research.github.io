@@ -8,7 +8,7 @@
 ## 国際会議
 
 ### ソフトウェア工学全般
-- ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> [2022.9.1 Technical Track, 2022.10.21 SEIP]
+- ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> (2022.9.1 Technical Track, 2022.10.21 SEIP)
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> 
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> (2022.4.29 Research, 2022.5.27 Industry)
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> (2022.4.25 Technical abstact)
@@ -83,7 +83,7 @@
     - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2021/>
     - WWS, 情報処理学会, ウィンターワークショップ, SE全般, <br> <http://wws.sigse.jp/2022/>
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> <https://www.ieice.org/iss/ss/>
-- FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/>
+- FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/> (通常 2022.7.8, ライブ 2022.9.9)
 - SS, SEA, ソフトウェアシンポジウム, SE全般, <br> <https://www.sea.jp/ss2022/>
 
 ### 分野別
@@ -108,7 +108,7 @@
 ## 国内論文誌
 - 情報処理学会, 論文誌 / Journal of Information Processing,  <br> <https://www.ipsj.or.jp/journal/index.html>
     - SE, 情報処理学会, 論文誌：ソフトウェア工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-L.html> (2022.8.1)
-    - EMB, 情報処理学会, 論文誌：組込システム工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-M.html> 
+    - EMB, 情報処理学会, 論文誌：組込システム工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-M.html> (2022.5.16)
     - ITS, 情報処理学会, 論文誌：高度交通特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-E.html> (~~2021.5.24~~)
     - CDS, 情報処理学会, トランザクション：コンピュータ・デバイス＆システム, <br> <https://www.ipsj.or.jp/trans/cds.html>
     - PRO, 情報処理学会, トランザクション：プログラミング, <br> <https://sigpro.ipsj.or.jp/sigtra4/>
