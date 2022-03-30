@@ -52,7 +52,7 @@
 ### テスト、検証 (Testing, Verification)
 - ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta> <br> ![2Q](/2Q.png) ~~2022.1.28 Technical~~
 - ICST, IEEE, International Conference on Software Testing, Verification and Validation, A, テスト, <br> <https://icst2022.vrain.upv.es/> <br> ![1Q](/1Q.png) ~~2021.9.27 Research, 2021.9.27 Industry~~
-- AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2022> <br> ![1Q](/1Q.png) ~~2022.1.7 Paper~~
+- AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2022> <br> ![2Q](/2Q.png) ~~2022.1.7 Paper~~
 
 ### 形式手法 (Formal Method)
 - ICFEM, International Conference on Formal Engineering Methods, B, 形式手法, <br> <http://maude.ucm.es/ICFEM22/> <br> ![1Q](1Q.png) 2022.4.10
