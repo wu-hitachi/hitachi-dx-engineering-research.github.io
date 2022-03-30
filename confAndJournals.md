@@ -5,9 +5,9 @@
 - TOC
 {:toc}
 
-## 国際会議
+## 国際会議 (International Conference)
 
-### ソフトウェア工学全般
+### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) 2022.5.19 Industry
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> ![1Q](/1Q.png2 2022.4.29  Res2arch, 2022.5.27 Industry)
@@ -17,50 +17,51 @@
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke22.html> ![2Q](/2Q.png) ~~2022.3.15 Paper~~
 - SAC, ACM/SIGAPP, Symposium on Applied Computing, B, 計算・ソフト全般, <br> <http://www.sigapp.org/sac/sac2022/> ![2Q](/2Q.png) 2022.10.31 Regular
 
-### 人的要因![1Q](/1Q.png) - CHI, ACM, Conference on Human Factors in Computing Systems, A*, 人的要因, <br> <https://chi2022.acm.org/> 
+### 人的要因 (Human Factor)
+- CHI, ACM, Conference on Human Factors in Computing Systems, A*, 人的要因, <br> <https://chi2022.acm.org/> 
 
-### リポジトリマイニング
+### リポジトリマイニング (Repository Mining)
 - MSR, The Mining Software Repositories (MSR) conference, A, リポジトリマイニング, <br> https://conf.researchr.org/home/msr-2022 ![2Q](/2Q.png) ~~2022.1.17 Technical, 2022.2.16 Industry~~
 
-### 要求
+### 要求 (Requirement)
 - RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2022> ![2Q](/2Q.png) ~~2022.2.17 Research, 2022.3.3 Industrial~~
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2022.refsq.org/> 
 
-### 設計、実装
+### 設計、実装 (Desine, Implementation)
 - ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/> ![2Q](/2Q.png) ~~2021.11.8 Technical, 2021.12.8 In Practice~~
 - MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022> ![1Q](/1Q.png) 2022.5.11 Full
 - SPLC, International Systems and Software Product Line conference, B, SPL, <br> <https://2022.splc.net/> ![1Q](/1Q.png) 2022.4.8 Research, 2022.6.6 Industry
 
-### 進化、解析
+### 進化、解析 (Evolution, Aalytics)
 - ICSME, IEEE, International Conference on Software Maintenance and Evolution, A, 保守、進化, <br> <https://cyprusconferences.org/icsme2022/> ![2Q](/2Q.png) ~~2022.3.25 Research~~, ![1Q](/1Q.png) 2022.4.22 Industry
 - SANER, IEEE, International Conference on Software Analysis､ Evolution､ and Reengineering, A, 分析、進化, <br> <https://saner2022.uom.gr/> ![2Q](/2Q.png) ~~2021.10.14 Research, 2021.11.11 Industrial~~
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/> ![2Q](/2Q.png) ~~2022.1.4 Full, 2022.3.15 Short~~
 
-### 品質、信頼性、安全性
+### 品質、信頼性、安全性 (Quality, Reliability, Safety)
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs21.techconf.org/>
  (~~2021.9.15 Regular, 2021.10.10 Industry~~)
 - ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> ![1Q](/1Q.png) 2022.5.13 Research (abstruct),  2022.??.?? Industry
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> <https://safecomp22.iks.fraunhofer.de/> ![2Q](/2Q.png) ~~2022.2.7 Full~~
 
-### テスト、検証
+### テスト、検証 (Testing, Verification)
 - ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta> ![2Q](/2Q.png) ~~2022.1.28 Technical~~
 - ICST, IEEE, International Conference on Software Testing, Verification and Validation, A, テスト, <br> <https://icst2022.vrain.upv.es/> ![1Q](/1Q.png) ~~2021.9.27 Research, 2021.9.27 Industry~~
 - AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2022> ![1Q](/1Q.png) ~~2022.1.7 Paper~~
 
-### アーキテクチャ
+### アーキテクチャ (Architecture)
 - SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  ![1Q](/1Q.png) 2022.5.8 Full
 
 ### OSS
 - OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/> ![1Q](/1Q.png) 2022.5.6 Regular
 
-### 応用分野
+### 応用分野 (Application)
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
 - GCCE, IEEE, Global Conference on Consumer Electronics, コンシューマ, <br> <https://www.ieee-gcce.org/>
 - INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> <https://2022.ieee-indin.org/> ![2Q](/2Q.png) 2022.3.31 Regular
 - SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems, A, アダプティブ, <br> <https://conf.researchr.org/home/seams-2022> ![2Q](/2Q.png) ~~2022.1.20 Research, Indudtry~~
 
-### 人工知能、機械学習工学
+### 人工知能、機械学習工学 (AI, ML)
 - AAAI, AAAI Conference, A*, AI全般, <br> <https://aaai.org/Conferences/AAAI-22/> ![1Q](/1Q.png) (~~2021.8.30 Paper~~)
 - IJCAI, International Joint Conferences on Artificial Intelligence, A*, AI全般, <br> <https://ijcai-22.org/> ![2Q](/2Q.png) ~~2021.12.30~~
 - ICAICA, IEEE, International Conference on Artificial Intelligence and Computer Applications, AI全般, <br> <http://icaica.org/> ![2Q](/2Q.png) ~~2022.1.7 Paper~~
