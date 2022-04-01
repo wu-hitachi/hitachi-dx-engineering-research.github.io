@@ -5,7 +5,7 @@
 - TOC
 {:toc}
 
-## 国際会議 (International Conference)
+## 国際会議 (International Conferences)
 
 ### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
@@ -103,14 +103,12 @@
 - SQiP, 日科技連, ソフトウェア品質シンポジウム, 品質, <br> <https://www.juse.jp/sqip/symposium/>
 - JaSST, Aster, ソフトウェアテストシンポジウム東京, テスト, <br> <http://jasst.jp/>　<br> ![1Q](/1Q.png) ~~2021.9.30 
 
-## 国際論文誌
+## 国際論文誌 (International Journals)
 
-### ソフトウェア工学全般
+### ソフトウェア工学全般 (Software Engineering)
 - TSE, IEEE, IEEE Transactions on Software Engieering, A*, SE全般, <br> <https://www.computer.org/csdl/journal/ts>
 - TOSEM, ACM, ACM Transactions on Software Engineering and Methodology, A*, SE全般, <br> <https://dl.acm.org/journal/tosem>
 - SEKE, International Journal of Software Engineering and Knowledge Engineering, B, SE全般, <br> <https://www.worldscientific.com/worldscinet/ijseke>
-
-### 分野別
 - EMSE, Springer, Journal of Empirical Software Engineering, A, エンピリカル, <br> <https://www.springer.com/journal/10664>
 
 ## 国内論文誌
