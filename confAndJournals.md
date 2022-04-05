@@ -27,8 +27,11 @@
 - RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2022> <br> ![2Q](/2Q.png) ~~2022.2.17 Research, 2022.3.3 Industrial~~
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2022.refsq.org/> 
 
-### 設計、実装 (Desine, Implementation)
+### アーキテクチャ (Architecture)
+- SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  <br> ![1Q](/1Q.png) 2022.5.8 Full
 - ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/> <br> ![2Q](/2Q.png) ~~2021.11.8 Technical, 2021.12.8 In Practice~~
+
+### 設計、実装 (Desine, Implementation)
 - MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022> <br> ![1Q](/1Q.png) 2022.5.11 Full
 - SPLC, International Systems and Software Product Line conference, B, SPL, <br> <https://2022.splc.net/> <br> ![1Q](/1Q.png) 2022.4.8 Research, 2022.6.6 Industry
 
@@ -47,7 +50,7 @@
  <br> ![1Q](/1Q.png) ~~2021.9.15 Regular, 2021.10.10 Industry~~
 - ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> <br> ![1Q](/1Q.png) 2022.5.13 Research (abstruct),  2022.??.?? Industry
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> <https://safecomp22.iks.fraunhofer.de/><br> ![2Q](/2Q.png) ~~2022.2.7 Full~~
-- SRDS, International Symposium on Reliable Distributed Systems, B, 信頼性, <br> <https://srds-conference.org/> <br> ![1Q](/1Q.png) 2022.4.4
+- SRDS, International Symposium on Reliable Distributed Systems, B, 信頼性, <br> <https://srds-conference.org/> <br> ![1Q](/1Q.png) ~~2022.4.4~~
 
 ### テスト、検証 (Testing, Verification)
 - ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta> <br> ![2Q](/2Q.png) ~~2022.1.28 Technical~~
@@ -57,8 +60,6 @@
 ### 形式手法 (Formal Method)
 - ICFEM, International Conference on Formal Engineering Methods, B, 形式手法, <br> <http://maude.ucm.es/ICFEM22/> <br> ![1Q](1Q.png) 2022.4.10
 
-### アーキテクチャ (Architecture)
-- SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  <br> ![1Q](/1Q.png) 2022.5.8 Full
 
 ### OSS
 - OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/> <br> ![1Q](/1Q.png) 2022.5.6 Regular
@@ -88,7 +89,7 @@
 
 ### ソフトウェア工学全般
 - SIGSE, 情報処理学会, ソフトウェア工学研究会, SE全般, <br> <http://www.ipsj.or.jp/sig/se/>
-    - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2021/> <br> ![1Q](/1Q.png) ~~2021.5.17 査読あり 2021.7.19 査読なし
+    - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2022/> <br> ![1Q](/1Q.png) 2022.5.16 査読あり, 2022.7.18 査読なし, 2022.7.18 ポスター論文あり
     - WWS, 情報処理学会, ウィンターワークショップ, SE全般, <br> <http://wws.sigse.jp/2022/>
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> <https://www.ieice.org/iss/ss/>
 - FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/> <br> ![1Q](/1Q.png)通常 2022.7.8, ライブ 2022.9.9
