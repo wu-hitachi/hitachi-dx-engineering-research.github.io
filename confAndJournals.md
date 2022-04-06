@@ -129,7 +129,7 @@
     - 電子情報通信学会, Special Section on Intelligent Transport Systems and Wideband Systems, <br> <https://www.ieice.org/eng/s_issue/cfp/2023_5EA_2.pdf>
     - 電子情報通信学会, Special Section on Formal Approach, <br> <http://web.cc.yamaguchi-u.ac.jp/~shingo/FA2021/index_j.html>
 - 日本ソフトウェア科学会, コンピュータソフトウェア, <br> <https://www.jssst.or.jp/edit/detail/computer_software.html>
-    - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア工学の基礎, <br> <https://fose.jssst.or.jp/papers/>
-    - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア論文,  <br> <https://www.jssst.or.jp/edit_news/detail/id=378>
-    - 日本ソフトウェア科学会, コンピュータソフトウェア：プログラムおよびプログラム言語, <br> <https://www.jssst.or.jp/edit_news/detail/id=390>
+    - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア工学の基礎特集, <br> <https://fose.jssst.or.jp/papers/>  ![2Q](/2Q.png)~~2022.1.15~~
+    - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア論文特集,  <br> <https://www.jssst.or.jp/edit_news/detail/id=378>
+    - 日本ソフトウェア科学会, コンピュータソフトウェア：プログラムおよびプログラム言語特集, <br> <https://www.jssst.or.jp/edit_news/detail/id=390>
 - 自動車技術会, 自動車技術会論文集, <br> <https://www.jsae.or.jp/ronbun/>
