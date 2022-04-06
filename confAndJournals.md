@@ -67,7 +67,7 @@
 ### 応用分野 (Application)
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
 - GCCE, IEEE, Global Conference on Consumer Electronics, コンシューマ, <br> <https://www.ieee-gcce.org/>
-- INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> <https://2022.ieee-indin.org/> <br> ![2Q](/2Q.png) 2022.3.31 Regular
+- INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> <https://2022.ieee-indin.org/> <br> ![2Q](/2Q.png) ~~2022.3.31 Regular~~
 - SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems, A, アダプティブ, <br> <https://conf.researchr.org/home/seams-2022> <br> ![2Q](/2Q.png) ~~2022.1.20 Research, Indudtry~~
 
 ### 人工知能、機械学習工学 (AI, ML)
@@ -82,7 +82,7 @@
 
 ### 関連学会大会
 - 情処全国大会, 情報処理学会, 全国大会, 情報全般, <br> <https://www.ipsj.or.jp/event/taikai/83/> <br> ![2Q](/2Q.png) ~~2021.12.4~~
-- FIT, 情報処理学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2022/> <br> ![1Q](/1Q.png) ~~2022.5.11~~ 
+- FIT, 情報処理学会/電子情報通信学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2022/> <br> ![1Q](/1Q.png) 2022.5.11 
 - 信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> <http://www.ieice-taikai.jp/>  <br> ![2Q](/2Q.png) ~~2021.1.5~~
 - 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> <https://www.jssst.or.jp/taikai/>  <br> ![1Q](/1Q.png) 2022.7.8 登壇申込
 - 自技会全国大会, 自動車技術会, <br> <https://www.jsae.or.jp/2022haru/>
