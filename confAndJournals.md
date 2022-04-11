@@ -103,6 +103,7 @@
 - SIGITS, 情報処理学会, 高度交通システムとスマートコミュニティ, 交通, <br> <http://www.ipsj.or.jp/sig/its/>
 - SQiP, 日科技連, ソフトウェア品質シンポジウム, 品質, <br> <https://www.juse.jp/sqip/symposium/>
 - JaSST, Aster, ソフトウェアテストシンポジウム東京, テスト, <br> <http://jasst.jp/>　<br> ![1Q](/1Q.png) ~~2021.9.30 
+- MLSE夏合宿, ソフトウェア科学会, MLSE夏合宿, 機械学習工学, <br> <https://sites.google.com/view/sig-mlse/%e6%b4%bb%e5%8b%95%e4%ba%88%e5%ae%9a/%e5%a4%8f%e5%90%88%e5%ae%bf2022> <br> ![1Q](/1Q.png) 2022.5.16
 
 ## 国際論文誌 (International Journals)
 
