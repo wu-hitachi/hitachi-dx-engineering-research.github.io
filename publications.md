@@ -60,9 +60,17 @@
   [組込みソフトウェア製品開発のプロジェクト管理に対する遅延相関分析の適用に向けて](http://id.nii.ac.jp/1001/00212599/).
   ソフトウェアエンジニアリングシンポジウム2021.
 
+- 秋下 耀介, 大島 浩資, 若林 昇, 川上 真澄, (2021年6月).
+  [組込みシステムへの派生MBD適用に向けたパラメータ設定方式の検討](https://www.sea.jp/ss2021/download/10-SS2021.pdf).
+  ソフトウェア・シンポジウム2021.
+
 - Phan, T. T. H., Suzuki, Y., Sato, N., & Kawakami, M. (2021, July).
   FLASX: A Fault Localization Assistant System Using KLEE Symbolic Execution for Embedded Software.
   In Proceedings of the 2nd International KLEE Workshop on Symbolic Execution.
+
+- Chow Man Yiu, Mitsuhiro Kitani, (2021, June).
+  [Heterogeneous Sensor Fusion with GMPHD for Environmentally Adaptable Obstacle Detection in Mobility Systems](https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_449/_article/-char/en).
+  Journal of Information Processing, 2021, Volume 29, Pages 449-464.
 
 - 佐藤 直人, 來間 啓伸, 小川 秀人 (2021年3月).
   [最大安全半径の監視によるコンセプトドリフト検知可能性の評価](https://www.ieice.org/ken/paper/202103039CDe/).
