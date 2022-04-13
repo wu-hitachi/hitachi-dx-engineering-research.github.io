@@ -120,6 +120,10 @@
   [演繹的開発手法と帰納的開発手法の結合に基づく機械学習適用ソフトウェアの形式検証とテスト](http://id.nii.ac.jp/1001/00203068/).
   情報処理学会論文誌, 61 (2), pp. 407-416.
 
+- 川上真澄, 堀旭宏 (2020年).
+  [もっと奥へ、深く進んで視る！ソフトウェア構造をVRで可視化](https://www.hitachi.co.jp/rd/sc/story/vr/index.html).
+  日立Webページ.
+
 - Tsuchiya, R., Nishikawa, K., Washizaki, H., Fukazawa, Y., Shinohara, Y., Oshima, K., & Mibe, R. (2019).
   [Recovering Transitive Traceability Links among Various Software Artifacts for Developers](https://doi.org/10.1587/transinf.2018EDP7331).
   IEICE TRANSACTIONS on Information and Systems, 102 (9), pp. 1750-1760.
@@ -131,7 +135,11 @@
 - 堀 旭宏, 市井 誠, 川上 真澄 (2019年12月).
   ソフトウェア開発プロジェクトの完了時期予測のためのチケット自動修正方法.
   第26回ソフトウェア工学の基礎ワークショップ (FOSE2019).
-
+  
+- 川上真澄, 堀旭宏 (2019年10月).
+  [大規模で複雑なソフトウェアの構造をVR空間で可視化する技術を開発](https://www.hitachi.co.jp/rd/news/topics/2019/1015a.html).
+  日立Webページ.
+  
 - Hori, A., Kawakami, M., & Ichii, M. (2019, September).
   [CodeHouse: VR Code Visualization Tool](https://doi.org/10.1109/VISSOFT.2019.00018).
   In Proceedings of 2019 Working Conference on Software Visualization (VISSOFT), pp. 83-87. IEEE.
