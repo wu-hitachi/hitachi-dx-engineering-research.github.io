@@ -34,7 +34,7 @@
 
 - Shimbara, D., Saeki, M., Hayashi, S., & Haugen, Ø. (2021).
   [Handling Quantity in Variability Models for System-of-Systems](https://doi.org/10.1142/S0218194021500200).
-  International Journal of Software Engineering and Knowledge Engineering, 31 (5), pp. 693-724.
+  In Proceedings of International Journal of Software Engineering and Knowledge Engineering, 31 (5), pp. 693-724.
 
 - 左近 健太 (2021年11月).
   ゾーン分析に基づくテストケース優先度付け手法.
@@ -51,6 +51,7 @@
 - 九間 哲士, 肥後 芳樹, 柗本 真佑, 楠本 真二, 安田 和矢 (2021年9月).
   [自動修正適合性：新しいソフトウェア品質指標とその計測](http://id.nii.ac.jp/1001/00212579/).
   ソフトウェアエンジニアリングシンポジウム2021.
+  **🎖研究奨励賞**
 
 - 來間 啓伸, 小川 秀人, 佐藤 直人, 明神 智之 (2021年9月).
   [XGBoost法により学習させたAIモデルのふるまいの形式検証](http://id.nii.ac.jp/1001/00212590/).
@@ -135,6 +136,7 @@
 - 堀 旭宏, 市井 誠, 川上 真澄 (2019年12月).
   ソフトウェア開発プロジェクトの完了時期予測のためのチケット自動修正方法.
   第26回ソフトウェア工学の基礎ワークショップ (FOSE2019).
+  **🎖貢献賞(フルペーパー部門) **
   
 - 川上真澄, 堀旭宏 (2019年10月).
   [大規模で複雑なソフトウェアの構造をVR空間で可視化する技術を開発](https://www.hitachi.co.jp/rd/news/topics/2019/1015a.html).
