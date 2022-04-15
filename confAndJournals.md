@@ -13,7 +13,7 @@
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) 2022.4.29  Res2arch, 2022.5.27 Industry)
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) 2022.4.25 Technical abstact, 2022.8.13 Industry Forum
 - COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
-- APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![1Q](/1Q.png) Technical, SEIP
+- APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![1Q](/1Q.png) 2022.6.29 Technical (Abstract), 2022.9.5 Software Engineering in Practice
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke22.html> <br> ![2Q](/2Q.png) ~~2022.3.15 Paper~~
 - SAC, ACM/SIGAPP, Symposium on Applied Computing, B, 計算・ソフト全般, <br> <http://www.sigapp.org/sac/sac2022/> <br> ![2Q](/2Q.png) 2022.10.31 Regular
 
