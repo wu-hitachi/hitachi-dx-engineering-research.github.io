@@ -43,6 +43,7 @@
 - SANER, IEEE, International Conference on Software Analysis､ Evolution､ and Reengineering, A, 分析、進化, <br> <https://saner2022.uom.gr/> <br> ![2Q](/2Q.png) ~~2021.10.14 Research, 2021.11.11 Industrial~~
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/> <br> ![2Q](/2Q.png) ~~2022.1.4 Full, 2022.3.15 Short~~
+- SCAM, IEEE, International Working Conference on Source Code Analysis and Manipulation, C, コード解析, <http://www.ieee-scam.org/2022/> <br> ![1Q](/1Q.png) 2022.6.17 Research Abstract, 2022.7.1 Engineering Abstract
 - PROMISE, International Conference on Predictive Models and Data Analytics in Software Engineering, 予測モデル・データ解析, <br> <https://promiseconf.github.io/2022/> <br> ![1Q](/1Q.png) 2022.6.27
 
 ### 品質、信頼性、安全性 (Quality, Reliability, Safety)
