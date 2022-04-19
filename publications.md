@@ -93,6 +93,16 @@
   [Guidelines for Quality Assurance of Machine Learning-Based Artificial Intelligence](https://doi.org/10.1142/S0218194020400227).
   International Journal of Software Engineering and Knowledge Engineering, 30 (11n12), pp. 1589-1606.
 
+- 安田 和矢，伊藤 信治，中村 知倫，原田 真雄, 肥後 芳樹 (2020年11月).
+  システムの特徴を踏まえた素材コード片の生成による自動プログラム修正手法.
+  第27回ソフトウェア工学の基礎ワークショップ(FOSE2020).
+  **🎖貢献賞(フルペーパー部門)** **🎖IEEE Computer Society Japan Chapter FOSE Young Researcher Award**
+
+- 曾我 遼，小磯 (横山) 由貴，前岡 淳，鹿糠 秀行 (2020年11月).
+  プログラム理解を行単位で測るための生体計測系の構築.
+  第27回ソフトウェア工学の基礎ワークショップ(FOSE2020).
+  **🎖ライブ論文ポスター賞**
+
 - 楊 夢龍, 小山 恭平, 新原 敦介 (2020年11月).
   GUIソフトウェア開発における性能向けCI環境CARPの開発.
   第27回ソフトウェア工学の基礎ワークショップ (FOSE2020).
