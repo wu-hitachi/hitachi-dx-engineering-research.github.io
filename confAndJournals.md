@@ -10,8 +10,8 @@
 ### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> <br> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) 2022.5.19 Industry
-- ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) 2022.4.29  Res2arch, 2022.5.27 Industry)
-- ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) 2022.4.25 Technical abstact, 2022.8.13 Industry Forum
+- ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) ~~2022.4.29  Research~~, 2022.5.27 Industry)
+- ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) ~~2022.4.25 Technical abstact~~, 2022.8.13 Industry Forum
 - COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
 - APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![1Q](/1Q.png) 2022.6.29 Technical (Abstract), 2022.9.5 Software Engineering in Practice
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke22.html> <br> ![2Q](/2Q.png) ~~2022.3.15 Paper~~
@@ -29,7 +29,7 @@
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2022.refsq.org/> 
 
 ### アーキテクチャ (Architecture)
-- SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  <br> ![1Q](/1Q.png) 2022.5.8 Full
+- SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  <br> ![1Q](/1Q.png) ~~2022.5.8 Full~~
 - ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/> <br> ![2Q](/2Q.png) ~~2021.11.8 Technical, 2021.12.8 In Practice~~
 
 ### 設計、実装 (Desine, Implementation)
@@ -64,7 +64,7 @@
 
 
 ### OSS
-- OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/> <br> ![1Q](/1Q.png) 2022.5.6 Regular
+- OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/> <br> ![1Q](/1Q.png) ~~2022.5.6 Regular~~
 
 ### 応用分野 (Application)
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
@@ -76,8 +76,8 @@
 - AAAI, AAAI Conference, A*, AI全般, <br> <https://aaai.org/Conferences/AAAI-22/> <br> ![1Q](/1Q.png) (~~2021.8.30 Paper~~)
 - IJCAI, International Joint Conferences on Artificial Intelligence, A*, AI全般, <br> <https://ijcai-22.org/> <br> ![2Q](/2Q.png) ~~2021.12.30~~
 - ICAICA, IEEE, International Conference on Artificial Intelligence and Computer Applications, AI全般, <br> <http://icaica.org/> <br> ![2Q](/2Q.png) ~~2022.1.7 Paper~~
-- WAISE, International Workshop on Artificial Intelligence Safety Engineering, AI安全性, <br> <https://www.waise.org/>　<br> ![1Q](/1Q.png) 2022.5.6
-- AITEST, IEEE, International Conference on Artificial Intelligence Testing, AIテスト, <br> <http://ieeetests.com/> <br> ![1Q](/1Q.png) 2022.5.8
+- WAISE, International Workshop on Artificial Intelligence Safety Engineering, AI安全性, <br> <https://www.waise.org/>　<br> ![1Q](/1Q.png) ~~2022.5.6~~
+- AITEST, IEEE, International Conference on Artificial Intelligence Testing, AIテスト, <br> <http://ieeetests.com/> <br> ![1Q](/1Q.png) ~~2022.5.8~~
 - iMLSE, 日本ソフトウェア科学会, International Workshop on Machine Learning Systems Engineering, 機械学習工学, <br> <https://sig-mlse.wixsite.com/imlse2021>
 
 ## 国内会議
