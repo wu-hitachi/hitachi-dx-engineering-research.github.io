@@ -10,7 +10,7 @@
 ### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> <br> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) 2022.5.19 Industry
-- ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) ~~2022.4.29  Research~~, 2022.5.27 Industry)
+- ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) ~~2022.4.29  Research~~, ~~2022.5.27 Industry~~)
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) ~~2022.4.25 Technical abstact~~, 2022.8.13 Industry Forum
 - COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
 - APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![1Q](/1Q.png) 2022.6.29 Technical (Abstract), 2022.9.5 Software Engineering in Practice
@@ -33,7 +33,7 @@
 - ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/> <br> ![2Q](/2Q.png) ~~2021.11.8 Technical, 2021.12.8 In Practice~~
 
 ### 設計、実装 (Desine, Implementation)
-- MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022> <br> ![1Q](/1Q.png) 2022.5.11 Full
+- MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022> <br> ![1Q](/1Q.png) ~~2022.5.11 Full~~
 - SPLC, International Systems and Software Product Line conference, B, SPL, <br> <https://2022.splc.net/> <br> ![1Q](/1Q.png) ~~2022.4.8 Research~~, 2022.6.6 Industry
 
 ### コード生成 (Code Generation)
@@ -50,7 +50,7 @@
 ### 品質、信頼性、安全性 (Quality, Reliability, Safety)
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs21.techconf.org/>
  <br> ![1Q](/1Q.png) ~~2021.9.15 Regular, 2021.10.10 Industry~~
-- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> <br> ![1Q](/1Q.png) 2022.5.13 Research (abstruct),  2022.7.30 Industry
+- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> <br> ![1Q](/1Q.png) ~~2022.5.13 Research (abstruct),~~  2022.7.30 Industry
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> <https://safecomp22.iks.fraunhofer.de/><br> ![2Q](/2Q.png) ~~2022.2.7 Full~~
 - SRDS, International Symposium on Reliable Distributed Systems, B, 信頼性, <br> <https://srds-conference.org/> <br> ![1Q](/1Q.png) ~~2022.4.4~~
 
@@ -105,7 +105,7 @@
 - SIGITS, 情報処理学会, 高度交通システムとスマートコミュニティ, 交通, <br> <http://www.ipsj.or.jp/sig/its/>
 - SQiP, 日科技連, ソフトウェア品質シンポジウム, 品質, <br> <https://www.juse.jp/sqip/symposium/>
 - JaSST, Aster, ソフトウェアテストシンポジウム東京, テスト, <br> <http://jasst.jp/>　<br> ![1Q](/1Q.png) ~~2021.9.30 
-- MLSE夏合宿, ソフトウェア科学会, MLSE夏合宿, 機械学習工学, <br> <https://sites.google.com/view/sig-mlse/%e6%b4%bb%e5%8b%95%e4%ba%88%e5%ae%9a/%e5%a4%8f%e5%90%88%e5%ae%bf2022> <br> ![1Q](/1Q.png) 2022.5.16
+- MLSE夏合宿, ソフトウェア科学会, MLSE夏合宿, 機械学習工学, <br> <https://sites.google.com/view/sig-mlse/%e6%b4%bb%e5%8b%95%e4%ba%88%e5%ae%9a/%e5%a4%8f%e5%90%88%e5%ae%bf2022> <br> ![1Q](/1Q.png) ~~2022.5.16~~
 
 ## 国際論文誌 (International Journals)
 
@@ -118,7 +118,7 @@
 ## 国内論文誌
 - 情報処理学会, 論文誌 / Journal of Information Processing,  <br> <https://www.ipsj.or.jp/journal/index.html>
     - SE, 情報処理学会, 論文誌：ソフトウェア工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-L.html> <br> ![1Q](/1Q.png) 2022.8.1
-    - EMB, 情報処理学会, 論文誌：組込システム工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-M.html> <br> ![1Q](/1Q.png) 2022.5.16
+    - EMB, 情報処理学会, 論文誌：組込システム工学特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-M.html> <br> ![1Q](/1Q.png) ~~2022.5.16~~
     - ITS, 情報処理学会, 論文誌：高度交通特集, <br> <https://www.ipsj.or.jp/journal/cfp/22-E.html> <br> ![1Q](/1Q.png) ~~2021.5.24~~
     - CDS, 情報処理学会, トランザクション：コンピュータ・デバイス＆システム, <br> <https://www.ipsj.or.jp/trans/cds.html>
     - PRO, 情報処理学会, トランザクション：プログラミング, <br> <https://sigpro.ipsj.or.jp/sigtra4/>
