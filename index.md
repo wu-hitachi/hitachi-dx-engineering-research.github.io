@@ -1,5 +1,6 @@
-\[ [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) 
-| [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html)\]
+\[ [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) \]
+
+\[ [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html)\]
 
 ---
 
