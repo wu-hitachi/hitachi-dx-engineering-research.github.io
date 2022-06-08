@@ -1,3 +1,8 @@
+[日立製作所](https://www.hitachi.co.jp/), [研究開発](https://www.hitachi.co.jp/rd/index.html) | 
+[Hitachi, Ltd.](https://www.hitachi.com/), [R&D](https://www.hitachi.com/rd/index.html)
+
+---
+
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
 デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
 
