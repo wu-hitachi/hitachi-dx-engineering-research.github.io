@@ -103,7 +103,7 @@
 
 - 後藤知明，嶋田匡，沖津潤，堤大輔，足立哲朗　(2020年12月).
   [組立・加工現場向け生産性・品質向上ソリューション製造現場の4Mデータ分析を活用した顧客課題の解決](https://www.hitachihyoron.com/jp/archive/2020s/2020/06/06b04/index.html).
-  日立評論　2020年2020 vol.102 No.6.
+  日立評論　2020 vol.102 No.6.
 
 - 馬場 貴成, 長岡 靖子, 小川 秀人 (2020年).
   [Society 5.0時代の価値協創型DXの実現に向けて ～Lumadaへの取り組み～](http://id.nii.ac.jp/1001/00207225/).
@@ -162,10 +162,6 @@
 - Sato, N., Kuruma, H., & Ogawa, H. (2020年9月)
   [Unsupposable Test-data generation for Machine-learned Software](http://id.nii.ac.jp/1001/00206646/).
   ソフトウェアエンジニアリングシンポジウム2020.
-
-- 伊藤 蓮，伊川 宏美，山形 知行，菅原 禎生， (2020年6月).
-  [組立順序生成システムの刷新によるクラウド上での並列分散処理の実現](https://www.hitachihyoron.com/jp/archive/2020s/2020/06/06b04/index.html).
-  電気学会C部門システム研究会
 
 - 伊川宏美, 山﨑晃, 本村憲一朗, 志村昭俊, 小泉稔（2020年6月),
   [段階的なシステム刷新を狙いとしたシステム構造の再形成方式](https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-IS20026-PDF/).
