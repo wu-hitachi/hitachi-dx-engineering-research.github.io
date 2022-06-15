@@ -23,6 +23,10 @@
   **🎖xxx賞**
 
 -->
+- 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 (2022年5月).
+  [組込みシステム向け障害解析環境の効率改善](http://id.nii.ac.jp/1001/00218099/).
+  情報処理学会論文誌コンシューマ・デバイス＆システム（CDS）,12(2),27-37, pp.2186-5728.
+
 - 伊藤 蓮，伊川 宏美，山形 知行，菅原 禎生(2022年6月).
   組立順序生成システムの刷新によるクラウド上での並列分散処理の実現，
   電気学会C部門システム研究会.
@@ -30,7 +34,11 @@
 - 小川秀人 (2022年4月).
   [AI／機械学習搭載システムの品質ガイドライン](https://doi.org/10.7210/jrsj.40.187).
   日本ロボット学会誌, 2022年40 巻3 号 pp. 187-190.
-
+  
+- 堀田 勇樹, Gabriel Daniel, 稲葉 龍, 児島 隆生, 早瀬 茂規 (2022年3月).
+  [移動障害物を考慮した軌道生成を可能とするリスクマップ](http://id.nii.ac.jp/1001/00216723/).
+  情報処理学会研究報告高度交通システムとスマートコミュニティ（ITS）,2022-ITS-88(9),1-8, pp.2188-8965
+  
 - 下村 真帆, 古家 直樹, 小坂 忠義, 渡邊 高志 (2022年1月).
   [ブロックチェーン利活用による下請配送業者への対価支払迅速化システムの開発](http://id.nii.ac.jp/1001/00215837/)
   第33回CDS研究発表会.
@@ -76,6 +84,14 @@
   [組込みソフトウェア製品開発のプロジェクト管理に対する遅延相関分析の適用に向けて](http://id.nii.ac.jp/1001/00212599/).
   ソフトウェアエンジニアリングシンポジウム2021.
 
+- 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 (2021年8月).
+  [組込みシステム向け障害解析環境の効率改善](http://id.nii.ac.jp/1001/00212370/).
+  情報処理学会研究報告コンシューマ・デバイス＆システム（CDS）,2021-CDS-32(5),1-8, pp.2188-8604
+
+- ロボット革命・産業IoTイニシアティブ協議会 (2021年7月).
+  [デジタル経済圏の胎動：欧州のデータ連携戦略](https://www.jmfrri.gr.jp/followup/2114/).
+  ※伊川宏美, 佐藤茜, 山田仁志夫が編集委員として参画.
+
 - Furuya, N., Komoda, N., & Fujiwara, T., (2021, July).
   Improvement of Area Priority Setting of Sequential Processing Storage Location Recommendation Technology Considering Stock Storage Period.
   in Conference Abstracts of International Conference on Production Research, p.1.
@@ -92,6 +108,10 @@
 - Chow Man Yiu, Mitsuhiro Kitani, (2021, June).
   [Heterogeneous Sensor Fusion with GMPHD for Environmentally Adaptable Obstacle Detection in Mobility Systems](https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_449/_article/-char/en).
   Journal of Information Processing, 2021, Volume 29, Pages 449-464.
+
+- 近藤 明宏，松本 貴士 (2021年3月).
+  [複数車種の運行設計領域を管理する管制センタアーキテクチャの検討](http://id.nii.ac.jp/1001/00210505/).
+  情報処理学会研究報告情報基礎とアクセス技術（IFAT）,2021-IFAT-142(11),1-8, pp.2188-8884.
 
 - 小倉 孝裕, 木内 敦規, 齊藤 元伸, Gupta Chetan (2021年3月).
   [ニューノーマル時代の製造流通業を支えるバリューチェーンコーディネーションサービス](https://www.hitachihyoron.com/jp/archive/2020s/2021/02/02a04/index.html).
@@ -167,10 +187,13 @@
   [段階的なシステム刷新を狙いとしたシステム構造の再形成方式](https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-IS20026-PDF/).
   電気学会 第82回情報システム研究会.
 
-
 - 市井 誠, 川上 真澄 (2020年4月).
   [リポジトリマイニングに基づくアンチパターン検出手法](http://doi.org/10.20729/00204242).
   情報処理学会論文誌, 61 (4), pp. 908-917.
+
+- 堀田 勇樹, 稲葉 龍, 豊田 英弘 (2020年3月).
+  [一般道自動運転に向けたリスク予測に基づく走行制御技術の開発](https://tech.jsae.or.jp/paperinfo/ja/content/jk202003.18/).
+  自動車技術会誌「自動車技術」, Vol.74, No.3, pp.100-101.
 
 - 松本紀子, 大塚康平, 田野俊一, (2020年3月).
   [物流ARピッキングシステムにおけるHMD表示画角の影響の分析](https://www.ieice.org/ken/paper/2020030621Wl/).
@@ -217,7 +240,7 @@
 - 古家 直樹，永原 聡士，末光 一成，植木 隆雄，荒 宏視，嶋津 泰毅 (2019年7月).
   [在庫格納期間を加味した逐次処理型の倉庫内格納先推奨技術の開発](https://doi.org/10.11221/jima.70.81). 
   日本経営工学会論文誌, Vol.70, No.2, pp.82-93.
-  **🎖日本経営工学会2019論文賞 **
+  **🎖日本経営工学会2019論文賞**
   
 - 松本紀子, 小坂忠義, 中島洋平, 櫻田崇治, 尾崎友哉, 田野 俊一 (2019年5月).
   [物流における拡張現実技術を用いたピッキング作業支援システムの開発](http://id.nii.ac.jp/1001/00195819/).
