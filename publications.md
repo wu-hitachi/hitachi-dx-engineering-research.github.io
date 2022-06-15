@@ -220,7 +220,7 @@
 - 堀 旭宏, 市井 誠, 川上 真澄 (2019年12月).
   ソフトウェア開発プロジェクトの完了時期予測のためのチケット自動修正方法.
   第26回ソフトウェア工学の基礎ワークショップ (FOSE2019).
-  **🎖貢献賞(フルペーパー部門) **
+  **🎖貢献賞(フルペーパー部門)**
   
 - Matsumoto, T., Kosaka, T., Sakurada, T., Nakajima, Y., Tano, S. (2019, October).
   [Picking Work using AR Instructions in Warehouses](https://doi.org/10.1109/GCCE46687.2019.9015334).
