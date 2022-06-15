@@ -260,7 +260,7 @@
   arXiv preprint arXiv:1811.03752.
 
 - Sato, N., Kuruma, H., Nakagawa, Y., & Ogawa, H. (2018, December).
-  Simplified Influence Evaluation of Additional Training on Deep Neural Networks.
+  [Simplified Influence Evaluation of Additional Training on Deep Neural Networks](http://research.nii.ac.jp/iMLSE/iMLSE_2018_paper_1.pdf).
   In Proceedings of the 1st International Workshop on Machine Learning Systems Engineerning (iMLSE).
 
 - Ohbayashi, H., Kanuka, H., & Okamoto, C. (2018, December).
