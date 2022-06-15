@@ -9,7 +9,7 @@
 
 ### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
-- ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> <br> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) 2022.5.19 Industry
+- ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> <br> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) ~~2022.5.19 Industry~~
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) ~~2022.4.29  Research~~, ~~2022.5.27 Industry~~)
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) ~~2022.4.25 Technical abstact~~, 2022.8.13 Industry Forum
 - COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
@@ -37,7 +37,7 @@
 
 ### 設計、実装 (Desine, Implementation)
 - MODELS, ACM/IEEE, International Conference on Model Driven Engineering Languages and Systems, A, モデル駆動, <br> <https://conf.researchr.org/home/models-2022> <br> ![1Q](/1Q.png) ~~2022.5.11 Full~~
-- SPLC, International Systems and Software Product Line conference, B, SPL, <br> <https://2022.splc.net/> <br> ![1Q](/1Q.png) ~~2022.4.8 Research~~, 2022.6.6 Industry
+- SPLC, International Systems and Software Product Line conference, B, SPL, <br> <https://2022.splc.net/> <br> ![1Q](/1Q.png) ~~2022.4.8 Research~~, ~~2022.6.6 Industry~~
 
 ### コード生成 (Code Generation)
 - GPCE, ACM/SIGPLAN, International Conference on Generative Programming: Concepts & Experiences, B, 言語, <br> https://2022.splashcon.org/home/gpce-2022, <br>  ![1Q](/1Q.png) 2022.8.8
@@ -87,14 +87,14 @@
 
 ### 関連学会大会
 - 情処全国大会, 情報処理学会, 全国大会, 情報全般, <br> <https://www.ipsj.or.jp/event/taikai/83/> <br> ![2Q](/2Q.png) ~~2021.12.4~~
-- FIT, 情報処理学会/電子情報通信学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2022/> <br> ![1Q](/1Q.png) 2022.5.11 申込 2022.6.24 原稿
+- FIT, 情報処理学会/電子情報通信学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2022/> <br> ![1Q](/1Q.png) ~~2022.5.11 申込 2022.6.24 原稿~~
 - 信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> <http://www.ieice-taikai.jp/>  <br> ![2Q](/2Q.png) ~~2021.1.5~~
 - 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> <https://www.jssst.or.jp/taikai/>  <br> ![1Q](/1Q.png) 2022.7.8 登壇申込
 - 自技会全国大会, 自動車技術会, <br> <https://www.jsae.or.jp/2022haru/>
 
 ### ソフトウェア工学全般
 - SIGSE, 情報処理学会, ソフトウェア工学研究会, SE全般, <br> <http://www.ipsj.or.jp/sig/se/>
-    - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2022/> <br> ![1Q](/1Q.png) 2022.5.16 査読あり, 2022.7.18 査読なし, 2022.7.18 ポスター論文あり
+    - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2022/> <br> ![1Q](/1Q.png) ~~2022.5.16 査読あり~~, 2022.7.18 査読なし, 2022.7.18 ポスター論文あり
     - WWS, 情報処理学会, ウィンターワークショップ, SE全般, <br> <http://wws.sigse.jp/2022/>
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> <https://www.ieice.org/iss/ss/>
 - FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/> <br> ![1Q](/1Q.png)通常 2022.7.8, ライブ 2022.9.9
