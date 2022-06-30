@@ -7,12 +7,15 @@
 
 ## 国際会議 (International Conferences)
 
+### ソフトウェア全般 (Software Technology)
+- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, ソフトウェア全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
+- STC, IEEE, Software Technology Conference, -,ソフトウェア全般, <br> <https://www.ieee-stc.org/> <br> ![1Q](/1Q.png) 2022.7.15 
+
 ### ソフトウェア工学全般 (Software Engineering)
 - ICSE, IEEE/ACM, International Conference on Software Engineering, A*, SE全般 , <br> <https://conf.researchr.org/home/icse-2022> <br> <https://conf.researchr.org/home/icse-2023> <br> ![1Q](/1Q.png) 2022.9.1 Technical Track ![2Q](/2Q.png) 2022.10.21 SEIP
 - ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br> <https://2022.esec-fse.org/> <br> <https://conf.researchr.org/home/fse-2023> <br> ![2Q](/2Q.png) ~~2022.3.10~~ Research  ![1Q](/1Q.png) ~~2022.5.19 Industry~~
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2022> <br> ![1Q](/1Q.png) ~~2022.4.29  Research~~, ~~2022.5.27 Industry~~
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/series/esem> <br> ![1Q](/1Q.png) ~~2022.4.25 Technical abstact~~, 2022.8.13 Industry Forum
-- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, SE全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
 - APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![1Q](/1Q.png) 2022.6.29 Technical (Abstract), 2022.9.5 Software Engineering in Practice
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke22.html> <br> ![2Q](/2Q.png) ~~2022.3.15 Paper~~
 - SAC, ACM/SIGAPP, Symposium on Applied Computing, B, 計算・ソフト全般, <br> <http://www.sigapp.org/sac/sac2022/> <br> ![2Q](/2Q.png) 2022.10.31 Regular
@@ -48,7 +51,7 @@
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/> <br> ![2Q](/2Q.png) ~~2022.1.4 Full, 2022.3.15 Short~~
 - SCAM, IEEE, International Working Conference on Source Code Analysis and Manipulation, C, コード解析, <http://www.ieee-scam.org/2022/> <br> ![1Q](/1Q.png) ~~2022.6.17 Research Abstract,~~ 2022.7.1 Engineering Abstract
-- PROMISE, International Conference on Predictive Models and Data Analytics in Software Engineering, 予測モデル・データ解析, <br> <https://promiseconf.github.io/2022/> <br> ![1Q](/1Q.png) 2022.6.27
+- PROMISE, International Conference on Predictive Models and Data Analytics in Software Engineering, 予測モデル・データ解析, <br> <https://promiseconf.github.io/2022/> <br> ![1Q](/1Q.png) ~~2022.6.27~~
 
 ### 品質、信頼性、安全性 (Quality, Reliability, Safety)
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs21.techconf.org/>
