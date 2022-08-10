@@ -23,13 +23,13 @@
   **🎖xxx賞**
 
 -->
-- 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 (2022年5月).
-  [組込みシステム向け障害解析環境の効率改善](http://id.nii.ac.jp/1001/00218099/).
-  情報処理学会論文誌コンシューマ・デバイス＆システム（CDS）,12(2),27-37, pp.2186-5728.
-
 - 伊藤 蓮，伊川 宏美，山形 知行，菅原 禎生(2022年6月).
   [組立順序生成システムの刷新によるクラウド上での並列分散処理の実現](https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-20220618C01101-003-PDF/)，
   電気学会C部門システム研究会.
+
+- 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 (2022年5月).
+  [組込みシステム向け障害解析環境の効率改善](http://id.nii.ac.jp/1001/00218099/).
+  情報処理学会論文誌コンシューマ・デバイス＆システム（CDS）,12(2),27-37, pp.2186-5728.
 
 - 小川秀人 (2022年4月).
   [AI／機械学習搭載システムの品質ガイドライン](https://doi.org/10.7210/jrsj.40.187).
@@ -97,7 +97,6 @@
 - Furuya, N., Komoda, N., & Fujiwara, T., (2021, July).
   Improvement of Area Priority Setting of Sequential Processing Storage Location Recommendation Technology Considering Stock Storage Period.
   in Conference Abstracts of International Conference on Production Research, p.1.
-
 
 - 秋下 耀介, 大島 浩資, 若林 昇, 川上 真澄, (2021年6月).
   [組込みシステムへの派生MBD適用に向けたパラメータ設定方式の検討](https://www.sea.jp/ss2021/download/10-SS2021.pdf).
@@ -226,7 +225,6 @@
   [Picking Work using AR Instructions in Warehouses](https://doi.org/10.1109/GCCE46687.2019.9015334).
   IEEE 8th Global Conference on Consumer Electronics (GCCE), pp31-34.
 
-  
 - 川上真澄, 堀旭宏 (2019年10月).
   [大規模で複雑なソフトウェアの構造をVR空間で可視化する技術を開発](https://www.hitachi.co.jp/rd/news/topics/2019/1015a.html).
   日立Webページ.
@@ -240,7 +238,7 @@
   SICE Annual Conference 2019 (SICE 2019), pp.1-4,2019
 
 - 古家 直樹，永原 聡士，末光 一成，植木 隆雄，荒 宏視，嶋津 泰毅 (2019年7月).
-  [在庫格納期間を加味した逐次処理型の倉庫内格納先推奨技術の開発](https://doi.org/10.11221/jima.70.81). 
+  [在庫格納期間を加味した逐次処理型の倉庫内格納先推奨技術の開発](https://doi.org/10.11221/jima.70.81).
   日本経営工学会論文誌, Vol.70, No.2, pp.82-93.
   **🎖日本経営工学会2019論文賞**
   
