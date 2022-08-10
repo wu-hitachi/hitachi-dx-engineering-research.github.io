@@ -94,7 +94,7 @@
 
 ### 人工知能、機械学習工学 (AI, ML)
 
-- AAAI, AAAI Conference, A*, AI全般, <br> <https://aaai.org/Conferences/AAAI-23/> <br> ![1Q](/1Q.png) 2022.8.8 Abstract
+- AAAI, AAAI Conference, A*, AI全般, <br> <https://aaai.org/Conferences/AAAI-23/> <br> ![1Q](/1Q.png) ~~2022.8.8 Abstract~~
 - IJCAI, International Joint Conferences on Artificial Intelligence, A*, AI全般, <br> <https://ijcai-22.org/> <br> ![2Q](/2Q.png) ~~2021.12.30~~
 - ICAICA, IEEE, International Conference on Artificial Intelligence and Computer Applications, AI全般, <br> <http://icaica.org/> <br> ![2Q](/2Q.png) ~~2022.1.7 Paper~~
 - WAISE, International Workshop on Artificial Intelligence Safety Engineering, AI安全性, <br> <https://www.waise.org/>　<br> ![1Q](/1Q.png) ~~2022.5.6~~
