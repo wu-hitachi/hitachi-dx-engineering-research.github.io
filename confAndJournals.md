@@ -9,7 +9,7 @@
 
 ### ソフトウェア全般 (Software Technology)
 
-- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, ソフトウェア全般, <br> <https://ieeecompsac.computer.org/2022/> <br> ![2Q](/2Q.png) ~~2022.2.18 Main~~
+- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, ソフトウェア全般, <br> <https://ieeecompsac.computer.org/2023/> <br> ![2Q](/2Q.png) 2023.1.15 Main conference/Symposium papers
 - STC, IEEE, Software Technology Conference, -,ソフトウェア全般, <br> <https://www.ieee-stc.org/> <br> ![1Q](/1Q.png) ~~2022.7.15~~
 
 ### ソフトウェア工学全般 (Software Engineering)
@@ -37,13 +37,13 @@
 
 ### 要求 (Requirement)
 
-- RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2022> <br> ![2Q](/2Q.png) ~~2022.2.17 Research, 2022.3.3 Industrial~~
+- RE, IEEE, International Requirements Engineering Conference, A, 要求 <br> <https://conf.researchr.org/home/RE-2023> <br> ![2Q](/2Q.png) 2023.3.10 Research Abstract, 2022.3.24 Industrial Abstract
 - REFSQ, International Working Conference on Requirement Engineering: Foundation for Software Quality, B, 要求, <br> <https://2023.refsq.org/> <br> ![2Q](/2Q.png) 2022.11.11 Research Paper Abstact
 
 ### アーキテクチャ (Architecture)
 
 - SOCA, IEEE, International Conference on Service-Oriented Computing and Applications, C, SOA, <br> <http://ieeesose.com/>  <br> ![1Q](/1Q.png) ~~2022.5.8 Full~~
-- ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/> <br> ![2Q](/2Q.png) ~~2021.11.8 Technical, 2021.12.8 In Practice~~
+- ICSA, IEEE, International Conference on Software Architecture, A, アーキテクチャ, <br> <https://icsa-conferences.org/2023/> <br> ![2Q](/2Q.png) 2022.10.28 Technical
 
 ### 設計、実装 (Desine, Implementation)
 
@@ -60,6 +60,7 @@
 - SANER, IEEE, International Conference on Software Analysis､ Evolution､ and Reengineering, A, 分析、進化, <br> <https://saner2023.must.edu.mo/> <br> ![2Q](/2Q.png) 2022.10.14 Research Abstract, 2022.??.?? Industrial
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/> <br> ![2Q](/2Q.png) ~~2022.1.4 Full, 2022.3.15 Short~~
+- ICDAR, IAPR, International Conference on Document Analysis and Recognition, , 文書解析, <br> <https://icdar2023.org/> <br> ![2Q](/2Q.png) 2022.10.21 Journal track, 2023.1.15 Conference paper
 - SCAM, IEEE, International Working Conference on Source Code Analysis and Manipulation, C, コード解析, <http://www.ieee-scam.org/2022/> <br> ![1Q](/1Q.png) ~~2022.6.17 Research Abstract,~~ ~~2022.7.1 Engineering Abstract~~
 - PROMISE, International Conference on Predictive Models and Data Analytics in Software Engineering, 予測モデル・データ解析, <br> <https://promiseconf.github.io/2022/> <br> ![1Q](/1Q.png) ~~2022.6.27~~
 
