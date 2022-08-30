@@ -70,3 +70,5 @@ Efficient process and method to develop safety-critical systems.
 - Fault injection
 - Log-based anomaly detection
 - Keyword-driven testing
+
+<embed src="https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf" type="application/pdf /> 
