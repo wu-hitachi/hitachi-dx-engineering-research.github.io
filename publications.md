@@ -72,6 +72,10 @@
   [社会システムへのトラストを再構築する](https://linkingsociety.hitachi.co.jp/_ct/17512841).
   協創の森ウェビナー第6回「社会システムのトラスト」.
 
+- 宮崎 邦彦，廣井 和重，小林 悠一,Giulio Moffa，Eduardo Fernandez-Moral，Wisinee Wisetjindawat (2021年11月).
+  [デジタル技術が切り拓く新たなモビリティサービス](https://www.hitachihyoron.com/jp/archive/2020s/2021/05/05c03/index.html).
+  日立評論　2021年 2021 vol.103 No.5.
+
 - 佐藤 直人, 小川 秀人, 來間 啓伸, 明神 智之 (2021年6月).
   [AIソフトウェアのテスト 答のない答え合わせ［4つの手法］](http://www2.ric.co.jp/create/book/contents/book_1291.html).
   リックテレコム.
@@ -320,6 +324,10 @@
 - Ichii, M., Shimbara, D., Suzuki, Y., & Ogawa, H. (2016, September).
   [Refactoring verification using model transformation](https://doi.org/10.1145/2975945.2975950).
   In Proceedings of the 1st International Workshop on Software Refactoring, pp. 17-24.
+
+- Nagano,T., Serizawa, K., Yoshioka, N., Tahara, Y., & Ohsuga, A.(2015, November).
+  [Performance Exploring Using Model Checking - A Case Study of Hard Disk Drive Cache Function](https://www.thinkmind.org/index.php?view=article&articleid=icsea_2015_2_10_10135).
+  In proceedings of The Tenth International Conference on Software Engineering Advances (ICSEA2015), IARIA, pp31-39.
 
 - 市井 誠, 小川 秀人 (2015年8月).
   [モデル変換を用いたリファクタリング検証手法](https://doi.org/10.11309/jssst.32.3_70).
