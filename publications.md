@@ -328,7 +328,7 @@
 - Nagano,T., Serizawa, K., Yoshioka, N., Tahara, Y., & Ohsuga, A.(2015, November).
   [Performance Exploring Using Model Checking - A Case Study of Hard Disk Drive Cache Function](https://www.thinkmind.org/index.php?view=article&articleid=icsea_2015_2_10_10135).
   In proceedings of The Tenth International Conference on Software Engineering Advances (ICSEA2015), IARIA, pp31-39.
-  **🎖Beat Paper Award **
+  **🎖Beat Paper Award**
 
 - 市井 誠, 小川 秀人 (2015年8月).
   [モデル変換を用いたリファクタリング検証手法](https://doi.org/10.11309/jssst.32.3_70).
