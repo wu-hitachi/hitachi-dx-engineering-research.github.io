@@ -27,6 +27,8 @@
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/home/esem-2023> <br> ![1Q](/1Q.png)    2023.4.14 Technical (abstact)
 - APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![2Q](/2Q.png) ~~2022.6.29 -> 7.13 Technical (Abstract),2022.9.5 Software Engineering in Practice~~
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke23.html> <br> ![4Q](/4Q.png) 2023.3.1 Paper
+- SERA, IEEE/ACIS, International Conference on Software Engineering Research, Management and Applications, C, SE全般,
+![4Q](/4Q.png) 2023.3.26 Full Paper
 
 
 ### 人的要因 (Human Factor)
@@ -75,7 +77,7 @@
 
 - QRS, IEEE, International Conference on Software Quality, Reliability, and Security, B, 品質, <br> <https://qrs22.techconf.org/>
  <br> ![1Q](/1Q.png) 2022.9.24 Regular and Short Abstract, ![3Q](/3Q.png) 2022.10.10 Industry
-- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> <br> ![1Q](/1Q.png) ~~2022.5.13 Research (abstruct), ~~![2Q](/2Q.png) ~~ 2022.7.30 Industry~~
+- ISSRE, IEEE, International Symposium on Software Reliability Engineering, A, 信頼性, <br> <https://issre2022.github.io/> <br> ![1Q](/1Q.png) ~~2022.5.13 Research (abstruct), ![2Q](/2Q.png) ~~ 2022.7.30 Industry~~
 - SAFECOMP, International Conference on Computer Safety, Reliability and Security, B, 安全, <br> <https://safecomp2023.cnrs.fr/><br> ![4Q](/4Q.png) 2023.2.13 Full
 - SRDS, International Symposium on Reliable Distributed Systems, B, 信頼性, <br> <https://srds-conference.org/> <br> ![1Q](/1Q.png) ~~2022.4.4~~
 
@@ -94,7 +96,12 @@
 - OSS+OpenSym, International Conference on Open Source Systems, OSS, <br> <https://opensym.org/> <br> ![1Q](/1Q.png) ~~2022.5.6 Regular~~
 
 ### 応用分野 (Application)
-
+- ICWS, IEEE, Intenational Conference on Web Services, A, ウェブサービス  <br>
+ <https://conferences.computer.org/icws/2023/> <br>
+ ![4Q](/4Q.png) 2023.2.12 Full
+- ICWE, International Conference on Web Engineering, B, ウェブ <br>
+  <https://icwe2023.webengineering.org/> <br>
+  ![4Q](/4Q.png) 2023.1.20 Paper (abstract)
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
 - GCCE, IEEE, Global Conference on Consumer Electronics, コンシューマ, <br> <https://www.ieee-gcce.org/>
 - INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> <https://2023.ieee-indin.org/> <br> ![4Q](/4Q.png) 2023.3.1 Regular
@@ -108,6 +115,10 @@
 - WAISE, International Workshop on Artificial Intelligence Safety Engineering, AI安全性, <br> <https://www.waise.org/>　<br> ![1Q](/1Q.png) ~~2022.5.6~~
 - AITEST, IEEE, International Conference on Artificial Intelligence Testing, AIテスト, <br> <http://ieeetests.com/> <br> ![1Q](/1Q.png) ~~2022.5.8~~
 - iMLSE, 日本ソフトウェア科学会, International Workshop on Machine Learning Systems Engineering, 機械学習工学, <br> <https://sig-mlse.wixsite.com/imlse2021>
+
+### 量子
+- QSW, IEEE, International Conference on Quantum Software, 量子ソフトウェア, <br> <https://conferences.computer.org/qsw/2023/> <br>
+ ![4Q](/4Q.png) 2023.2.12
 
 ## 国内会議
 
