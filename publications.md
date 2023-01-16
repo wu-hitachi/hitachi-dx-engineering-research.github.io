@@ -24,15 +24,37 @@
 
 -->
 
+- 來間 啓伸，明神 智之，佐藤 直人，小川 秀人 (2022年12月).
+  [XGBoost法により学習させたAIモデルの振舞いの形式検証](http://id.nii.ac.jp/1001/00222737/)，情報処理学会論文誌，63巻，12号，pp. 1830 - 1839
+
+
+- 古家 直樹, 矢内 直人(大阪大学), 藤原 融(大阪大学) (2022年12月).
+  [関数型暗号を用いた秘匿配送マッチングのTEEによる実現](http://id.nii.ac.jp/1001/00222809/), 第99回 情報処理学会 コンピュータセキュリティ研究会(CSEC)
+
+
 - 小川 秀人 (2022年12月).
   [ソフトウェア工学研究会研究報告を対象とした産学連携状況の初期調査](http://id.nii.ac.jp/1001/00222665/
 ),  情報処理学会研究報告ソフトウェア工学（SE）, 2022-SE-212,6.
+
+- 下村 真帆, 古家 直樹, 古屋 聡一 (2022年11月).
+  [多主体の満足度モデルを用いた貨客混載マッチングシステム](https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00007F63), 電気学会システム/スマートファシリティ合同研究会
+
+
+- 櫻井 壮希，塚本 夏基，内木 大地 (2022年11月).
+  システムテストにおけるキーワード駆動テストの適用とキーワードの階層化設計, 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022).
 
 - 巴 統哉，北川 健二，川上 真澄 (2022年11月).
   自然言語解析を用いた開発プロジェクト リスク状況の定量化・可視化, 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022).
 
 - 加賀 洋渡 (2022年11月).
   Maintainability Index を用いた保守性改善プロセス適用, 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022).
+
+- Anjali Rajith, Soki Sakurai (2022, Oct.).
+ [Advanced Access Control Mechanism for Mobility as a Service Platform](https://www.thinkmind.org/index.php?view=article&articleid=securware_2022_1_30_30010), SECUERARE2022
+
+- Galav Punit, Syafril Bandara, Akimasa Okada, Takehiko Nagano and Hidetoshi Teraoka (2022, Oct.).
+  "Data Usage Monitoring Method Using Metadata in Vehicle Data Distribution," 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)
+
 
 - 小川 秀人 (2022年10月).
   [AI産官学のオープンな議論によるAIプロダクト品質保証ガイドライン策定の取り組み ―AIの適切な利活用による技術と社会の進展のために―](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=220372), 情報処理, Vol.63, No.11, pp.e13-e18.
