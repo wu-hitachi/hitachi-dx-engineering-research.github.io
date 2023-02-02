@@ -8,9 +8,12 @@
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group.
 We strive to achieve advanced software development suitable for the digital transformation era. 
 
+**[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
+
 **[Publication List](publications.html)**
 
 **[Software Engineering Conferences and Journals](confAndJournals.html)**
+
 
 ## Modernizing Business with IT
 
@@ -71,4 +74,3 @@ Efficient process and method to develop safety-critical systems.
 - Log-based anomaly detection
 - Keyword-driven testing
 
-[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf) 
