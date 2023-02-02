@@ -172,6 +172,7 @@
 - 情報処理学会, デジタルプラクティス, <br> <https://www.ipsj.or.jp/dp/index.html>
 - 電子情報通信学会, 論文誌 (和文), <br> <https://www.ieice.org/jpn/books/ronbunshi.html>
 - 電子情報通信学会, Transaction on Information & Systems, <br> <https://www.jstage.jst.go.jp/browse/transinf/-char/ja>
+  - 電子情報通信学会, Special Section on Mathematical Systems Science and its Applications, <br> <https://www.ieice.org/eng/s_issue/cfp/2024_5EA.pdf>
   - 電子情報通信学会, Special Section on Information Theory and Its Applications, <br> <https://ci.nii.ac.jp/naid/110003212503>
   - 電子情報通信学会, Special Section on Empirical Software Engineering, <br> <https://www.ieice.org/eng/s_issue/cfp/2023_2ED_2.pdf>
   - 電子情報通信学会, Special Section on Intelligent Transport Systems and Wideband Systems, <br> <https://www.ieice.org/eng/s_issue/cfp/2023_5EA_2.pdf>
