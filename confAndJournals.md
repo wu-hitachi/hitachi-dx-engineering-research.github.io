@@ -11,7 +11,7 @@
 
 ### ソフトウェア全般 (Software Technology)
 
-- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, ソフトウェア全般, <br> <https://ieeecompsac.computer.org/2023/> <br> ![4Q](/4Q.png) 2023.1.15 Main conference/Symposium papers
+- COMPSAC, IEEE/CS, Computers, Software, and Applications Conference, B, ソフトウェア全般, <br> <https://ieeecompsac.computer.org/2023/> <br> ![4Q](/4Q.png) ~~2023.1.15 Main conference/Symposium papers~~
 - STC, IEEE, Software Technology Conference, -,ソフトウェア全般, <br> <https://www.ieee-stc.org/> <br> ![2Q](/2Q.png) ~~2022.7.15~~
 - SAC, ACM/SIGAPP, Symposium on Applied Computing, B, 計算・ソフト全般, <br> <http://www.sigapp.org/sac/sac2023/> <br> ![3Q](/3Q.png) ~~2022.10.31~~ Regular
 - 
@@ -22,10 +22,10 @@
   ![2Q](/2Q.png) ~~2022.9.1~~ Technical Track ![3Q](/3Q.png) ~~2022.10.21~~ SEIP
   <https://conf.researchr.org/home/icse-2024> <br>
   ![4Q](/4Q.png) 2023.3.29 Research (Fitst cycle), ![2Q](/2Q.png) 2023.8.1 Research (Second Cycle)
-- ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br>  <https://conf.researchr.org/home/fse-2023> <br> ![4Q](/4Q.png) 2023.1.26 Research paper registration ![1Q](/1Q.png) 2023.5.11 Industry
+- ESEC/FSE, ACM, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, A*, SE全般, <br>  <https://conf.researchr.org/home/fse-2023> <br> ![4Q](/4Q.png) ~~2023.1.26 Research paper registration~~ ![1Q](/1Q.png) 2023.5.11 Industry
 - ASE, IEEE/ACM, International Conference on Automated Software Engineering, A*, 自動化, <br> <https://conf.researchr.org/home/ase-2023> <br> ![1Q](/1Q.png) 2023.4.28  Research (Abstract)
 - ESEM, ACM/IEEE, International Symposium on Empirical Software Engineering and Measurement, A, エンピリカル, <br> <https://conf.researchr.org/home/esem-2023> <br> ![1Q](/1Q.png)    2023.4.14 Technical (abstact)
-- APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2022> <br> ![2Q](/2Q.png) ~~2022.6.29 -> 7.13 Technical (Abstract),2022.9.5 Software Engineering in Practice~~
+- APSEC, Asia Pacific Software Engineering Conference, B, SE全般, <br> <https://conf.researchr.org/home/apsec-2023> <br> 未募集 ![2Q](/2Q.png) ~~2022.6.29 -> 7.13 Technical (Abstract),2022.9.5 Software Engineering in Practice~~
 - SEKE, International Conference on Software Engineering and Knowledge Engineering, B, SE全般, <br> <http://ksiresearch.org/seke/seke23.html> <br> ![4Q](/4Q.png) 2023.3.1 Paper
 - SERA, IEEE/ACIS, International Conference on Software Engineering Research, Management and Applications, C, SE全般,
 ![4Q](/4Q.png) 2023.3.26 Full Paper
@@ -33,7 +33,7 @@
 
 ### 人的要因 (Human Factor)
 
-- CHI, ACM, Conference on Human Factors in Computing Systems, A*, 人的要因, <br> <https://chi2023.acm.org/> <br> ![2Q](/2Q.png) 2022.9.15 
+- CHI, ACM, Conference on Human Factors in Computing Systems, A*, 人的要因, <br> <https://chi2023.acm.org/> <br> ![2Q](/2Q.png) ~~2022.9.15~~ 
 
 ### ソフトウェアプロセス改善(Software Process Imorovement)
 
@@ -42,7 +42,7 @@
 
 ### リポジトリマイニング (Repository Mining)
 
-- MSR, The Mining Software Repositories (MSR) conference, A, リポジトリマイニング, <br> <https://conf.researchr.org/home/msr-2023> <br> ![4Q](/4Q.png) 2023.1.16 Technical  2023.1.26 Industry
+- MSR, The Mining Software Repositories (MSR) conference, A, リポジトリマイニング, <br> <https://conf.researchr.org/home/msr-2023> <br> ![4Q](/4Q.png) ~~2023.1.16 Technical  2023.1.26 Industry~~
 
 ### 要求 (Requirement)
 
@@ -69,7 +69,7 @@
 - SANER, IEEE, International Conference on Software Analysis､ Evolution､ and Reengineering, A, 分析、進化, <br> <https://saner2023.must.edu.mo/> <br> ![3Q](3Q.png) ~~2022.10.14~~ Research Abstract, ~~2022.11.20~~ Industrial
 - VISSOFT, IEEE, Working Conference on Software Visualization, B, ソフト可視化, <br> <https://vissoft.info/>
 - DAS, IAPR, International Workshop on Document Analysis Systems, B, 文書解析, <br> <https://das2022.univ-lr.fr/> <br> ![4Q](/4Q.png) ~~2022.1.4 Full, 2022.3.15 Short~~
-- ICDAR, IAPR, International Conference on Document Analysis and Recognition, , 文書解析, <br> <https://icdar2023.org/> <br> ![3Q](/3Q.png) ~~2022.10.21~~ Journal track, 2023.1.15 Conference paper
+- ICDAR, IAPR, International Conference on Document Analysis and Recognition, , 文書解析, <br> <https://icdar2023.org/> <br> ![3Q](/3Q.png) ~~2022.10.21~~ Journal track, ~~2023.1.15 Conference paper~~
 - SCAM, IEEE, International Working Conference on Source Code Analysis and Manipulation, C, コード解析, <http://www.ieee-scam.org/2022/> <br> ![1Q](/1Q.png) ~~2022.6.17 Research Abstract,~~ ~~2022.7.1 Engineering Abstract~~
 - PROMISE, International Conference on Predictive Models and Data Analytics in Software Engineering, 予測モデル・データ解析, <br> <https://promiseconf.github.io/2022/> <br> ![1Q](/1Q.png) ~~2022.6.27~~
 
@@ -83,9 +83,9 @@
 
 ### テスト、検証 (Testing, Verification)
 
-- ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta> <br> ![3Q](/3Q.png) ~~2022.11.10 Technical~~, 2023.5.17 Artifact Evaluation
+- ISSTA, ACM/SIGSOFT, International Symposium on Software Testing and Analysis, A, テスト, <br> <https://conf.researchr.org/series/issta> <br> ![3Q](/3Q.png) ~~2022.11.10 Technical, 2023.5.17 Artifact Evaluation~~
 - ICST, IEEE, International Conference on Software Testing, Verification and Validation, A, テスト, <br> <https://conf.researchr.org/home/icst-2023> <br> ![3Q](/3Q.png) ~~2022.11.3 Research~~,~~2022.11.3 Indsutry~~
-- AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2023> <br> ![4Q](/4Q.png) 2023.1.16 Paper
+- AST, ACM/IEEE, International Conference on Automation of Software Test, C, 自動テスト, <br> <https://conf.researchr.org/home/ast-2023> <br> ![4Q](/4Q.png) ~~2023.1.16 Paper~~
 
 ### 形式手法 (Formal Method)
 
@@ -101,7 +101,7 @@
  ![4Q](/4Q.png) 2023.2.12 Full
 - ICWE, International Conference on Web Engineering, B, ウェブ <br>
   <https://icwe2023.webengineering.org/> <br>
-  ![4Q](/4Q.png) 2023.1.20 Paper (abstract)
+  ![4Q](/4Q.png) ~~2023.1.20 Paper (abstract)~~
 - IoTNAT, International Workshop on Internet of Things: Networking Applications and Technologies, IoT, <br> <http://emergingtechnet.org/IOTNAT2021/index.php>
 - GCCE, IEEE, Global Conference on Consumer Electronics, コンシューマ, <br> <https://www.ieee-gcce.org/>
 - INDIN, IEEE, International Conference on Industrial Informatics, 産業, <br> <https://2023.ieee-indin.org/> <br> ![4Q](/4Q.png) 2023.3.1 Regular
@@ -112,8 +112,9 @@
 - AAAI, AAAI Conference, A*, AI全般, <br> <https://aaai.org/Conferences/AAAI-23/> <br> ![2Q](/2Q.png) ~~2022.8.8 Abstract~~
 - IJCAI, International Joint Conferences on Artificial Intelligence, A*, AI全般, <br> <https://ijcai-23.org/> <br> ![2Q](/3Q.png) ~~2021.12.30~~
 - ICAICA, IEEE, International Conference on Artificial Intelligence and Computer Applications, AI全般, <br> <http://icaica.org/> <br> ![2Q](/2Q.png) 2023.8.31 Paper
+- SafeAI. AAAI, Workshop on Artificial Intelligence Safety. AI安全性, <br> <https://safeai.webs.upv.es/>
 - WAISE, International Workshop on Artificial Intelligence Safety Engineering, AI安全性, <br> <https://www.waise.org/>　<br> ![1Q](/1Q.png) ~~2022.5.6~~
-- AITEST, IEEE, International Conference on Artificial Intelligence Testing, AIテスト, <br> <http://ieeetests.com/> <br> ![1Q](/1Q.png) ~~2022.5.8~~
+- AITEST, IEEE, International Conference on Artificial Intelligence Testing, AIテスト, <br> <https://ieeeaitest.com/> <br> ![1Q](/1Q.png) 2023.2.12 Abstract
 - iMLSE, 日本ソフトウェア科学会, International Workshop on Machine Learning Systems Engineering, 機械学習工学, <br> <https://sig-mlse.wixsite.com/imlse2021>
 
 ### 量子
@@ -126,14 +127,14 @@
 
 - 情処全国大会, 情報処理学会, 全国大会, 情報全般, <br> <https://www.ipsj.or.jp/event/taikai/85/> <br> ![3Q](/3Q.png) ~~2022.12.12~~
 - FIT, 情報処理学会/電子情報通信学会, 情報科学技術フォーラム, 情報全般, <br> <https://www.ipsj.or.jp/event/fit/fit2023/> 
-- 電子情報通信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> <http://www.ieice-taikai.jp/>  <br> ![3Q](/3Q.png) 2023.1.6
+- 電子情報通信学会総合大会, 電子情報通信学会, 総合大会, 情報全般, <br> <http://www.ieice-taikai.jp/>  <br> ![3Q](/3Q.png) ~~2023.1.6~~
 - 科学会大会, 日本ソフトウェア科学会, 大会, SE全般, <br> <https://www.jssst.or.jp/taikai/>  <br> ![1Q](/1Q.png) 
 - 自技会全国大会, 自動車技術会, <br> <https://www.jsae.or.jp/2022haru/> 
 
 ### ソフトウェア工学全般
 
 - SIGSE, 情報処理学会, ソフトウェア工学研究会, SE全般, <br> <http://www.ipsj.or.jp/sig/se/>
-  - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2022/> <br> ![1Q](/1Q.png) ~~2022.5.16 査読あり, 2022.7.18 査読なし, 2022.7.18 ポスター論文あり~~
+  - SES, 情報処理学会, ソフトウェアエンジニアリングシンポジウム, SE全般, <br> <https://ses.sigse.jp/2023/> <br> 未募集 ![1Q](/1Q.png) ~~2022.5.16 査読あり, 2022.7.18 査読なし, 2022.7.18 ポスター論文あり~~
   - WWS, 情報処理学会, ウィンターワークショップ, SE全般, <br> <http://wws.sigse.jp/2023/>
 - SS研, 電子情報通信学会, ソフトウェアサイエンス研究会, SE全般, <br> <https://www.ieice.org/iss/ss/>
 - FOSE, ソフトウェア科学会, ソフトウェア工学の基礎ワークショップ, SE全般, <br> <https://fose.jssst.or.jp/fose2022/> <br> ![2Q](/2Q.png) ~~通常 2022.7.8,~~ ライブ 2022.9.9
@@ -178,7 +179,7 @@
   - 電子情報通信学会, Special Section on Intelligent Transport Systems and Wideband Systems, <br> <https://www.ieice.org/eng/s_issue/cfp/2023_5EA_2.pdf>
   - 電子情報通信学会, Special Section on Formal Approach, <br> <http://web.cc.yamaguchi-u.ac.jp/~shingo/FA2021/index_j.html>
 - 日本ソフトウェア科学会, コンピュータソフトウェア, <br> <https://www.jssst.or.jp/edit/detail/computer_software.html>
-  - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア工学の基礎特集, <br> <https://fose.jssst.or.jp/papers/>  ![4Q](/4Q.png) 2023.1.13
+  - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア工学の基礎特集, <br> <https://fose.jssst.or.jp/papers/>  ![4Q](/4Q.png) ~~2023.1.13~~
   - 日本ソフトウェア科学会, コンピュータソフトウェア：ソフトウェア論文特集,  <br> <https://www.jssst.or.jp/edit_news/detail/id=378>
   - 日本ソフトウェア科学会, コンピュータソフトウェア：プログラムおよびプログラム言語特集, <br> <https://www.jssst.or.jp/edit_news/detail/id=390>
 - 自動車技術会, 自動車技術会論文集, <br> <https://www.jsae.or.jp/ronbun/>
