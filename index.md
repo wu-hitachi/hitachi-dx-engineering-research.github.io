@@ -8,6 +8,8 @@
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group.
 We strive to achieve advanced software development suitable for the digital transformation era. 
 
+**紹介動画 [[2分バージョン]](https://www.youtube.com/watch?v=n4fZwXyFhMY) [[5分バージョン]](https://www.youtube.com/watch?v=wgayUYzy0Mc)**
+
 **[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
 
 **[Publication List](publications.html)**
