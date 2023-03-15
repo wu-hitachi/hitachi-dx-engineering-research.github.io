@@ -24,6 +24,14 @@
 
 -->
 
+- 明神智之, 小川秀人, 來間啓伸, 佐藤直人 (2023年).
+  [ロバスト性向上を目的とした予測モデルの不確実性に基づくデータセットの水増し手法利用](http://doi.org/10.20729/00224274),
+  情報処理学会論文誌,64(2),568-580 (2023-02-15) , 1882-7764
+
+- Man Yiu Chow (2023, Feb.).
+  [Analysis of Embedded System's Functional Requirement using BERT-based Name Entity Recognition for Extracting IO Entities](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_143/_article/-char/en),
+  Journal of Information Processing, Special Section on digital practices, 2023, Vol.31, pp.143-153
+
 - 來間 啓伸，明神 智之，佐藤 直人，小川 秀人 (2022年12月).
   [XGBoost法により学習させたAIモデルの振舞いの形式検証](http://id.nii.ac.jp/1001/00222737/)，情報処理学会論文誌，63巻，12号，pp. 1830 - 1839
 
@@ -33,13 +41,16 @@
 
 
 - 小川 秀人 (2022年12月).
-  [ソフトウェア工学研究会研究報告を対象とした産学連携状況の初期調査](http://id.nii.ac.jp/1001/00222665/
-),  情報処理学会研究報告ソフトウェア工学（SE）, 2022-SE-212,6.
+  [ソフトウェア工学研究会研究報告を対象とした産学連携状況の初期調査](http://id.nii.ac.jp/1001/00222665/),
+   情報処理学会研究報告ソフトウェア工学（SE）, 2022-SE-212,6.
 
 - 下村 真帆, 古家 直樹, 古屋 聡一 (2022年11月).
   [多主体の満足度モデルを用いた貨客混載マッチングシステム](https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00007F63), 電気学会システム/スマートファシリティ合同研究会
 
-
+- 曾我 遼，鹿糠 秀行(日立製作所), 久保 孝富，石尾 隆，松本 健一 (奈良先端科学技術大学院大学) (2022年11月).
+  プログラム理解難易度の経時的な変化の可視化. 
+  第29回ソフトウェア工学の基礎ワークショップ(FOSE2022).
+- 
 - 櫻井 壮希，塚本 夏基，内木 大地 (2022年11月).
   システムテストにおけるキーワード駆動テストの適用とキーワードの階層化設計, 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022).
 
@@ -127,6 +138,11 @@
   [因果ダイアグラムによる経営改善の施策立案支援手法の提案](https://doi.org/10.11309/fose.28.0_151).
   第28回ソフトウェア工学の基礎ワークショップ (FOSE2021).
 
+- 曾我 遼, 横山 由貴, 鹿糠 秀行(日立製作所), 久保 孝富, 石尾 隆 (奈良先端科学技術大学院大学) (2021年11月). 
+  [視線と心拍を用いた主観的なプログラム理解難易度の推定](https://www.jstage.jst.go.jp/article/fose/28/0/28_71/_article/-char/ja). 
+  第28回ソフトウェア工学の基礎ワークショップ(FOSE2021). 
+
+
 - 堀 旭宏, 木下 崇央, 鹿糠 秀行, 川上 真澄 (2021年11月).
   マイクロサービスアーキテクチャのVR可視化.
   第28回ソフトウェア工学の基礎ワークショップ (FOSE2021).
@@ -134,6 +150,16 @@
 - 古家 直樹，長谷川 学，小坂 忠義，薦田 憲久 (2021年10月).
   [分割ルートハッシュ方式を用いたブロックチェーン利用トレーサビリティ管理システム](https://doi.org/10.1541/ieejeiss.141.1101).
   電気学会論文誌C, Vol.141, No.10, pp.1101-1114.
+
+- 曾我 遼, 鹿糠 秀行 (2021年10月). 
+  [テストケース自動生成の失敗予測](https://ken.ieice.org/ken/paper/20211019QC5I/). 
+  電子情報通信学会信学技報, 121(204), SS2021-14, pp. 7-12.
+  **🎖DC研究会 第9回若手優秀講演賞**
+
+- Ryo, S., Genta, K., Hideyuki, K., Akira, I. & Jun, M. (2021, September). 
+  [Generating Program Identifier Dictionary for Maintaining Legacy Systems](https://doi.org/10.3233/FAIA210003). 
+  In Proceedings of the 20th International Conference on New Trends in Intelligent Software Methodologies, Tools and Techniques (SoMeT 2021), pp. 3-12. IOS Press.
+
 
 - 九間 哲士, 肥後 芳樹, 柗本 真佑, 楠本 真二, 安田 和矢 (2021年9月).
   [自動修正適合性：新しいソフトウェア品質指標とその計測](http://id.nii.ac.jp/1001/00212579/).
@@ -204,6 +230,10 @@
 - Fujii, G., Hamada, K., Ishikawa, F., Masuda, S., Matsuya, M., Myojin, T., Nishi, Y., Ogawa, H., Toku, T., Tokumoto, S., Tsuchiya, K., & Ujita, Y. (2020).
   [Guidelines for Quality Assurance of Machine Learning-Based Artificial Intelligence](https://doi.org/10.1142/S0218194020400227).
   International Journal of Software Engineering and Knowledge Engineering, 30 (11n12), pp. 1589-1606.
+
+- Ryo, S., Tetsuya, Y., Mitsuo, I., Yasushi, F., Hiroo, S. & Hideyuki, K. (2020, December). 
+  [A Program Simplification Method for Generating Test Input Values Using Symbolic Execution](https://doi.org/10.1109/APSEC51365.2020.00066). 
+  In Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC), pp. 507-508. IEEE.
 
 - 安田 和矢，伊藤 信治，中村 知倫，原田 真雄, 肥後 芳樹 (2020年11月).
   システムの特徴を踏まえた素材コード片の生成による自動プログラム修正手法.
@@ -283,7 +313,11 @@
   ソフトウェア開発プロジェクトの完了時期予測のためのチケット自動修正方法.
   第26回ソフトウェア工学の基礎ワークショップ (FOSE2019).
   **🎖FOSE貢献賞(フルペーパー部門)**
-  
+
+- 曾我 遼, 是木 玄太, 井奥 章, 前岡 淳(2019年11月).  
+  識別子の表記ゆれによるソースコード検索漏れ防止に向けた設計書を活用した識別子−自然言語変換技術. 
+  第26回ソフトウェア工学の基礎ワークショップ(FOSE2019).
+
 - Matsumoto, T., Kosaka, T., Sakurada, T., Nakajima, Y., Tano, S. (2019, October).
   [Picking Work using AR Instructions in Warehouses](https://doi.org/10.1109/GCCE46687.2019.9015334).
   IEEE 8th Global Conference on Consumer Electronics (GCCE), pp31-34.
