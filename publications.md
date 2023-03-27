@@ -23,8 +23,11 @@
   **🎖xxx賞**
 
 -->
+- 曾我 遼, 鹿糠 秀行, 久保 孝富, 石尾 隆 (2023年02月).
+ [視線と心拍を用いたプログラム理解状況の推定](https://www.jstage.jst.go.jp/article/jssst/40/1/40_1_24/_article/-char/ja). 
+ コンピュータソフトウェア, 40 (1), p. 1_24-1_44
 
-- 明神智之, 小川秀人, 來間啓伸, 佐藤直人 (2023年).
+- 明神智之, 小川秀人, 來間啓伸, 佐藤直人 (2023年2月).
   [ロバスト性向上を目的とした予測モデルの不確実性に基づくデータセットの水増し手法利用](http://doi.org/10.20729/00224274),
   情報処理学会論文誌,64(2),568-580 (2023-02-15) , 1882-7764
 
@@ -59,7 +62,8 @@
 
 - 加賀 洋渡 (2022年11月).
   Maintainability Index を用いた保守性改善プロセス適用, 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022).
-
+- Soga, R., Kanuka, H. Fukui, D. and Mase, M. (2022, Dec.).
+ [Risk assessment to design business process incorporating AI tasks](https://ieeexplore.ieee.org/document/10043337), In Proceedings of 29th Asia-Pacific Software Engineering Conference (APSEC), pp. 582-583. IEEE.
 - Anjali Rajith, Soki Sakurai (2022, Oct.).
  [Advanced Access Control Mechanism for Mobility as a Service Platform](https://www.thinkmind.org/index.php?view=article&articleid=securware_2022_1_30_30010), SECUERARE2022
 
@@ -156,7 +160,7 @@
   電子情報通信学会信学技報, 121(204), SS2021-14, pp. 7-12.
   **🎖DC研究会 第9回若手優秀講演賞**
 
-- Ryo, S., Genta, K., Hideyuki, K., Akira, I. & Jun, M. (2021, September). 
+-  Soga, R., Koreki, G., Kanuka, H., Ioku, A., & Maeoka, J. (2021, September). 
   [Generating Program Identifier Dictionary for Maintaining Legacy Systems](https://doi.org/10.3233/FAIA210003). 
   In Proceedings of the 20th International Conference on New Trends in Intelligent Software Methodologies, Tools and Techniques (SoMeT 2021), pp. 3-12. IOS Press.
 
@@ -231,7 +235,7 @@
   [Guidelines for Quality Assurance of Machine Learning-Based Artificial Intelligence](https://doi.org/10.1142/S0218194020400227).
   International Journal of Software Engineering and Knowledge Engineering, 30 (11n12), pp. 1589-1606.
 
-- Ryo, S., Tetsuya, Y., Mitsuo, I., Yasushi, F., Hiroo, S. & Hideyuki, K. (2020, December). 
+- Soga, R., Yonemitsu, T., Inagaki, M., Fujisaki, Y., Sugo, H., & Kanuka, H.(2020, December). 
   [A Program Simplification Method for Generating Test Input Values Using Symbolic Execution](https://doi.org/10.1109/APSEC51365.2020.00066). 
   In Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC), pp. 507-508. IEEE.
 
