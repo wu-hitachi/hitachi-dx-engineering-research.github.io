@@ -19,12 +19,11 @@
 
         <div class="tag-filter">
           <div>
-            <span class="tag-filter-label">Filter by tags:</span>
+            <span class="tag-filter-label">Filter by Tags:</span>
           </div>
             {% for tag in site.data.tags %}
-            <button type="button" class="btn btn-outline-success btn-sm" data-bs-toggle="button" onclick="filterByTags()"> {{tag}} </button>
+            <button type="button" class="c-chip selected-tag btn btn-outline-success btn-sm" data-bs-toggle="button" onclick="filterByTags()"> {{tag}} </button>
             {% endfor %}
-
         </div>
 
         {% if site.logo %}
@@ -62,5 +61,6 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/toggle.js" | relative_url }}"></script>
   </body>
 </html>

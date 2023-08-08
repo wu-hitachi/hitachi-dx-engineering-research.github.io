@@ -20,7 +20,7 @@ layout: filter
           <b>{{award}}</b>
         {% endfor %}
         {% for tag in item.tags %}
-            <button type="button" class="btn btn-outline-success btn-sm"> {{tag}} </button>
+            <div class="chip btn"> {{tag}} </div>
         {% endfor %}
         </li>
     {% endfor %}
