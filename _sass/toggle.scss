@@ -74,14 +74,14 @@ $link-light: hsla(208, 100, 67, 0.2); //#56afff
 	border-radius: rem(16);
 	// color: $white87;
 	font-family: $roboto;
-	font-size: rem(14);
+	font-size: rem(13);
 	font-weight: $regular;
 	letter-spacing: rem(0.25);
 	display: inline-block;
-	padding: 0 rem(12);
+	padding: 0 rem(5);
 	text-decoration: none;
 	height: rem(32);
-	margin: rem(8) rem(4);
+	margin: rem(2) rem(2);
 	outline: none;
 	@extend %animation;
 }
