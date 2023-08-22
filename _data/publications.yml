@@ -1,3 +1,72 @@
+- authors: 川上真澄
+  year: 2023年9月
+  title: データドリブンなソフトウェア開発プロジェクトマネジメント
+  link: https://www.pmaj.or.jp/sympo/2023/abstract/b_2.html
+  publisher: PMシンポジウム2023
+  tags:
+    - AI, ML
+    - Project Management        
+
+- authors: 高澤一平, 河野洋平, 但馬慶行,望月義則
+  year: 2023年8月
+  title: 時系列データ中の部分系列の特性を考慮した距離指標の提案
+  publisher: 2023年電気学会 電子・情報・システム部門大会
+  tags:
+    - AI, ML
+
+- authors: 吉岡遼, 肥後芳樹, 柗本真佑, 楠本真二, 伊藤信治, Phan Thi Thanh Huyen
+  year: 2023年8月
+  title: 例外処理を検査するテストが実行経路に基づく欠陥限局手法に与える影響の調査
+  publisher: ソフトウェアエンジニアシンポジウム(SES2023)
+  tags:
+    - Testing, Verification
+
+- authors: 鹿糠秀行，是木玄太，曾我遼，西川和寿
+  year: 2023年8月
+  title: 設計モデルとコード間の双方向トレーサビリティ問題へのChatGPT適用実験
+  publisher: ソフトウェアエンジニアシンポジウム(SES2023)
+  tags:
+    - Testing, Verification
+
+- authors: M. Sekine, D. Shimbara, T. Myojin, E. Imatani 
+  year: July, 2023
+  title: Visualization Tool for Extraction of Various Attributes and Corresponding Data for Dataset Quality Assessment
+  publisher: The 5th IEEE International Conference on Artificial Intelligence Testing (IEEE AITest 2023)
+  tags:
+    - AI, ML
+    - Quality, Reliability, Safety
+
+- authors: 関根 理敏, 新原 敦介, 明神 智之, 今谷 恵理
+  year: 2022年6月
+  title: データセットの品質評価に向けた半教師あり表現学習による属性値の回帰予測手法
+  link: https://doi.org/10.11517/pjsai.JSAI2023.0_2R4OS1202
+  publisher: 第37回人工知能学会全国大会
+  tags:
+    - AI, ML
+    - Quality, Reliability, Safety
+
+- authors: M. Kawakami, F. Ishikawa 
+  year: May, 2023
+  title: Domain-specific Modeling Environment Construction Tool based on View Patterns: RapidDSM
+  publisher: The 21st IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2023)
+  tags:
+    - Modeling
+
+- authors: 小川秀人, 佐藤陽春, 森拓郎, 加賀洋渡
+  year: 2023年4月
+  title: 土台からしっかり学ぶ ── ソフトウェアテストのセオリー
+  link: https://www.ric.co.jp/book/development/detail/2395
+  publisher: リックテレコム
+  tags:
+    - Testing, Verification
+- authors: 新原 敦介, 関根 理敏, 小川 秀人
+  year: 2023年3月
+  title: AI搭載システム向け品質保証
+  publisher: 第163回情報システムと社会環境研究発表会 (招待講演)
+  tags:
+    - AI, ML
+    - Quality, Reliability, Safety
+
 - authors: 曾我 遼, 鹿糠 秀行, 久保 孝富, 石尾 隆 
   year: 2023年02月
   title: 視線と心拍を用いたプログラム理解状況の推定
@@ -5,6 +74,7 @@
   publisher: コンピュータソフトウェア, 40 (1), p 1_24-1_44
   tags:
     - Evolution, Aalytics
+    - Human Factor
 
 - authors: 明神智之, 小川秀人, 來間啓伸, 佐藤直人 
   year: 2023年2月
@@ -13,6 +83,7 @@
   publisher: 情報処理学会論文誌,64(2),568-580 (2023-02-15) , 1882-7764
   tags:
     - AI, ML
+    - Testing, Verification
 
 - authors: Man Yiu Chow 
   year: 2023, Feb.
@@ -36,7 +107,8 @@
   title: 関数型暗号を用いた秘匿配送マッチングのTEEによる実現
   link: http://id.nii.ac.jp/1001/00222809/
   publisher: 第99回 情報処理学会 コンピュータセキュリティ研究会(CSEC)
-
+  tags:
+    - Application
 
 - authors: 小川 秀人 
   year: 2022年12月
@@ -49,6 +121,8 @@
   title: 多主体の満足度モデルを用いた貨客混載マッチングシステム
   link: https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00007F63
   publisher: 電気学会システム/スマートファシリティ合同研究会
+  tags:
+    - Application
 
 - authors: 曾我 遼，鹿糠 秀行(日立製作所), 久保 孝富，石尾 隆，松本 健一 (奈良先端科学技術大学院大学) 
   year: 2022年11月
@@ -56,6 +130,7 @@
   publisher: 第29回ソフトウェア工学の基礎ワークショップ(FOSE2022)
   tags:
     - Evolution, Analytics
+    - Repository Mining
 
 - authors: 櫻井 壮希，塚本 夏基，内木 大地 
   year: 2022年11月
@@ -63,20 +138,23 @@
   publisher: 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)
   tags:
     - Design, Implementation
+    - Testing, Verification
 
 - authors: 巴 統哉，北川 健二，川上 真澄 
   year: 2022年11月
-  title: 自然言語解析を用いた開発プロジェクト リスク状況の定量化・可視化
+  title: 自然言語解析を用いた開発プロジェクトリスク状況の定量化・可視化
   publisher: 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)
   tags:
     - Application
+    - Project Management
 
 - authors: 加賀 洋渡 
   year: 2022年11月
   title: Maintainability Index を用いた保守性改善プロセス適用
   publisher: 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)
   tags:
-    - Software Process Improvement
+    - Evolution, Analytics
+    - Design, Implementation
 
 - authors: Soga, R., Kanuka, H. Fukui, D. and Mase, M. 
   year: 2022, Dec.
@@ -85,7 +163,7 @@
   publisher: In Proceedings of 29th Asia-Pacific Software Engineering Conference (APSEC), pp. 582-583. IEEE
   tags:
     - AI, ML
-    - Application
+    - Software Process Improvement
 
 - authors: Anjali Rajith, Soki Sakurai 
   year: 2022, Oct.
@@ -99,6 +177,8 @@
   year: 2022, Oct.
   title: Data Usage Monitoring Method Using Metadata in Vehicle Data Distribution
   publisher: 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)
+  tags:
+    - Application
 
 - authors: 小川 秀人 
   year: 2022年10月
@@ -117,6 +197,8 @@
   awards: 🎖SES研究奨励賞
   tags:
     - Quality, Reliability, Safety
+    - Testing, Verification
+    - Design, Implementation
 
 - authors: 前島 葵, 肥後 芳樹, 柗本 真佑, 楠本 真二 (大阪大学), 安田 和矢 
   year: 2022年9月
@@ -126,6 +208,8 @@
   awards: 🎖SES研究奨励賞
   tags:
     - Quality, Reliability, Safety
+    - Testing, Verification
+    - Design, Implementation
 
 - authors: Sien Reeve Peralta, Hironori Washizaki, Yoshiaki Fukazawa (Waseda University), Yuki Noyori, Hideyuki Kanuka and Shuhei Nojiri
   title: Analysis of Bug Report Qualities with fixing time using Causal and Inference Model
@@ -133,12 +217,16 @@
   awards: 🎖SES企業・ポスター賞
   tags:
     - Quality, Reliability, Safety
+    - Repository Mining
 
 - authors: 関根 理敏, 新原 敦介, 明神 智之, 今谷 恵理 
   year: 2022年9月
   title: データセットの多種多様な属性情報抽出に向けた多面的クラスタリング変分オートエンコーダの手書き文字データへの適用
   link: http://id.nii.ac.jp/1001/00219956/
   publisher: ソフトウェアエンジニアリングシンポジウム2022,pp.145-146
+  tags:
+    - AI, ML
+    - Testing, Verification
 
 - authors: 曾我 遼，鹿糠 秀行，福井 大輔，間瀬 正啓 
   year: 2022年8月
@@ -153,6 +241,8 @@
   title: 組立順序生成システムの刷新によるクラウド上での並列分散処理の実現
   link: https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-20220618C01101-003-PDF/
   publisher: 電気学会C部門システム研究会
+  tags:
+    - Architecture
 
 - authors: 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 
   year: 2022年5月
@@ -160,7 +250,8 @@
   link: http://id.nii.ac.jp/1001/00218099/
   publisher: 情報処理学会論文誌コンシューマ・デバイス＆システム（CDS）,12(2),27-37, pp.2186-5728
   tags:
-    - Software Process Improvement
+    - Testing, Verification
+    - Design, Implementation
 
 - authors: 小川秀人 
   year: 2022年4月
@@ -176,6 +267,9 @@
   title: Automated Microservice Decomposition Method as Multi-Objective Optimization
   link: https://doi.org/10.1109/ICSA-C54293.2022.00028
   publisher: IEEE 19th International Conference on Software Architecture Companion (ICSA-C), pp.112-115
+  tags:
+    - Application
+    - Design, Implementation
 
 - authors: 堀田 勇樹, Gabriel Daniel, 稲葉 龍, 児島 隆生, 早瀬 茂規 
   year: 2022年3月
@@ -183,7 +277,9 @@
   link: http://id.nii.ac.jp/1001/00216723/
   publisher: 情報処理学会研究報告高度交通システムとスマートコミュニティ（ITS）,2022-ITS-88(9),1-8, pp2188-8965
   awards: 🎖第88回ITS研究会優秀発表
-  
+  tags:
+    - Application
+
 - authors: 下村 真帆, 古家 直樹, 小坂 忠義, 渡邊 高志 
   year: 2022年1月
   title: ブロックチェーン利活用による下請配送業者への対価支払迅速化システムの開発
@@ -197,6 +293,9 @@
   title: 社会システムへのトラストを再構築する
   link: https://linkingsociety.hitachi.co.jp/_ct/17512841
   publisher: 協創の森ウェビナー第6回「社会システムのトラスト」
+  tags:
+    - AI, ML
+    - Quality, Reliability, Safety
 
 - authors: 宮崎 邦彦，廣井 和重，小林 悠一,Giulio Moffa，Eduardo Fernandez-Moral，Wisinee Wisetjindawat 
   year: 2021年11月
@@ -222,6 +321,8 @@
   publisher: In Proceedings of International Journal of Software Engineering and Knowledge Engineering, 31 (5), pp. 693-724
   tags:
     - Quality, Reliability, Safety
+    - Architecture
+    - Design, Implementation
 
 - authors: 左近 健太 
   year: 2021年11月
@@ -237,7 +338,8 @@
   link: https://doi.org/10.11309/fose.28.0_151
   publisher: 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021)
   tags:
-    - Evolution, Analytics
+    - Repository Mining
+    - Project Management
 
 - authors: 曾我 遼, 横山 由貴, 鹿糠 秀行(日立製作所), 久保 孝富, 石尾 隆 (奈良先端科学技術大学院大学) 
   year: 2021年11月
@@ -245,15 +347,15 @@
   link: https://www.jstage.jst.go.jp/article/fose/28/0/28_71/_article/-char/ja
   publisher: 第28回ソフトウェア工学の基礎ワークショップ(FOSE2021) 
   tags:
-    - Evolution, Analytics
+    - Human Factor
 
 - authors: 堀 旭宏, 木下 崇央, 鹿糠 秀行, 川上 真澄 
   year: 2021年11月
   title: マイクロサービスアーキテクチャのVR可視化
   publisher: 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021)
   tags:
-    - Application
     - Architecture
+    - Evolution, Analytics
 
 - authors: 古家 直樹，長谷川 学，小坂 忠義，薦田 憲久 
   year: 2021年10月
@@ -271,6 +373,7 @@
   awards: 🎖DC研究会 第9回若手優秀講演賞
   tags:
     - Testing, Verification
+    - Code Generation
 
 - authors:  Soga, R., Koreki, G., Kanuka, H., Ioku, A., & Maeoka, J. 
   year: 2021, September
@@ -287,6 +390,7 @@
   publisher: ソフトウェアエンジニアリングシンポジウム2021
   awards: 🎖SES研究奨励賞
   tags:
+    - Testing, Verification
     - Code Generation
     - Quality, Reliability, Safety
 
@@ -305,7 +409,8 @@
   link: http://id.nii.ac.jp/1001/00212599/
   publisher: ソフトウェアエンジニアリングシンポジウム2021
   tags:
-    - Evolution, Analytics
+    - Repository Mining
+    - Project Management
 
 - authors: 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 
   year: 2021年8月
@@ -316,7 +421,8 @@
     - 🎖第32回CDS研究会優秀発表賞
     - 🎖2022年度山下記念研究賞
   tags:
-    - Software Process Improvement
+    - Testing, Verification
+    - Design, Implementation
 
 - authors: ロボット革命・産業IoTイニシアティブ協議会 
   year: 2021年7月
@@ -337,14 +443,15 @@
   link: https://www.sea.jp/ss2021/download/10-SS2021.pdf
   publisher: ソフトウェア・シンポジウム2021
   tags:
-    - Requirement
+    - Evolution, Analytics
+    - Design, Implementation
 
 - authors: Phan, T. T. H., Suzuki, Y., Sato, N., & Kawakami, M. 
   year: 2021, July
   title: "FLASX: A Fault Localization Assistant System Using KLEE Symbolic Execution for Embedded Software"
   publisher: In Proceedings of the 2nd International KLEE Workshop on Symbolic Execution
   tags:
-    - Quality, Reliability, Safety
+    - Testing, Verification
     - Formal Method
 
 - authors: Chow Man Yiu, Mitsuhiro Kitani, 
@@ -352,6 +459,8 @@
   title: Heterogeneous Sensor Fusion with GMPHD for Environmentally Adaptable Obstacle Detection in Mobility Systems
   link: https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_449/_article/-char/en
   publisher: Journal of Information Processing, 2021, Volume 29, Pages 449-464
+  tags:
+    - Application
 
 - authors: 近藤 明宏，松本 貴士 
   year: 2021年3月
@@ -366,6 +475,8 @@
   title: ニューノーマル時代の製造流通業を支えるバリューチェーンコーディネーションサービス
   link: https://www.hitachihyoron.com/jp/archive/2020s/2021/02/02a04/index.html
   publisher: 日立評論, 103 (2), pp. 58-62
+  tags:
+    - Application
 
 - authors: 佐藤 直人, 來間 啓伸, 小川 秀人 
   year: 2021年3月
@@ -374,6 +485,7 @@
   publisher: 電子情報通信学会信学技報, 120 (407), SS2020-35, pp.43-48
   tags:
     - AI, ML
+    - Testing, Verification
 
 - authors: 後藤知明，嶋田匡，沖津潤，堤大輔，足立哲朗　
   year: 2020年12月
@@ -404,6 +516,7 @@
   link: https://doi.org/10.1587/transinf.2019EDP7120
   publisher: IEICE TRANSACTIONS on Information and Systems, 103 (2), pp. 363-378
   tags:
+    - AI, ML
     - Formal Method
 
 - authors: Fujii, G., Hamada, K., Ishikawa, F., Masuda, S., Matsuya, M., Myojin, T., Nishi, Y., Ogawa, H., Toku, T., Tokumoto, S., Tsuchiya, K., & Ujita, Y. 
@@ -421,7 +534,7 @@
   link: https://doi.org/10.1109/APSEC51365.2020.00066
   publisher: In Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC), pp. 507-508. IEEE
   tags:
-    - Formal Method
+    - Design, Implementation
     - Testing, Verification
 
 - authors: 安田 和矢，伊藤 信治，中村 知倫，原田 真雄, 肥後 芳樹 
@@ -432,6 +545,7 @@
     - 🎖FOSE貢献賞(フルペーパー部門)
     - 🎖IEEE Computer Society Japan Chapter FOSE Young Researcher Award
   tags:
+    - Testing, Verification
     - Code Generation
 
 - authors: 曾我 遼，小磯 (横山) 由貴，前岡 淳，鹿糠 秀行 
@@ -440,21 +554,22 @@
   publisher: 第27回ソフトウェア工学の基礎ワークショップ(FOSE2020)
   awards: 🎖FOSEライブ論文ポスター賞
   tags:
-    - Evolution, Analytics
+    - Human Factor
   
 - authors: 楊 夢龍, 小山 恭平, 新原 敦介 
   year: 2020年11月
   title: GUIソフトウェア開発における性能向けCI環境CARPの開発
   publisher: 第27回ソフトウェア工学の基礎ワークショップ (FOSE2020)
   tags:
-    - Software Process Improvement
+    - Testing, Verification
 
 - authors: 堀 旭宏, 川上 真澄 
   year: 2020年11月
   title: 開発プロジェクトQCD予測のための工数メトリクス取得手法の提案
   publisher: 第27回ソフトウェア工学の基礎ワークショップ (FOSE2020)
   tags:
-    - Quality, Reliability, Safety
+    - Repository Mining
+    - Project Management
 
 - authors: 堀 旭宏, 市井 誠, 川上 真澄 
   year: 2020年10月
@@ -462,7 +577,8 @@
   link: https://doi.org/10.11309/jssst.37.4_10
   publisher: コンピュータソフトウェア, 37 (4), pp. 4_10-4_16
   tags:
-    - Evolution, Analytics
+    - Repository Mining
+    - Project Management
 
 - authors: 松本紀子, 小坂忠義, 中島洋平, 櫻田崇治, 田野 俊一 
   year: 2020年10月
@@ -470,25 +586,32 @@
   link: http://id.nii.ac.jp/1001/00207147/
   publisher: 情報処理学会論文誌コンシューマ・デバイス&システム, Vol.190, No.3, pp.11-23
   tags:
-    - Evolution, Analytics
+    - Application
 
 - authors: 古家 直樹，長谷川 学，小坂 忠義，薦田 憲久 
   year: 2020年10月
   title: 分割ルートハッシュ方式を用いたブロックチェーン利用トレーサビリティ管理システム
   link: https://cir.nii.ac.jp/crid/1572824504368622208
   publisher: 電気学会情報システム研究会予稿集，pp.85-90，2020
+  tags:
+    - Application
 
 - authors: 長谷川 学，古家 直樹，小坂 忠義 
   year: 2020年10月
   title: データ秘匿性を考慮した物流トレーサビリティデータ検索技術の開発
   link: https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-IS20054-PDF/
   publisher: 電気学会情報システム研究会予稿集，pp.97-101
+  tags:
+    - Application
 
 - authors: 大島 浩資, 秋下 耀介, 若林 昇, 川上 真澄 
   year: 2020年9月
   title: 組込みシステムへのプロダクトライン型開発導入容易化に向けた可変性モデリング手法「機器-パッケージモデル」の提案
   link: http://id.nii.ac.jp/1001/00206635/
   publisher: ソフトウェアエンジニアリングシンポジウム2020
+  tags:
+    - Design, Implementation
+    - Modeling
 
 - authors: Sato, N., Kuruma, H., & Ogawa, H. 
   year: 2020年9月
@@ -497,6 +620,7 @@
   publisher: ソフトウェアエンジニアリングシンポジウム2020
   tags:
     - Testing, Verification
+    - AI, ML
 
 - authors: 伊川宏美, 山﨑晃, 本村憲一朗, 志村昭俊, 小泉稔
   year: 2020年6月
@@ -513,12 +637,15 @@
   publisher: 情報処理学会論文誌, 61 (4), pp. 908-917
   tags:
     - Repository Mining
+    - Design, Implementation
 
 - authors: 堀田 勇樹, 稲葉 龍, 豊田 英弘 
   year: 2020年3月
   title: 一般道自動運転に向けたリスク予測に基づく走行制御技術の開発
   link: https://tech.jsae.or.jp/paperinfo/ja/content/jk202003.18/
   publisher: 自動車技術会誌「自動車技術」, Vol.74, No.3, pp.100-101
+  tags:
+    - Application
 
 - authors: 松本紀子, 大塚康平, 田野俊一
   year: 2020年3月
@@ -545,6 +672,7 @@
   publisher: 日立Webページ
   tags:
     - Evolution, Analytics
+    - Design, Implementation
 
 - authors: Tsuchiya, R., Nishikawa, K., Washizaki, H., Fukazawa, Y., Shinohara, Y., Oshima, K., & Mibe, R. 
   year: 2019
@@ -553,6 +681,8 @@
   publisher: IEICE TRANSACTIONS on Information and Systems, 102 (9), pp. 1750-1760
   tags:
     - Evolution, Analytics
+    - Design, Implementation
+    - Repository Mining
 
 - authors: Yasuda, K., Itoh, S., Mibe, R., Jodai, Y., & Nakaya, F. 
   year: 2019, December
@@ -560,7 +690,8 @@
   link: https://doi.org/10.1109/APSEC48747.2019.00040
   publisher: In Proceedings of the 26th Asia-Pacific Software Engineering Conference (APSEC), pp. 236-243. IEEE
   tags:
-    - Quality, Reliability, Safety
+    - Evolution, Analytics
+    - Requirement
 
 - authors: 堀 旭宏, 市井 誠, 川上 真澄 
   year: 2019年12月
@@ -568,7 +699,8 @@
   publisher: 第26回ソフトウェア工学の基礎ワークショップ (FOSE2019)
   awards: 🎖FOSE貢献賞(フルペーパー部門)
   tags:
-    - Evolution, Analytics
+    - Repository Mining
+    - Project Management
 
 - authors: 曾我 遼, 是木 玄太, 井奥 章, 前岡 淳
   year: 2019年11月
@@ -576,6 +708,7 @@
   publisher: 第26回ソフトウェア工学の基礎ワークショップ(FOSE2019)
   tags:
     - Evolution, Analytics
+    - Design, Implementation
 
 - authors: Matsumoto, T., Kosaka, T., Sakurada, T., Nakajima, Y., Tano, S. 
   year: 2019, October
@@ -592,6 +725,8 @@
   publisher: 日立Webページ
   tags:
     - Evolution, Analytics
+    - Repository Mining
+    - Design, Implementation
 
 - authors: Hori, A., Kawakami, M., & Ichii, M. 
   year: 2019, September
@@ -600,6 +735,8 @@
   publisher: In Proceedings of 2019 Working Conference on Software Visualization (VISSOFT), pp. 83-87. IEEE
   tags:
     - Evolution, Analytics
+    - Repository Mining
+    - Design, Implementation
 
 - authors: Matsumoto, T., Kosaka, T., Ara, K., Suemitsu, I., Horita, T., Tano, S. 
   year: 2019, September
@@ -614,6 +751,8 @@
   link: https://doi.org/10.11221/jima.70.81
   publisher: 日本経営工学会論文誌, Vol.70, No.2, pp.82-93
   awards: 🎖日本経営工学会2019論文賞
+  tags:
+    - Application
 
 - authors: 松本紀子, 小坂忠義, 中島洋平, 櫻田崇治, 尾崎友哉, 田野 俊一 
   year: 2019年5月
@@ -656,6 +795,7 @@
   publisher: In Proceedings of the 1st International Workshop on Machine Learning Systems Engineerning (iMLSE)
   tags:
     - AI, ML
+    - Quality, Reliability, Safety
 
 - authors: Ohbayashi, H., Kanuka, H., & Okamoto, C. 
   year: 2018, December
@@ -678,7 +818,7 @@
   publisher: 第25回ソフトウェア工学の基礎ワークショップ (FOSE2018)
   tags:
     - Repository Mining
-    - Evolution, Analytics
+    - Design, Implementation
 
 - authors: 松本紀子, 小坂忠義, 荒宏視, 末光一成, 堀田哲裕, 尾崎友哉 
   year: 2018年5月
@@ -694,6 +834,7 @@
   link: https://doi.org/10.1109/ICSTW.2018.00060
   publisher: In Proceedings of 2018 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), pp. 273-278. IEEE
   tags:
+    - AI, ML
     - Testing, Verification
 
 - authors: Rajith, A., Soki, S., & Hiroshi, M. 
@@ -701,6 +842,8 @@
   title: Real-time optimized HVAC control system on top of an IoT framework
   link: https://doi.org/10.1109/FMEC.2018.8364062
   publisher: In Proceedings of 2018 Third International Conference on Fog and Mobile Edge Computing (FMEC), pp. 181-186. IEEE
+  tags:
+    - Architecture
 
 - authors: 松本紀子, 小坂忠義, 荒宏視, 末光一成, 堀田哲裕, 尾崎友哉 
   year: 2017年8月
@@ -708,7 +851,7 @@
   link: http://id.nii.ac.jp/1001/00183092/
   publisher: 情報処理学会研究報告コンシューマ・デバイス&システム(CDS), 2017-CDS-20, Vol.1, pp.1-8
   tags:
-    - Evolution, Analytics
+    - Application
 
 - authors: Maeoka, J., Tanabe, Y., & Ishikawa, F. 
   year: 2016
@@ -717,6 +860,7 @@
   publisher: In Computer and Information Science 2015, pp. 75-96. Springer, Cham
   tags:
     - Testing, Verification
+    - formal Method
 
 - authors: Ichii, M., Shimbara, D., Suzuki, Y., & Ogawa, H. 
   year: 2016, September
@@ -725,6 +869,8 @@
   publisher: In Proceedings of the 1st International Workshop on Software Refactoring, pp. 17-24
   tags:
     - Testing, Verification
+    - Design, Implementation
+    - Modeling
 
 - authors: Nagano,T., Serizawa, K., Yoshioka, N., Tahara, Y., & Ohsuga, A.
   year: 2015, November
@@ -734,6 +880,7 @@
   awards: 🎖Beat Paper Award
   tags:
     - Testing, Verification
+    - Modeling
 
 - authors: 市井 誠, 小川 秀人 
   year: 2015年8月
@@ -742,6 +889,7 @@
   publisher: コンピュータソフトウェア, 32 (3), pp. 70-76
   tags:
     - Testing, Verification
+    - Modeling
 
 - authors: 市井 誠, 小川 秀人 
   year: 2015年1月
