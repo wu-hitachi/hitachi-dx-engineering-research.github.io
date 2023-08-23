@@ -19,6 +19,7 @@ layout: filter
         {% for award in item.awards %}
           <b>{{award}}</b>
         {% endfor %}
+        <br />
         {% for tag in item.tags %}
             <div class="chip btn"> {{tag}} </div>
         {% endfor %}
