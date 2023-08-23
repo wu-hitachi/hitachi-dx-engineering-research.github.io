@@ -12,9 +12,15 @@ layout: filter
     <li>
         {{item.authors}},
         ({{item.year}}).
-        <a href="{{ item.link }}">
-        {{ item.title }},
-        </a>
+        <b> 
+            {% if item.link %}
+                <a href="{{ item.link }}">
+                {{ item.title }}
+                </a>,
+            {% else %}
+                {{ item.title }},
+            {% endif %}
+        </b>
         {{item.publisher}}
         {% for award in item.awards %}
           <b>{{award}}</b>
