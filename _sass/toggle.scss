@@ -74,13 +74,13 @@ $link-light: hsla(208, 100, 67, 0.2); //#56afff
 	border-radius: rem(16);
 	// color: $white87;
 	font-family: $roboto;
-	font-size: rem(13);
+	font-size: rem(12);
 	font-weight: $regular;
 	letter-spacing: rem(0.25);
 	display: inline-block;
 	padding: 0 rem(5);
 	text-decoration: none;
-	height: rem(32);
+	height: rem(24);
 	margin: rem(2) rem(2);
 	outline: none;
 	@extend %animation;
@@ -137,12 +137,16 @@ $link-light: hsla(208, 100, 67, 0.2); //#56afff
     justify-content: center;
 
     /* Background color */
-    background-color: #d1d5db;
+    background-color: #e1e3e5;
 
     /* Rounded border */
     border-radius: 9999px;
 
     /* Spacing */
     padding: 0.25rem 0.5rem;
+
+	margin-bottom: 0.25rem;
+
+	font-size: 0.75rem;
 }
 
