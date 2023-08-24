@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Software Engineering Conferences and Journals
 
 ソフトウェア工学関連会議・論文誌リスト

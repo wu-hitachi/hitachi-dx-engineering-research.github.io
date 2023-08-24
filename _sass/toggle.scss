@@ -1,0 +1,152 @@
+/**
+ * Typography
+ */
+
+//Font family
+$roboto: 'Roboto', sans-serif;
+$roboto_mono: 'Roboto Mono', monospace;
+$font-icons: 'Material+Icons';
+
+//Font weight
+$thin: 100;
+$light: 300;
+$regular: 400;
+$medium: 500;
+$bold: 700;
+$black: 900;
+
+/**
+ * Colors
+ */
+
+$primary: hsla(120, 73, 75, 0.87); //#90ee90
+$primary-dark: hsla(120, 74%, 75%, 0.3); //#8eee8e
+
+$white87: hsla(0, 0%, 100%, 0.87); //#fff
+$white60: hsla(0, 0%, 100%, 0.6); //#fff
+$white30: hsla(0, 0%, 100%, 0.3); //#fff
+$white15: hsla(0, 0%, 100%, 0.15); //#fff
+$white0: hsla(0, 0%, 100%, 0.0); //#fff
+
+$dark-gray: hsla(0, 0%, 7%, 1); //#121212
+
+$link: hsla(208, 100, 67, 1); //#56afff
+$link-light: hsla(208, 100, 67, 0.2); //#56afff
+
+/**
+ * rem
+ */
+// Convert a pixel value to REM units
+@function rem($pixel) {
+  @return $pixel / 16 + rem;
+}
+
+
+///////////
+
+%chip-active {
+	background-color: $primary;
+	// border: rem(1) solid $white0;
+	color: $dark-gray;
+}
+
+%animation {
+	transition: all 0.2s ease-in;
+}
+
+.c-chips {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.c-chips-intro_text {
+	font-family: $roboto_mono;
+	font-size: rem(16);
+	font-weight: $regular;
+	color: $white87;
+	margin-right: rem(8);
+}
+
+.c-chip {
+	// background-color: $dark-gray;
+	border: rem(1) solid $dark-gray;
+	border-radius: rem(16);
+	// color: $white87;
+	font-family: $roboto;
+	font-size: rem(12);
+	font-weight: $regular;
+	letter-spacing: rem(0.25);
+	display: inline-block;
+	padding: 0 rem(5);
+	text-decoration: none;
+	height: rem(24);
+	margin: rem(2) rem(2);
+	outline: none;
+	@extend %animation;
+}
+
+.selected-tag {
+	&:hover {
+		background-color: $primary-dark;
+		// border: rem(1) solid transparent;
+		// color: $white87;
+	}
+	
+	&:focus {	
+		// border: rem(1) solid $link;
+		color: $link;
+	}
+	
+	&:active {
+		background-color: $primary;
+		// border: rem(1) solid transparent;
+		color: $dark-gray;
+	}
+	
+	&.is-active {
+		@extend %chip-active;
+			&:hover {
+				background-color: $primary;
+				color: $dark-gray;
+			}
+
+			&:focus {
+				background-color: $link;
+				// border: rem(1) solid transparent;
+				color: $dark-gray;
+			}
+
+			&:active {
+				background-color: $primary;
+				// border: rem(1) solid transparent;
+				color: $dark-gray;
+			}
+	}
+	
+	span {
+		pointer-events: none;
+	}
+}
+
+// https://csslayout.io/chip/
+.chip {
+    /* Center the content */
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+
+    /* Background color */
+    background-color: #e1e3e5;
+
+    /* Rounded border */
+    border-radius: 9999px;
+
+    /* Spacing */
+    padding: 0.25rem 0.5rem;
+
+	margin-bottom: 0.25rem;
+
+	font-size: 0.75rem;
+}
+
