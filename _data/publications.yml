@@ -25,7 +25,7 @@
   tags:
     - Software Product Lines
 
-- authors: 高澤一平, 河野洋平, 但馬慶行,望月義則
+- authors: 高澤一平, 河野洋平, 但馬慶行, 望月義則
   year: 2023年8月
   title: 時系列データ中の部分系列の特性を考慮した距離指標の提案
   publisher: 2023年電気学会 電子・情報・システム部門大会
@@ -35,16 +35,28 @@
 - authors: 吉岡遼, 肥後芳樹, 柗本真佑, 楠本真二, 伊藤信治, Phan Thi Thanh Huyen
   year: 2023年8月
   title: 例外処理を検査するテストが実行経路に基づく欠陥限局手法に与える影響の調査
+  link: http://id.nii.ac.jp/1001/00227169/
   publisher: ソフトウェアエンジニアシンポジウム(SES2023)
+  awards: 🎖最優秀論文賞
   tags:
     - Testing, Verification
 
 - authors: 鹿糠秀行，是木玄太，曾我遼，西川和寿
   year: 2023年8月
   title: 設計モデルとコード間の双方向トレーサビリティ問題へのChatGPT適用実験
+  link: http://id.nii.ac.jp/1001/00227199/
   publisher: ソフトウェアエンジニアシンポジウム(SES2023)
+  awards: 🎖企業ポスター賞
   tags:
     - Testing, Verification
+
+- authors: 松本 渚紗
+  year: 2023年8月
+  title: 非機能要件とIaCテンプレートの対応関係に基づくアーキテクチャ設計支援システムの検討
+  link: http://id.nii.ac.jp/1001/00227197/
+  publisher: ソフトウェアエンジニアシンポジウム(SES2023)
+  tags:
+    - Architecture
 
 - authors: M. Sekine, D. Shimbara, T. Myojin, E. Imatani 
   year: July, 2023
@@ -63,7 +75,7 @@
     - AI, ML
     - Quality, Reliability, Safety
 
-- authors: M. Kawakami, F. Ishikawa 
+- authors: M. Kawakami, F. Ishikawa (NII)
   year: May, 2023
   title: "Domain-specific Modeling Environment Construction Tool based on View Patterns: RapidDSM"
   publisher: The 21st IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2023)
@@ -77,7 +89,7 @@
   publisher: リックテレコム
   tags:
     - Testing, Verification
-    
+
 - authors: 新原 敦介, 関根 理敏, 小川 秀人
   year: 2023年3月
   title: AI搭載システム向け品質保証
@@ -164,7 +176,6 @@
   title: 自然言語解析を用いた開発プロジェクトリスク状況の定量化・可視化
   publisher: 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)
   tags:
-    - Application
     - Project Management
 
 - authors: 加賀 洋渡 
