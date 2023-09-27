@@ -1,3 +1,14 @@
+
+- authors: Hideyuki Kanuka, Genta Koreki, Ryo Soga, Kazu Nishikawa
+  year: September, 2023
+  title: Exploring ChatGPT Approach to Bidirectional Traceability Problem between Design Models and Code
+  link: https://doi.org/10.48550/arXiv.2309.14992
+  publisher: arXiv:2309.14992 [cs.SE]
+  tags:
+    - AI, ML
+    - Design, Implementation
+    - Evolution, Analytics
+
 - authors: 川上真澄
   year: 2023年9月
   title: データドリブンなソフトウェア開発プロジェクトマネジメント
