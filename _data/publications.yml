@@ -1,3 +1,57 @@
+- authors: 田中佑奈，清水遼，鹿糠秀行，河合克己
+  year: 2023年11月
+  title: サービス連動テスト網羅度の測定を通じたテスト漏れ候補の検出
+  link: https://www.kindaikagaku.co.jp/book_list/detail/9784764960732/
+  publisher: 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)
+  tags: 
+    - Testing, Verification
+
+- authors: 西川和寿，鹿糠秀行，是木玄太，曾我遼
+  year: 2023年11月
+  title: ChatGPTを用いたソースコードコメント生成における用語抽出と反映の検
+  publisher: 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)
+  tags: 
+    - Evolution, Analytics
+    - AI, ML
+
+- authors: 是木玄太，井奥章，村田大二郎，鹿糠秀行, 石川貞裕，山口潔
+  year: 2023年11月
+  title: 意図的なソースコード切り出しに基づくChatGPTを用いたソースコードコメント生成方法の提案
+  publisher: 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)
+  tags: 
+    - Evolution, Analytics
+    - AI, ML
+
+- authors: 村田大二郎，是木玄太，井奥章, 石川貞裕，山口潔
+  year: 2023年11月
+  title: 画面イベント関係情報類似度に基づく画面コーディング支援技術の提案
+  publisher: 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)
+  tags: 
+    - Design, Implementation
+
+- authors: 鈴木康文，川上真澄
+  year: 2023年11月
+  title: 配列を含むREST API向けテスト自動生成のためのペアワイズ法の拡張
+  publisher: 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)
+  tags: 
+     - Testing, Verification
+ 
+- authors: Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, Kazumasa Shimari, Takashi Ishio
+  year: October, 2023
+  title: Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis
+  publisher: 39th IEEE Int. Conf. on Softw. Maintenance and Evolution (ICSME2023)
+  tags:
+    - Evolution, Analytics
+    - AI, ML
+
+- authors: 小川秀人
+  years: 2023年10月
+  title: 善きに改め、善きを改め
+  publisher: SPI Japan 2023 
+  tags:
+    - Software Process Improvement
+    - Testing, Verification
+    - AI, ML
 
 - authors: Hideyuki Kanuka, Genta Koreki, Ryo Soga, Kazu Nishikawa
   year: September, 2023
