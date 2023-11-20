@@ -38,7 +38,7 @@
  
 - authors: Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, Kazumasa Shimari, Takashi Ishio
   year: October, 2023
-  title: Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis
+  title: "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis"
   publisher: 39th IEEE Int. Conf. on Softw. Maintenance and Evolution (ICSME2023)
   tags:
     - Evolution, Analytics
