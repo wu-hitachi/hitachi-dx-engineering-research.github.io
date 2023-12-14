@@ -44,6 +44,15 @@
   tags:
     - Evolution, Analytics
     - AI, ML
+
+- authors: "大津智宏，河野洋平，望月義則"
+  year: "2023年10月"
+  title: "運転条件の異なるバッチ重合プロセスにおけるグレイボックスモデルに基づくモデル予測制御に向けた数値的検討"
+  publisher: "第66回自動制御連合講演会"
+  tags:
+   - "AI, ML"
+   - "Control Engineering"
+     
 - authors: "小川秀人"
   year: "2023年10月"
   title: "パネルディスカッション「企業におけるAI品質マネジメントに必要な視点」ポジショントーク"
