@@ -1,3 +1,27 @@
+- authors: "鹿糠秀行，小川秀人"
+  year: "2024年3月"
+  title: "GPT-4Vを活用したスケッチ駆動型プロトタイプ開発の試行"
+  publisher: "電子情報通信学会 2024年総合大会(D-13-04)"
+  tags:
+   - "AI, ML"
+   - "Design, Implementation"
+
+- authors: "野寄祐樹，鹿糠秀行，野尻周平，鷲崎弘宜，深澤良彰"
+  year: "2024年3月"
+  title: "ChatGPTを活用したバグレポートの文章単位の自動ラベリング"
+  publisher: "電子情報通信学会 2024年総合大会(D-3-14) ※早大共同研究成果"
+  tags:
+   - "AI, ML"
+   - "Quality, Reliability, Safety"
+
+- authors: "木下崇央，田口真衣，平林義健，山田塔太，鹿糠秀行"
+  year: "2024年3月"
+  title: "企業インターンシップにおけるソフトウェア開発作業へのChatGPTの応用"
+  publisher: "電子情報通信学会 2024年総合大会(D-3-02) ※23年(シスE3)夏季インターンシップの成果"
+  tags:
+   - "AI, ML"
+   - "Human Factor"
+
 - authors: 田中佑奈，清水遼，鹿糠秀行，河合克己
   year: 2023年11月
   title: サービス連動テスト網羅度の測定を通じたテスト漏れ候補の検出
