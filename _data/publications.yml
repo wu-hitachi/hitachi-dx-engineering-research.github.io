@@ -22,6 +22,34 @@
    - "AI, ML"
    - "Human Factor"
 
+- authors: "小川秀人"
+  year: "2024年2月"
+  title: " AI品質『マネジメント』への期待"
+  link: "https://www.digiarc.aist.go.jp/event/grand_canvas2023/"
+  publisher: "GrandCanvas:AI品質の未来を共に描く～AI品質マネジメントネットワーキングシンポジウム～"
+  tags:
+   - "AI, ML"
+   - "Quality, Reliability, Safety"
+
+- authors: "新原敦介, 小川秀人"
+  year: "2023年1月"
+  title: "LLMを用いたVDM++の生成の評価"
+  link: "https://wws.sigse.jp/2024/program.html"
+  publisher: "ウィンターワークショップ2024・イン・鹿児島"
+  tags:
+   - "Testing, Verification"
+   - "Design, Implementation"
+   - "AI, ML"
+
+- authors: "小川秀人"
+  year: "2024年1月"
+  title: "パネルディスカッション ポジショントーク"
+  link: "https://qa4ai.connpass.com/event/303295/"
+  publisher: "Open QA4AI Conference 2023"
+  tags:
+   - "AI, ML"
+   - "Quality, Reliability, Safety"
+
 - authors: 田中佑奈，清水遼，鹿糠秀行，河合克己
   year: 2023年11月
   title: サービス連動テスト網羅度の測定を通じたテスト漏れ候補の検出
