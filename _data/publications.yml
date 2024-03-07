@@ -1,3 +1,11 @@
+- authors: "大林浩気，河合克己"
+  year: "2024年3月"
+  title: "大規模言語モデル用いた類似見直し支援ツール"
+  publisher: "電子情報通信学会 2024年総合大会(D-13-13)"
+  tags:
+   - "Quality, Reliability
+   - "Safety, AI, ML"
+
 - authors: "鹿糠秀行，小川秀人"
   year: "2024年3月"
   title: "GPT-4Vを活用したスケッチ駆動型プロトタイプ開発の試行"
