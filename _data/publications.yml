@@ -1,10 +1,19 @@
+- authors: "Ryo Shimizu, Yuna Nunomura, Hideyuki Kanuka"
+  year: "March, 2024"
+  title: "Test-suite-guided discovery of least privilege for cloud infrastructure as code"
+  link: "https://doi.org/10.1007/s10515-024-00420-5"
+  publisher: "Automated Software Engineering 31, 25"
+  tags:
+   - "Testing, Verification"
+   - "Cloud Computing"
+
 - authors: "大林浩気，河合克己"
   year: "2024年3月"
   title: "大規模言語モデル用いた類似見直し支援ツール"
   publisher: "電子情報通信学会 2024年総合大会(D-13-13)"
   tags:
-   - "Quality, Reliability
-   - "Safety, AI, ML"
+   - "Quality, Reliability, Safety"
+   - "AI, ML"
 
 - authors: "鹿糠秀行，小川秀人"
   year: "2024年3月"
