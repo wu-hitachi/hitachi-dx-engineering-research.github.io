@@ -2,9 +2,8 @@
 layout: default
 ---
 
-| [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) |
+| [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | [Publication List](publications.html) |
 
----
 
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
 デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
@@ -15,8 +14,6 @@ We strive to achieve advanced software development suitable for the digital tran
 **紹介動画 [[2分バージョン]](https://www.youtube.com/watch?v=1RDdBRm3yco) [[5分バージョン]](https://www.youtube.com/watch?v=VV4KXtKip1o)**
 
 **[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
-
-**[Publication List](publications.html)**
 
 **[Software Engineering Conferences and Journals](confAndJournals.html)**
 
