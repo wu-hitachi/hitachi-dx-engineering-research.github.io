@@ -1,3 +1,12 @@
+- authors: 日立製作所Generative AIセンター監修 (小川秀人共著)
+  year: "2024年3月"
+  title: "実践　生成AIの教科書　－　実績豊富な活用事例とノウハウで学ぶ"
+  link: https://www.ric.co.jp/book/new-publication/detail/2667
+  publisher: リックテレコム
+  tags:
+    - "AI, ML"
+    - "Design, Implementation"
+
 - authors: "Ryo Shimizu, Yuna Nunomura, Hideyuki Kanuka"
   year: "March, 2024"
   title: "Test-suite-guided discovery of least privilege for cloud infrastructure as code"
