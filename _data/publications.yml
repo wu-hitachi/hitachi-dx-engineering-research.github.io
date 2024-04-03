@@ -48,6 +48,14 @@
    - "AI, ML"
    - "Quality, Reliability, Safety"
 
+- authors: "古家直樹,矢内直人(阪大),藤原融(阪大・島根大)"
+  year: "2024年1月"
+  title: "TEEを用いた関数型暗号による秘匿配送マッチングの実現"
+  link: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=231830&item_no=1&page_id=13&block_id=8"
+  publisher: "情処論文誌デジタルプラクティス,Vol.5,No.1"
+  tags:
+   - "Application"
+
 - authors: "新原敦介, 小川秀人"
   year: "2024年1月"
   title: "LLMを用いたVDM++の生成の評価"
