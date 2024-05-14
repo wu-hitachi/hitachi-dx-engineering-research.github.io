@@ -1,3 +1,12 @@
+- authors: "Naoto Sato, Ryota Katsube"
+  year: "April, 2024"
+  title: "Locating Buggy Segments in Quantum Program Debugging"
+  link: "https://conf.researchr.org/details/icse-2024/icse-2024-new-ideas-and-emerging-results/23/Locating-Buggy-Segments-in-Quantum-Program-Debugging"
+  publisher: "ICSE-NIER’24, April 14–20, 2024, Lisbon, Portugal"
+  tags:
+   - "Testing, Verification"
+   - "Quantum Computing"
+
 - authors: "Takahiro Kinoshita, Hideyuki Kanuka"
   year: "April, 2024"
   title: "Enhancing Automated Microservice Decomposition via Multi-Objective Optimization"
@@ -6,6 +15,15 @@
   tags:
    - "Architecture"
    - "Design, Implementation"
+
+- authors: "中村悠人, 石本優太, 勝部瞭太, 佐藤直人, 小川秀人, 近藤将成, 亀井靖高, 鵜林尚靖"
+  year: "2024年3月"
+  title: "量子プログラムにおけるSATDの分類と評価"
+  link: "https://ken.ieice.org/ken/paper/20240315Rccf/"
+  publisher: "電子情報通信学会技術研究報告, Volume 123, Number 443"
+  tags:
+   - "Quantum Computing"
+   - "Quality, Reliability, Safety"
 
 - authors: 日立製作所Generative AIセンター監修 (小川秀人共著)
   year: "2024年3月"
