@@ -75,6 +75,17 @@
    - "AI, ML"
    - "Human Factor"
 
+- authors: "Syafril Bandara; Punit Galav; Takehiko Nagano; Yoshitaka Atarashi; Tetsuya Nishida; Trongmun Jiralerspong"
+  year: "February 2024"
+  title: "Improvement of Lane-Level Lateral Position Estimation for Ego Vehicle From Front Camera Data"
+  link: "https://doi.org/10.1109/ICMRE60776.2024.10532190"
+  publisher: "2024 10th International Conference on Mechatronics and Robotics Engineering (ICMRE)"
+  awards: "🎖Best Presentation"
+  tags:
+   - "Application"
+   - "Design, Implementation"
+
+
 - authors: "小川秀人"
   year: "2024年2月"
   title: " AI品質『マネジメント』への期待"
