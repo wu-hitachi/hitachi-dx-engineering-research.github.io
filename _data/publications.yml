@@ -75,6 +75,14 @@
    - "AI, ML"
    - "Human Factor"
 
+- authors: "吉村 健太郎"
+  year: "2024年2月"
+  title: "生成AIを活用した自動車向けソフトウェア開発の効率化"
+  publisher: "第9回 オートモーティブ・ソフトウェア・フロンティア 2024"
+  tags:
+   - "Application"
+   - "AI, ML"  
+
 - authors: "Syafril Bandara; Punit Galav; Takehiko Nagano; Yoshitaka Atarashi; Tetsuya Nishida; Trongmun Jiralerspong"
   year: "February 2024"
   title: "Improvement of Lane-Level Lateral Position Estimation for Ego Vehicle From Front Camera Data"
