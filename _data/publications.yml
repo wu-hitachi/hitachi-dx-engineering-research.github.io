@@ -196,6 +196,14 @@
     - Testing, Verification
     - AI, ML
 
+- authors: "Kentaro Yoshimura, Haruki Oishi"
+  year: "September, 2024"
+  title: "Variability Management for Large Language Model Tasks: Practical Insights from an Industrial Application"
+  publisher: "28th ACM International Systems and Software Product Line Conference"
+  tags:
+   - "AI, ML"
+   - "Software Product Lines"  
+
 - authors: "Kentaro Yoshimura"
   year: "September, 2023"
   title: "Panel – Intelligent SPLs"
