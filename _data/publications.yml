@@ -196,6 +196,14 @@
     - Testing, Verification
     - AI, ML
 
+- authors: "Kentaro Yoshimura, Yuta Yamauchi and Hideo Takahashi"
+  year: "September, 2023"
+  title: "Managing Variability of Logistics Robot System: Experience at Hitachi"
+  publisher: "27th ACM International Systems and Software Product Line Conference (SPLC 2023)"
+  tags:
+   - "Software Product Lines"
+   - "Application"  
+
 - authors: Hideyuki Kanuka, Genta Koreki, Ryo Soga, Kazu Nishikawa
   year: September, 2023
   title: Exploring ChatGPT Approach to Bidirectional Traceability Problem between Design Models and Code
