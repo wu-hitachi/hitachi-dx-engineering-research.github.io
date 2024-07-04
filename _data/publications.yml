@@ -1,3 +1,11 @@
+- authors: "小川秀人"
+  year: "2024年7月"
+  title: "エンジニアリングへの生成AIのインパク"
+  link: "https://www.ipsj.or.jp/event/seminar/2024/program03.html"
+  publisher: "情報処理学会 連続セミナー2024, 第3回 産業界での生成AI開発／活用"
+  tags:
+   - "AI, ML"  
+
 - authors: "Naoto Sato, Ryota Katsube"
   year: "April, 2024"
   title: "Locating Buggy Segments in Quantum Program Debugging"
