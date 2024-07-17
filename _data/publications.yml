@@ -1,3 +1,11 @@
+- authors: "小川秀人，島袋潤，日野雅透，若林昇，川上真澄"
+  year: "2024年7月"
+  title: "企業グループ横断的な組み込みソフトウェア設計力の評価および強化施策の実践"
+  link: "https://www.ipsj.or.jp/dp/contents/publication/59/TR0503-05.html"
+  publisher: "情報処理学会トランザクションデジタルプラクティス, vol.5 No.3, pp.38--49"
+  tags:
+   - "Software Process Improvement"  
+
 - authors: "小川秀人"
   year: "2024年7月"
   title: "エンジニアリングへの生成AIのインパクト"
