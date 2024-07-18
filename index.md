@@ -14,14 +14,11 @@ We strive to achieve advanced software development suitable for the digital tran
 **紹介動画**
 
 <div>
-<iframe src="https://www.youtube.com/embed/1RDdBRm3yco"></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
 </div>
-2分バージョン
+再生時間：約5分
 
-<div>
-<iframe src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
-</div>
-5分バージョン
+２分間バージョンは[こちら](https://www.youtube.com/watch?v=1RDdBRm3yco)です
 
 **[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
 
