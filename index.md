@@ -2,16 +2,26 @@
 layout: default
 ---
 
-| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | 
+| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) |
 
 
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
 デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
 
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group.
-We strive to achieve advanced software development suitable for the digital transformation era. 
+We strive to achieve advanced software development suitable for the digital transformation era.
 
-**紹介動画 [[2分バージョン]](https://www.youtube.com/watch?v=1RDdBRm3yco) [[5分バージョン]](https://www.youtube.com/watch?v=VV4KXtKip1o)**
+**紹介動画**
+
+<div>
+<iframe src="https://www.youtube.com/embed/1RDdBRm3yco"></iframe>
+</div>
+2分バージョン
+
+<div>
+<iframe src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
+</div>
+5分バージョン
 
 **[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
 
@@ -76,4 +86,3 @@ Efficient process and method to develop safety-critical systems.
 - Fault injection
 - Log-based anomaly detection
 - Keyword-driven testing
-
