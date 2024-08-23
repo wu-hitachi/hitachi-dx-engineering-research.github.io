@@ -1,3 +1,19 @@
+- authors: "小川秀人，島袋潤，日野雅透，若林昇，川上真澄"
+  year: "2024年7月"
+  title: "企業グループ横断的な組み込みソフトウェア設計力の評価および強化施策の実践"
+  link: "https://www.ipsj.or.jp/dp/contents/publication/59/TR0503-05.html"
+  publisher: "情報処理学会トランザクションデジタルプラクティス, vol.5 No.3, pp.38--49"
+  tags:
+   - "Software Process Improvement"  
+
+- authors: "小川秀人"
+  year: "2024年7月"
+  title: "エンジニアリングへの生成AIのインパクト"
+  link: "https://www.ipsj.or.jp/event/seminar/2024/program03.html"
+  publisher: "情報処理学会 連続セミナー2024, 第3回 産業界での生成AI開発／活用"
+  tags:
+   - "AI, ML"  
+
 - authors: "Naoto Sato, Ryota Katsube"
   year: "April, 2024"
   title: "Locating Buggy Segments in Quantum Program Debugging"
@@ -74,6 +90,14 @@
   tags:
    - "AI, ML"
    - "Human Factor"
+
+- authors: "吉村 健太郎"
+  year: "2024年2月"
+  title: "生成AIを活用した自動車向けソフトウェア開発の効率化"
+  publisher: "第9回 オートモーティブ・ソフトウェア・フロンティア 2024"
+  tags:
+   - "Application"
+   - "AI, ML"  
 
 - authors: "Syafril Bandara; Punit Galav; Takehiko Nagano; Yoshitaka Atarashi; Tetsuya Nishida; Trongmun Jiralerspong"
   year: "February 2024"
@@ -195,6 +219,29 @@
     - Software Process Improvement
     - Testing, Verification
     - AI, ML
+
+- authors: "Kentaro Yoshimura, Haruki Oishi"
+  year: "September, 2024"
+  title: "Variability Management for Large Language Model Tasks: Practical Insights from an Industrial Application"
+  publisher: "28th ACM International Systems and Software Product Line Conference"
+  tags:
+   - "AI, ML"
+   - "Software Product Lines"  
+
+- authors: "Kentaro Yoshimura"
+  year: "September, 2023"
+  title: "Panel – Intelligent SPLs"
+  publisher: "27th ACM International Systems and Software Product Line Conference (SPLC 2023)"
+  tags:
+   - "Software Product Lines"  
+
+- authors: "Kentaro Yoshimura, Yuta Yamauchi and Hideo Takahashi"
+  year: "September, 2023"
+  title: "Managing Variability of Logistics Robot System: Experience at Hitachi"
+  publisher: "27th ACM International Systems and Software Product Line Conference (SPLC 2023)"
+  tags:
+   - "Software Product Lines"
+   - "Application"  
 
 - authors: Hideyuki Kanuka, Genta Koreki, Ryo Soga, Kazu Nishikawa
   year: September, 2023
