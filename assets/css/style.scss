@@ -3,3 +3,15 @@
 
 @import "jekyll-theme-minimal";
 @import "toggle";
+
+// index.mdのキーワード折り畳み+マウスオーバハイライト
+summary {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  transition: 0.2s;
+}
+summary:hover{
+  cursor: pointer;
+  background-color: #EFEFEF;
+}
