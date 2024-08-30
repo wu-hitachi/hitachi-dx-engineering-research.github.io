@@ -20,7 +20,7 @@ We strive to achieve advanced software development suitable for the digital tran
 
 ２分間バージョンは[こちら](https://www.youtube.com/watch?v=1RDdBRm3yco)です
 
-**[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/HITACHDXENGINEERINGRESEARCH.pdf)**
+**[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/2024DXEngineering.pdf)**
 
 **[Software Engineering Conferences and Journals](confAndJournals.html)**
 
