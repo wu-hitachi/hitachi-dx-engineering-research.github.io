@@ -127,6 +127,14 @@
    - "AI, ML"
    - "Quality, Reliability, Safety"
 
+- authors: "関口隆昭，寺岡秀敏"
+  year: "2024年1月"
+  title: "ラベリングベース高速経路探索における通行規制対応方式"
+  link: "http://id.nii.ac.jp/1001/00231645/"
+  publisher: "情報処理学会研究報告コンシューマ・デバイス＆システム（CDS）2024-CDS-39(44)"
+  tags:
+   - "Application"  
+
 - authors: "古家直樹,矢内直人(阪大),藤原融(阪大・島根大)"
   year: "2024年1月"
   title: "TEEを用いた関数型暗号による秘匿配送マッチングの実現"
