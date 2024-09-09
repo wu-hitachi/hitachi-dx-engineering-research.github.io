@@ -5,7 +5,6 @@
   publisher: "情報処理学会トランザクションデジタルプラクティス, vol.5 No.3, pp.38--49"
   tags:
    - "Software Process Improvement"  
-
 - authors: "小川秀人"
   year: "2024年7月"
   title: "エンジニアリングへの生成AIのインパクト"
@@ -13,6 +12,15 @@
   publisher: "情報処理学会 連続セミナー2024, 第3回 産業界での生成AI開発／活用"
   tags:
    - "AI, ML"  
+
+- authors: "関根 理敏, 新原 敦介, 明神 智之, 今谷 恵理"
+  year: "2024年5月"
+  title: "テキスト駆動型属性操作に基づく生成的自動データ拡張の検討"
+  link: "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2L6OS19b01/_article/-char/ja"
+  publisher: "第38回人工知能学会全国大会"
+  tags:
+   - "AI, ML"
+   - "Testing, Verification"  
 
 - authors: "Naoto Sato, Ryota Katsube"
   year: "April, 2024"
