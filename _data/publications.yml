@@ -40,6 +40,14 @@
    - "Architecture"
    - "Design, Implementation"
 
+- authors: "堀田　勇樹"
+  year: "2024年3月"
+  title: "自動運転の高度化に向けたリスク予測技術"
+  publisher: "Hitachiアカデミックシステム研究会（HAS研）第50回研究会"
+  tags:
+   - "Application"
+   - "autonomous driving"  
+
 - authors: "中村悠人, 石本優太, 勝部瞭太, 佐藤直人, 小川秀人, 近藤将成, 亀井靖高, 鵜林尚靖"
   year: "2024年3月"
   title: "量子プログラムにおけるSATDの分類と評価"
