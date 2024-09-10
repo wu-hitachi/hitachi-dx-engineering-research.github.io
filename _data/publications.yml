@@ -162,6 +162,14 @@
    - "AI, ML"
    - "Quality, Reliability, Safety"
 
+- authors: "堀田　勇樹"
+  year: "2023年11月"
+  title: "移動障害物を考慮した経路計画を可能とするリスクマップ"
+  publisher: "情報処理学会論文誌"
+  tags:
+   - "autonomous driving"
+   - "Application"  
+
 - authors: 田中佑奈，清水遼，鹿糠秀行，河合克己
   year: 2023年11月
   title: サービス連動テスト網羅度の測定を通じたテスト漏れ候補の検出
