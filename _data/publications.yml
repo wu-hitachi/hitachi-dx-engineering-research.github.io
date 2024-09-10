@@ -377,6 +377,14 @@
     - AI, ML
     - Quality, Reliability, Safety
 
+- authors: "堀田　勇樹"
+  year: "2023年2月"
+  title: "自動運転の高度化に向けたリスク予測技術について"
+  publisher: "組込みシステム産業振興機構オープンイノベーションセミナー"
+  tags:
+   - "autonomous driving"
+   - "Application"  
+
 - authors: 曾我 遼, 鹿糠 秀行, 久保 孝富, 石尾 隆 
   year: 2023年02月
   title: 視線と心拍を用いたプログラム理解状況の推定
