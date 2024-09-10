@@ -170,10 +170,10 @@
    - "AI, ML"
    - "Quality, Reliability, Safety"
 
-- authors: "堀田　勇樹"
+- authors: "堀田勇樹, Gabriel Daniel, 稲葉龍, 児島隆生, 早瀬茂規"
   year: "2023年11月"
   title: "移動障害物を考慮した経路計画を可能とするリスクマップ"
-  publisher: "情報処理学会論文誌"
+  publisher: "情報処理学会論文誌 Vol.64, No.11, pp.1548-1560"
   tags:
    - "autonomous driving"
    - "Application"  
