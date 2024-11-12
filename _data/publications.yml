@@ -1,3 +1,11 @@
+- authors: "Yohei Kono, Yoshinori Mochizuki"
+  year: "August 2024"
+  title: "Estimating Air Consumption in Compressed Air Systems"
+  link: "https://controls.papercept.net/conferences/conferences/SICE24/program/SICE24_ContentListWeb_2.html"
+  publisher: "SICE FES 2024"
+  tags:
+   - "Control Engineering"  
+
 - authors: "小川秀人，島袋潤，日野雅透，若林昇，川上真澄"
   year: "2024年7月"
   title: "企業グループ横断的な組み込みソフトウェア設計力の評価および強化施策の実践"
@@ -12,6 +20,15 @@
   publisher: "情報処理学会 連続セミナー2024, 第3回 産業界での生成AI開発／活用"
   tags:
    - "AI, ML"  
+
+- authors: "守谷歩"
+  year: "2024年6月"
+  title: "状態遷移テストツールAustinの開発と組込み装置向けシナリオ作成工数削減アプローチ"
+  link: "https://www.sea.jp/ss2024/download/15-ss2024.pdf"
+  publisher: "ソフトウェア・シンポジウム2024"
+  tags:
+   - "Testing, Verification" 
+
 
 - authors: "関根 理敏, 新原 敦介, 明神 智之, 今谷 恵理"
   year: "2024年5月"
@@ -39,7 +56,7 @@
   tags:
    - "Architecture"
    - "Design, Implementation"
-
+ 
 - authors: "堀田　勇樹"
   year: "2024年3月"
   title: "自動運転の高度化に向けたリスク予測技術"
@@ -142,6 +159,15 @@
   publisher: "情報処理学会研究報告コンシューマ・デバイス＆システム（CDS）2024-CDS-39(44)"
   tags:
    - "Application"  
+  
+- authors: "小川秀人"
+  year: "2024年1月"
+  title: "AI技術の変化を踏まえたこれからの品質保証"
+  link: "https://qa4ai.connpass.com/event/303295/"
+  publisher: "Open QA4AI Conference"
+  tags:
+    -  "AI, ML"
+    - "Quality, Reliability, Safety"
 
 - authors: "古家直樹,矢内直人(阪大),藤原融(阪大・島根大)"
   year: "2024年1月"
@@ -353,6 +379,15 @@
     - AI, ML
     - Quality, Reliability, Safety
 
+- authors: 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄
+  year: 2023年7月
+  title: 相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験
+  link: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302288425059814
+  publisher: 情報処理学会論文誌, vol.64, no.7, pp1139-1152
+  tags:
+    - Repository Mining
+    - Project Management
+
 - authors: 関根 理敏, 新原 敦介, 明神 智之, 今谷 恵理
   year: 2023年6月
   title: データセットの品質評価に向けた半教師あり表現学習による属性値の回帰予測手法
@@ -384,6 +419,30 @@
   tags:
     - AI, ML
     - Quality, Reliability, Safety
+
+- authors: 但馬 慶行, 濱上 知樹
+  year: 2023年3月
+  title: Ordinal Regression Based on the Distributional Distance for Tabular Data
+  link: https://ieeexplore.ieee.org/document/9658911
+  publisher: 電子情報通信学会/英字論文誌
+  tags:
+    - AI, ML
+
+- authors: 來間啓伸, 村田大二郎, 関根理敏, 新原敦介
+  year: "2024年2月"
+  title: "推論結果の不確実性に基づく運用時データシフトの検知"
+  publisher: "日本ソフトウェア科学会研究会資料シリーズ(Web) (99) 2023年"
+  link: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302280007701220
+  tags:
+    - AI, ML
+
+- authors: 松本 紀子，古家 直樹，下村 真帆，古屋 聡一
+  year: "2024年3月"
+  title: "マルチモーダル向け多主体KPI貨客混載マッチングシステムの開発"
+  publisher: "情報処理学会研究報告コンシューマ・デバイス＆システム"
+  link: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302294062001896
+  tags:
+    - "Application"
 
 - authors: "堀田　勇樹"
   year: "2023年2月"
@@ -418,6 +477,14 @@
   publisher: Journal of Information Processing, Special Section on digital practices, 2023, Vol.31, pp143-153
   tags:
     - Requirement
+
+- authors: 古家直樹，末光一成，薦田憲久(阪大)，藤原融(阪大)
+  year: 2023年1月
+  title: 格納期間評価による倉庫内の在庫移動方式
+  link: https://www.jstage.jst.go.jp/article/jima/73/4/73_210/_article/-char/ja/
+  publisher: 日本経営工学会論文誌
+  tags:
+    - Application
 
 - authors: 來間 啓伸，明神 智之，佐藤 直人，小川 秀人 
   year: 2022年12月
@@ -561,6 +628,14 @@
     - Software Process Improvement
     - AI, ML
 
+- authors: 但馬慶行，望月義則
+  year: 2022年8月
+  title: ディープニューラルネットワークを用いた局所線形回帰
+  link: https://www.bookpark.ne.jp/cm/ieej/detail/IEEJ-BTC2022TC18005-PDF/
+  publisher: 2022年 電気学会C部門大会
+  tags:
+    - AI, ML
+
 - authors: 伊藤 蓮，伊川 宏美，山形 知行，菅原 禎生
   year: 2022年6月
   title: 組立順序生成システムの刷新によるクラウド上での並列分散処理の実現
@@ -682,6 +757,14 @@
     - Architecture
     - Evolution, Analytics
 
+- authors: 但馬 慶行, 濱上 知樹 
+  year: 2021年10月
+  title: Ordinal Regression Based on the Distributional Distance Between Labels
+  link: https://ieeexplore.ieee.org/document/9658911
+  publisher: 2021 IEEE/SMC
+  tags:
+    - AI, ML
+
 - authors: 古家 直樹，長谷川 学，小坂 忠義，薦田 憲久 
   year: 2021年10月
   title: 分割ルートハッシュ方式を用いたブロックチェーン利用トレーサビリティ管理システム
@@ -737,6 +820,14 @@
     - Repository Mining
     - Project Management
 
+- authors: 但馬 慶行, 濱上 知樹
+  year: 2021年9月
+  title: ラベルの分布間距離に基づく誤り方を考慮した識別モデル
+  link: https://www.jstage.jst.go.jp/article/ieejeiss/141/9/141_1048/_article/-char/ja/
+  publisher: 電気学会論文誌
+  tags:
+    - AI, ML
+
 - authors: 長野 岳彦, 小口 琢夫, 吉岡 信和, 田原 康之, 大須賀 昭彦 
   year: 2021年8月
   title: 組込みシステム向け障害解析環境の効率改善
@@ -748,6 +839,14 @@
   tags:
     - Testing, Verification
     - Design, Implementation
+
+- authors: 但馬慶行，高橋由泰
+  year: 2021年8月
+  title: GTFSデータを用いた路線バスの遅延状況推定
+  link: https://www.ieice.org/publications/conference-FIT-DVDs/FIT2021/data/pdf/M-002.pdf
+  publisher: FIT2021
+  tags:
+    - Modeling
 
 - authors: ロボット革命・産業IoTイニシアティブ協議会 
   year: 2021年7月
@@ -963,6 +1062,14 @@
   tags:
     - Repository Mining
     - Design, Implementation
+
+- authors: 堀田 勇樹, 稲葉 龍, 豊田 英弘 
+  year: 2023年3月
+  title: 一般道自動運転に向けたリスク予測に基づく走行制御技術の開発
+  link: https://tech.jsae.or.jp/paperinfo/ja/content/jk202003.18/
+  publisher: 自動車技術会誌「自動車技術」, Vol.74, No.3, pp.100-101
+  tags:
+    - Application
 
 - authors: 堀田 勇樹, 稲葉 龍, 豊田 英弘 
   year: 2020年3月
