@@ -1,3 +1,12 @@
+- authors: "川上真澄, 小川秀人"
+  year: "2024年9月"
+  title: "生成AI普及によるソフト開発ビジネスへの影響検討 "
+  link: "https://ses.sigse.jp/2024/wp-content/uploads/2024/10/ws3.pdf"
+  publisher: "ソフトウェアエンジニアリングシンポジウム2024 ワークショップ, 情報処理学会ソフトウェア工学研究会"
+  tags:
+   - "AI, ML"
+   - "Application"  
+
 - authors: "小川秀人，島袋潤，日野雅透，若林昇，川上真澄"
   year: "2024年7月"
   title: "企業グループ横断的な組み込みソフトウェア設計力の評価および強化施策の実践"
