@@ -9,6 +9,16 @@
    - "Formal Method"
    - "Testing, Verification"  
 
+- authors: "木下崇央, 鹿糠秀行, 乾広二, 田中優利, 太田聡"
+  year: "2024年9月"
+  title: "マイクロサービスアーキテクチャへの移行における対話的現新比較手法"
+  link: "http://id.nii.ac.jp/1001/00239160/"
+  publisher: "ソフトウェアエンジニアリングシンポジウム2024論文集, pp.317-318"
+  tags:
+   - "AI, ML"
+   - "Evolution, Analysis"
+   - "Testing, Verification"  
+
 - authors: "川上真澄, 小川秀人"
   year: "2024年9月"
   title: "生成AI普及によるソフト開発ビジネスへの影響検討 "
