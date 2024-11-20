@@ -1,3 +1,14 @@
+- authors: "新原敦介, 小川秀人"
+  year: "2024年9月"
+  title: "LLMを用いた形式仕様記述による検証の試行評価"
+  link: "http://id.nii.ac.jp/1001/00239159/"
+  publisher: "ソフトウェアエンジニアリングシンポジウム2024論文集, pp.315-316"
+  awards: "🎖企業ポスター賞"
+  tags:
+   - "AI, ML"
+   - "Formal Method"
+   - "Testing, Verification"  
+
 - authors: "川上真澄, 小川秀人"
   year: "2024年9月"
   title: "生成AI普及によるソフト開発ビジネスへの影響検討 "
