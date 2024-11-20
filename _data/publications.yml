@@ -19,6 +19,13 @@
    - "Evolution, Analysis"
    - "Testing, Verification"  
 
+- authors: "森承宇, 井奥章,永吉勤, 小川秀人"
+  year: "2024年9月"
+  title: "類似案件検索を活用した要求仕様評価技術の開発"
+  publisher: "ソフトウェアエンジニアリングシンポジウム2024,ポスター"
+  tags:
+   - "Requirement"  
+
 - authors: "川上真澄, 小川秀人"
   year: "2024年9月"
   title: "生成AI普及によるソフト開発ビジネスへの影響検討 "
