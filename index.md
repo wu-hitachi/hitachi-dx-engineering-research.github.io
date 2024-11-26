@@ -2,7 +2,8 @@
 layout: default
 ---
 
-| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) |
+| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | [募集業種](positions.html)
+<!-- TODO:切替タブのlayout化,defaultレイアウトに組み込む？（index以外でも使えるようにしたい） -->
 
 
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
@@ -34,7 +35,7 @@ Modern IT system development method for achieving "Digital Transformation".
 
 - <details><summary><u>Cloud Native Computing</u></summary><p>クラウドネイティブ・コンピューティング</p><p>スケーラビリティ、耐障害性、効率性のため，クラウドサービスを活用したアプリケーションの構築とデプロイメントを支援します。</p><p>Building and deploying applications that leverage cloud services for scalability, resilience, and efficiency.</p></details>
 
-- <details><summary><u>Agile Development Process</u></summary><p>アジャイル開発</p><p>反復的で顧客からのフィードバックを重視した、協調的なソフトウェア開発を行います。</p><p>Iterative and collaborative software development, emphasizing adaptability and customer feedback.</p></details>
+- <details><summary><u>Agile Development Process</u></summary><p>アジャイル開発</p>アジャイル開発<p>反復的で顧客からのフィードバックを重視した、協調的なソフトウェア開発を行います。</p><p>Iterative and collaborative software development, emphasizing adaptability and customer feedback.</p></details>
 
 - <details><summary><u>Legacy System Modernization</u></summary><p>レガシーシステムの近代化</p><p>レガシーシステムを最新の技術に変換し、機能を強化し、寿命を延ばします。</p><p>Transforming outdated systems to contemporary technologies, enhancing functionality, and extending lifespan.</p></details>
 
