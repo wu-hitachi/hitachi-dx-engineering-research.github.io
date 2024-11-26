@@ -2,7 +2,8 @@
 layout: default
 ---
 
-| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) |
+| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | [募集業種](positions.html)
+<!-- TODO:切替タブのlayout化,defaultレイアウトに組み込む？（index以外でも使えるようにしたい） -->
 
 
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
