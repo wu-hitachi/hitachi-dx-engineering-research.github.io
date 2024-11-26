@@ -8,6 +8,7 @@
    - "AI, ML"
    - "Formal Method"
    - "Testing, Verification"  
+  new: true
 
 - authors: "木下崇央, 鹿糠秀行, 乾広二, 田中優利, 太田聡"
   year: "2024年9月"
@@ -18,6 +19,7 @@
    - "AI, ML"
    - "Evolution, Analysis"
    - "Testing, Verification"  
+  new: true
 
 - authors: "森承宇, 井奥章,永吉勤, 小川秀人"
   year: "2024年9月"
@@ -25,6 +27,7 @@
   publisher: "ソフトウェアエンジニアリングシンポジウム2024,ポスター"
   tags:
    - "Requirement"  
+  new: true
 
 - authors: "川上真澄, 小川秀人"
   year: "2024年9月"
@@ -34,6 +37,7 @@
   tags:
    - "AI, ML"
    - "Application" 
+  new: true
 
 - authors: "Yohei Kono, Yoshinori Mochizuki"
   year: "August 2024"
@@ -41,7 +45,8 @@
   link: "https://controls.papercept.net/conferences/conferences/SICE24/program/SICE24_ContentListWeb_2.html"
   publisher: "SICE FES 2024"
   tags:
-   - "Control Engineering"  
+   - "Control Engineering"
+  new: true 
 
 - authors: "小川秀人，島袋潤，日野雅透，若林昇，川上真澄"
   year: "2024年7月"

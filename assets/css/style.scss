@@ -16,3 +16,9 @@ summary:hover{
   cursor: pointer;
   background-color: #EFEFEF;
 }
+
+.new-item::before {
+  content: "[NEW]";
+  color: red;
+  font-weight: bold;
+}
