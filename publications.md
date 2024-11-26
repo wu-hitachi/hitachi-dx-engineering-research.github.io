@@ -9,7 +9,7 @@ layout: filter
 <div id="publications">
     <ul>
     {% for item in site.data.publications %}
-    <li>
+    <li class="{% if item.new %}new-item{% endif %}">
         {{item.authors}},
         ({{item.year}}).
         <b> 
