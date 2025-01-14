@@ -7,7 +7,8 @@ layout: default
 #TODO:レイアウト調整
 ---
 
-| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | [募集業種](positions.html)
+| [Publication List](publications.html) | [株式会社日立製作所](https://www.hitachi.co.jp/) | [研究開発](https://www.hitachi.co.jp/rd/index.html) | [Hitachi, Ltd.](https://www.hitachi.com/) | [Research & Development](https://www.hitachi.com/rd/index.html) | [募集業種](positions.html) | 
+
 <!-- TODO:切替タブのlayout化,defaultレイアウトに組み込む？（index以外でも使えるようにしたい） -->
 
 # 募集業種情報
@@ -31,17 +32,17 @@ layout: default
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    table {
+    .job-table {
       width: 60%; /* 表の幅を60%に設定 */
       margin-left: 0; /* 左側に余白をなくして左端に配置 */
       border-collapse: collapse; /* 表の境界線を重ねて表示 */
     }
-    th, td {
+    .job-table th, .job-table td {
       padding: 4px 8px; /* セル内の余白を設定 */
       text-align: left; /* 左揃え */
       border: 1px solid #ccc; /* セルの枠線 */
     }
-    th {
+    .job-table th {
       background-color: #f4f4f4; /* ヘッダーセルの背景色 */
     }
   </style>
@@ -49,7 +50,7 @@ layout: default
 </head>
 <body>
 
-  <table>
+  <table class="job-table">
     <thead>
       <tr>
         <th>項目</th>
