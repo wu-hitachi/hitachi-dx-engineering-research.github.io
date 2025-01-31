@@ -19,6 +19,15 @@
    - "Design, Implementation"  
   new: true
 
+- authors: "大林 浩気，河合 克己"
+  year: "2024年11月"
+  title: "大規模言語モデルを用いた派生開発向け改修取り込み支援ツール"
+  publisher: "第31回ソフトウェア工学の基礎ワークショップ (FOSE2024) ポスター発表"
+  tags:
+   - "AI, ML"
+   - "Design, Implementation"  
+  new: true
+
 - authors: "新原敦介, 小川秀人"
   year: "2024年9月"
   title: "LLMを用いた形式仕様記述による検証の試行評価"
