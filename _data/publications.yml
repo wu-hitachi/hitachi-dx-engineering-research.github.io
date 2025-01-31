@@ -10,6 +10,15 @@
    - "Modeling"  
   new: true
 
+- authors: "布村佑奈，清水遼，鹿糠秀行，河合克己"
+  year: "2024年12月"
+  title: "サービス連動テストの網羅度測定を介したテスト漏れ候補の検知"
+  link: "https://doi.org/10.11309/jssst.41.4_7"
+  publisher: "コンピュータ ソフトウェア, Vol.41，No.4，pp7-13，2024"
+  tags:
+   - "Testing, Verification"  
+  new: true
+
 - authors: "Kazu Nishikawa, Genta Koreki, Hideyuki Kanuka"
   year: "November, 2024"
   title: "Enhancing Source Code Comment Generation via Retrieval-Augmented Generation with Design Document Term Dictionary"
