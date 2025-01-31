@@ -1,3 +1,15 @@
+- authors: "Kentaro Yoshimura, Yuta Yamauchi and Hideo Takahashi"
+  year: "December, 2024 (will be appeared)"
+  title: "Managing the Variability of a Logistics Robotic System"
+  link: "will be appeared"
+  publisher: "The Journal of Systems & Software"
+  tags:
+   - "Application"
+   - "Software Product Lines"
+   - "Architecture"
+   - "Modeling"  
+  new: true
+
 - authors: "Kazu Nishikawa, Genta Koreki, Hideyuki Kanuka"
   year: "November, 2024"
   title: "Enhancing Source Code Comment Generation via Retrieval-Augmented Generation with Design Document Term Dictionary"
