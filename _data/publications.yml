@@ -19,6 +19,15 @@
    - "Design, Implementation"  
   new: true
 
+- authors: "Yuhao Wu, Makoto Ichii, Masumi Kawakami, Fumie Nakaya, Yoshinori Jodai"
+  year: "November, 2024"
+  title: "A Machine-learning-based Approach for Project Success/Failure Prediction in Software Development"
+  publisher: "第31回ソフトウェア工学の基礎ワークショップ (FOSE2024)"
+  tags:
+   - "Project Management"
+   - "AI, ML"  
+  new: true
+
 - authors: "大林 浩気，河合 克己"
   year: "2024年11月"
   title: "大規模言語モデルを用いた派生開発向け改修取り込み支援ツール"
