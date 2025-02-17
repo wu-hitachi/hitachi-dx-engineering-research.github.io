@@ -1,3 +1,12 @@
+- authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
+  year: "Feb. 2025"
+  title: "Generating Shuttling Procedures for Constrained Silicon Quantum Dot Array"
+  link: "https://ieeexplore.ieee.org/document/10890998"
+  publisher: "IEEE Transactions on Quantum Engineering, DOI:10.1109/TQE.2025.3542462"
+  tags:
+   - "Quantum Computing"  
+  new: true
+
 - authors: "Kentaro Yoshimura, Yuta Yamauchi and Hideo Takahashi"
   year: "December, 2024 (will be appeared)"
   title: "Managing the Variability of a Logistics Robotic System"
@@ -8,7 +17,6 @@
    - "Software Product Lines"
    - "Architecture"
    - "Modeling"  
-  new: true
 
 - authors: "布村佑奈，清水遼，鹿糠秀行，河合克己"
   year: "2024年12月"
@@ -17,7 +25,6 @@
   publisher: "コンピュータ ソフトウェア, Vol.41，No.4，pp7-13，2024"
   tags:
    - "Testing, Verification"  
-  new: true
 
 - authors: "Kazu Nishikawa, Genta Koreki, Hideyuki Kanuka"
   year: "November, 2024"
@@ -26,7 +33,6 @@
   tags:
    - "AI, ML"
    - "Design, Implementation"  
-  new: true
 
 - authors: "Yuhao Wu, Makoto Ichii, Masumi Kawakami, Fumie Nakaya, Yoshinori Jodai"
   year: "November, 2024"
@@ -35,7 +41,6 @@
   tags:
    - "Project Management"
    - "AI, ML"  
-  new: true
 
 - authors: "大林 浩気，河合 克己"
   year: "2024年11月"
@@ -44,7 +49,6 @@
   tags:
    - "AI, ML"
    - "Design, Implementation"  
-  new: true
 
 - authors: "新原敦介, 小川秀人"
   year: "2024年9月"
