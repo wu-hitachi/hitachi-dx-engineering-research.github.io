@@ -13,7 +13,7 @@ We strive to achieve advanced software development suitable for the digital tran
 
 **紹介動画**
 
-<div>
+<div class="video-container">
 <iframe width="600" height="400" src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
 </div>
 再生時間：約5分
