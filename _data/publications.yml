@@ -34,7 +34,7 @@
    - "Architecture"  
   new: true
 
-   - authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
+- authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
   year: "Feb. 2025"
   title: "Generating Shuttling Procedures for Constrained Silicon Quantum Dot Array"
   link: "https://ieeexplore.ieee.org/document/10890998"
