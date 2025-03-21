@@ -1,11 +1,27 @@
-- authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
+- authors: "川上真澄"
+  year: "2025年2月"
+  title: "生成AIによる業務変革：2030年のソフトウェア産業像の推察"
+  link: "https://home.jeita.or.jp/system/seminar/250207.html"
+  publisher: "2024年度JEITA ソフトウェアエンジニアリング技術ワークショップ"
+  tags:
+   - "AI, ML"
+   - "Design, Implementation"
+   - "Code Generation"
+   - "Requirement"
+   - "Human Factor"
+   - "Project Management"
+   - "Software Process Improvement"
+   - "Evolution, Analysis"
+   - "Architecture"  
+  new: true
+
+   - authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
   year: "Feb. 2025"
   title: "Generating Shuttling Procedures for Constrained Silicon Quantum Dot Array"
   link: "https://ieeexplore.ieee.org/document/10890998"
   publisher: "IEEE Transactions on Quantum Engineering, DOI:10.1109/TQE.2025.3542462"
   tags:
    - "Quantum Computing"  
-  new: true
 
 - authors: "Kentaro Yoshimura, Yuta Yamauchi and Hideo Takahashi"
   year: "December, 2024 (will be appeared)"
