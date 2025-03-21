@@ -1,3 +1,22 @@
+- authors: "鷲崎弘宜, 元山厚, 小川秀人"
+  year: "2025年3月"
+  title: "生成 AI はシステム開発をどう変革していくのか？"
+  link: "https://rd.hitachi.co.jp/_ct/17753201"
+  publisher: "Insights from AI/Analytics"
+  tags:
+   - "AI, ML"
+   - "Human Factor"
+   - "Project Management"
+   - "Evolution, Analysis"
+   - "Requirement"
+   - "Quality, Reliability, Safety"
+   - "Architecture"
+   - "Design, Implementation"
+   - "Code Generation"
+   - "Testing, Verification"  
+  new: true
+
+
 - authors: "川上真澄"
   year: "2025年2月"
   title: "生成AIによる業務変革：2030年のソフトウェア産業像の推察"
