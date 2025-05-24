@@ -1,3 +1,12 @@
+- authors: "Yuta Ishimoto, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, Ryota Katsube, Naoto Sato, and Hideto Ogawa"
+  year: "June, 2025"
+  title: "Evaluating Mutation-based Fault Localization for Quantum Programs"
+  link: "https://conf.researchr.org/details/ease-2025/ease-2025-short-papers--emerging-results/8/Evaluating-Mutation-based-Fault-Localization-for-Quantum-Programs"
+  publisher: "EASE 2025 Short Papers, Emerging Results"
+  tags:
+   - "Testing, Verification"
+   - "Quantum Computing"  
+
 - authors: "鷲崎弘宜, 元山厚, 小川秀人"
   year: "2025年3月"
   title: "生成 AI はシステム開発をどう変革していくのか？"
