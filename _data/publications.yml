@@ -1,3 +1,23 @@
+- authors: "WASHIZAKI Hironori, Motoyama Atsushi, OGAWA Hideto"
+  year: "June, 2025"
+  title: "How will generative AI change system development?"
+  link: "https://rd.hitachi.com/_ct/17768359"
+  publisher: " Insights from AI/Analytics, Hitachi Research & Development"
+  tags:
+   - "AI, ML"
+   - "Human Factor"
+   - "Project Management"
+   - "Software Process Improvement"
+   - "Evolution, Analysis"
+   - "Quality, Reliability, Safety"
+   - "Requirement"
+   - "Modeling"
+   - "Architecture"
+   - "Design, Implementation"
+   - "Code Generation"
+   - "Testing, Verification"  
+  new: true
+
 - authors: "Yuta Ishimoto, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, Ryota Katsube, Naoto Sato, and Hideto Ogawa"
   year: "June, 2025"
   title: "Evaluating Mutation-based Fault Localization for Quantum Programs"
@@ -6,7 +26,6 @@
   tags:
    - "Testing, Verification"
    - "Quantum Computing"  
-  new: true
 
 - authors: "鷲崎弘宜, 元山厚, 小川秀人"
   year: "2025年3月"
