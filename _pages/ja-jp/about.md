@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: About
+title: 概要
 permalink: /
 subtitle:
 
@@ -25,15 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group. We strive to achieve advanced software development suitable for the digital transformation era.
+日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
+デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
 
 <div>
 <iframe width="600" height="400" src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
 </div>
-Playback time: about 5 minutes
+再生時間：約5分
 
-[Here's](<https://www.youtube.com/watch?v=1RDdBRm3yco>) the 2 minute version
+２分間バージョンは[こちら](https://www.youtube.com/watch?v=1RDdBRm3yco)です
 
-**[brochure(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/2024DXEngineering.pdf)**
+**[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/2024DXEngineering.pdf)**
 
 **[Software Engineering Conferences and Journals](confAndJournals.html)**
