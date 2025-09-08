@@ -36,7 +36,7 @@ Technology for developing reliable, high-quality AI and AI-based systems.
 
 - <summary><u>Safety and Trustworthiness of AI</u></summary><p>Addressing concerns related to the safe and ethical deployment of AI, emphasizing transparency, accountability, and the minimization of biases.</p>
 
-- <summary><u>Ethics of AI</u></summary>><p>Examining the ethical implications of AI technology, addressing issues such as privacy, bias, and the responsible use of intelligent systems.</p>
+- <summary><u>Ethics of AI</u></summary><p>Examining the ethical implications of AI technology, addressing issues such as privacy, bias, and the responsible use of intelligent systems.</p>
 
 - <summary><u>Development Process and Tools for AI</u></summary><p>Implementing structured methodologies and tools tailored for the efficient development and management of AI projects.</p>
 
