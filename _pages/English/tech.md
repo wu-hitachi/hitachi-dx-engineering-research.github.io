@@ -36,7 +36,7 @@ Technology for developing reliable, high-quality AI and AI-based systems.
 
 - <summary><u>Safety and Trustworthiness of AI</u></summary><p>Addressing concerns related to the safe and ethical deployment of AI, emphasizing transparency, accountability, and the minimization of biases.</p>
 
-- <summary><u>Ethics of AI</u></summary><p>AI倫理</p><p>Examining the ethical implications of AI technology, addressing issues such as privacy, bias, and the responsible use of intelligent systems.</p>
+- <summary><u>Ethics of AI</u></summary>><p>Examining the ethical implications of AI technology, addressing issues such as privacy, bias, and the responsible use of intelligent systems.</p>
 
 - <summary><u>Development Process and Tools for AI</u></summary><p>Implementing structured methodologies and tools tailored for the efficient development and management of AI projects.</p>
 
@@ -84,6 +84,6 @@ Efficient process and method to develop safety-critical systems.
 
 - <summary><u>Log-Based Anomaly Detection</u></summary><p>Detecting abnormal behavior or potential issues in software systems by analyzing logs and other runtime data.</p>
 
-- <summary><u>Fault Injection</u></summary<p>Simulating faults or errors in a controlled environment to assess the resilience and robustness of a system under various failure scenarios.</p>
+- <summary><u>Fault Injection</u></summary><p>Simulating faults or errors in a controlled environment to assess the resilience and robustness of a system under various failure scenarios.</p>
 
 - <summary><u>Keyword-Driven Testing</u></summary><p>Implementing testing strategies based on predefined keywords or actions, enhancing test case design and automation in software testing.</p>
