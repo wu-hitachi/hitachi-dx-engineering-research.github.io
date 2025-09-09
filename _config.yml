@@ -344,8 +344,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["English", "日本語"]
-default_lang: "English" # This need to tbe the same as the first entry in the languages list
+languages: ["日本語", "English"]
+default_lang: "日本語" # This need to tbe the same as the first entry in the languages list
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
