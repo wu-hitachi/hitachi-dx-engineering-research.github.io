@@ -14,98 +14,98 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
-    section: "Navigation menu",
+    id: "nav-概要",
+    title: "概要",
+    section: "",
     handler: () => {
       window.location.href = "/hitachi-dx-engineering-research.github.io/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-研究業績",
+          title: "研究業績",
           description: "",
-          section: "Navigation menu",
+          section: "",
           handler: () => {
             window.location.href = "/hitachi-dx-engineering-research.github.io/publications/";
           },
-        },{id: "nav-tech",
-          title: "Tech",
+        },{id: "nav-技術",
+          title: "技術",
           description: "",
-          section: "Navigation menu",
+          section: "",
           handler: () => {
             window.location.href = "/hitachi-dx-engineering-research.github.io/tech/";
           },
-        },{id: "nav-recruitment",
-          title: "Recruitment",
+        },{id: "nav-募集要項",
+          title: "募集要項",
           description: "",
-          section: "Navigation menu",
+          section: "",
           handler: () => {
             window.location.href = "/hitachi-dx-engineering-research.github.io/recruitment/";
           },
         },{
         id: 'social-email',
-        title: 'Send an email',
-        section: 'Socials',
+        title: '',
+        section: '',
         handler: () => {
           window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
         title: 'Inspire HEP',
-        section: 'Socials',
+        section: '',
         handler: () => {
           window.open("https://inspirehep.net/authors/", "_blank");
         },
       },{
         id: 'social-rss',
         title: 'RSS Feed',
-        section: 'Socials',
+        section: '',
         handler: () => {
           window.open("/hitachi-dx-engineering-research.github.io//feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
-        section: 'Socials',
+        section: '',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
-        section: 'Socials',
+        section: '',
         handler: () => {
           window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
-          id: 'lang-日本語',
-          title: '日本語',
-          section: 'Languages',
+          id: 'lang-English',
+          title: 'English',
+          section: '',
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io//日本語" + updatedUrl;
+            window.location.href = "/hitachi-dx-engineering-research.github.io//English" + updatedUrl;
           },
         },{
       id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
+      title: '',
+      description: '',
+      section: '',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
+      title: '',
+      description: '',
+      section: '',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
+      title: '',
+      description: '',
+      section: '',
       handler: () => {
         setThemeSetting("system");
       },
