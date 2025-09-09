@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - dev
   push:
     branches:
       - master
       - main
+      - dev
 
 jobs:
   check:
