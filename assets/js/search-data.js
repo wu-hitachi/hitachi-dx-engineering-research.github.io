@@ -1,10 +1,10 @@
 
 const currentUrl = window.location.href;
 const siteUrl = ""; 
-let updatedUrl = currentUrl.replace("/hitachi-dx-engineering-research.github.io/", "");
+let updatedUrl = currentUrl.replace("", "");
 if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.0.0.1")) {
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
-  updatedUrl = currentUrl.replace(otherSiteUrl + "/hitachi-dx-engineering-research.github.io/", "");
+  updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
 }
 if ("".length > 0) {
   updatedUrl = updatedUrl.replace("/", "");
@@ -18,28 +18,28 @@ ninja.data = [{
     title: "概要",
     section: "",
     handler: () => {
-      window.location.href = "/hitachi-dx-engineering-research.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-研究業績",
           title: "研究業績",
           description: "",
           section: "",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-技術",
           title: "技術",
           description: "",
           section: "",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/tech/";
+            window.location.href = "/tech/";
           },
         },{id: "nav-募集要項",
           title: "募集要項",
           description: "",
           section: "",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/recruitment/";
+            window.location.href = "/recruitment/";
           },
         },{
         id: 'social-email',
@@ -60,7 +60,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: '',
         handler: () => {
-          window.open("/hitachi-dx-engineering-research.github.io//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -81,7 +81,7 @@ ninja.data = [{
           title: 'English',
           section: '',
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io//English" + updatedUrl;
+            window.location.href = "/English" + updatedUrl;
           },
         },{
       id: 'light-theme',

@@ -1,10 +1,10 @@
 
 const currentUrl = window.location.href;
 const siteUrl = ""; 
-let updatedUrl = currentUrl.replace("/hitachi-dx-engineering-research.github.io/", "");
+let updatedUrl = currentUrl.replace("", "");
 if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.0.0.1")) {
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
-  updatedUrl = currentUrl.replace(otherSiteUrl + "/hitachi-dx-engineering-research.github.io/", "");
+  updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
 }
 if ("English".length > 0) {
   updatedUrl = updatedUrl.replace("/English", "");
@@ -18,28 +18,28 @@ ninja.data = [{
     title: "About",
     section: "Navigation menu",
     handler: () => {
-      window.location.href = "/hitachi-dx-engineering-research.github.io/English/";
+      window.location.href = "/English/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/English/publications/";
+            window.location.href = "/English/publications/";
           },
         },{id: "nav-tech",
           title: "Tech",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/English/tech/";
+            window.location.href = "/English/tech/";
           },
         },{id: "nav-recruitment",
           title: "Recruitment",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/English/recruitment/";
+            window.location.href = "/English/recruitment/";
           },
         },{
         id: 'social-email',
@@ -60,7 +60,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/hitachi-dx-engineering-research.github.io//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -81,7 +81,7 @@ ninja.data = [{
           title: '日本語',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/hitachi-dx-engineering-research.github.io/" + updatedUrl;
+            window.location.href = "" + updatedUrl;
           },
         },{
       id: 'light-theme',
