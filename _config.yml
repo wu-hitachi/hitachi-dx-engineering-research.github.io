@@ -75,6 +75,9 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+# Cloudflare Web Analytics
+cloudflare: 19de58d0f11f4fa1b0174471b96a3cef
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
