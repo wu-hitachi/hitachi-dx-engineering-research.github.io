@@ -35,6 +35,6 @@ latest_posts:
 
 ２分間バージョンは[こちら](https://www.youtube.com/watch?v=1RDdBRm3yco)です
 
-**[パンフレット(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/2024DXEngineering.pdf)**
+**[パンフレット(pdf)](assets/pdf/2024DXEngineering.pdf)**
 
 <!-- **[Software Engineering Conferences and Journals](confAndJournals.html)** -->

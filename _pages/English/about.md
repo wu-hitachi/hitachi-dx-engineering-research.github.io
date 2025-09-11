@@ -34,6 +34,6 @@ Playback time: about 5 minutes
 
 [Here's](<https://www.youtube.com/watch?v=1RDdBRm3yco>) the 2 minute version
 
-**[brochure(pdf)](https://hitachi-dx-engineering-research.github.io/pdf/2024DXEngineering.pdf)**
+**[brochure(pdf)](assets/pdf/2024DXEngineering.pdf)**
 
 <!-- **[Software Engineering Conferences and Journals](confAndJournals.html)** -->
