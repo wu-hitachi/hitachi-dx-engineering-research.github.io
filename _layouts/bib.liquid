@@ -48,7 +48,12 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if entry.new %}
+        <span class="badge-new">[NEW]</span>
+      {% endif %}
+      {{ entry.title }}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -186,6 +191,36 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% comment %}Render tags (if present) as badge labels (robust parsing)
+    The bib file may contain tags as a single string. Normalize common formats:
+      - pipe-delimited: TagA-1, TagA-2|TagB
+    {% endcomment %}
+    {% if entry.tags %}
+      {% assign raw_tags = entry.tags | strip %}
+      {% assign raw_tags = raw_tags | remove: '[' | remove: ']' | remove: '"' | remove: "'" %}
+      {% if raw_tags contains '|' %}
+        {% assign tag_items = raw_tags | split: '|' %}
+      {% endif %}
+
+      <div class="tags">
+        {% for tag in tag_items %}
+          {% assign clean = tag | strip %}
+          {% if clean != '' %}
+            <!-- Render tag as clickable badge that will populate the bib search input -->
+              <span
+                class="badge badge-light mr-1 tag-badge"
+                role="button"
+                tabindex="0"
+                aria-label="tag"
+                data-tag="{{ clean | escape }}"
+                title="Filter by {{ clean }}"
+              >
+                {{ clean }}
+              </span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
