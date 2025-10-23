@@ -50,7 +50,7 @@
     <!-- Title -->
     <div class="title">
       {% if entry.new %}
-        <span class="badge-new">[NEW]</span>
+        <span class="badge badge-success rounded mr-1">NEW</span>
       {% endif %}
       {{ entry.title }}
     </div>
@@ -206,7 +206,6 @@
         {% for tag in tag_items %}
           {% assign clean = tag | strip %}
           {% if clean != '' %}
-            <!-- Render tag as clickable badge that will populate the bib search input -->
               <span
                 class="badge badge-light mr-1 tag-badge"
                 role="button"
