@@ -206,7 +206,17 @@
         {% for tag in tag_items %}
           {% assign clean = tag | strip %}
           {% if clean != '' %}
-            <span class="badge badge-light mr-1" aria-label="tag">{{ clean }}</span>
+            <!-- Render tag as clickable badge that will populate the bib search input -->
+              <span
+                class="badge badge-light mr-1 tag-badge"
+                role="button"
+                tabindex="0"
+                aria-label="tag"
+                data-tag="{{ clean | escape }}"
+                title="Filter by {{ clean }}"
+              >
+                {{ clean }}
+              </span>
           {% endif %}
         {% endfor %}
       </div>
