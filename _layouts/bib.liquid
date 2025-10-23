@@ -191,6 +191,26 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% comment %}Render tags (if present) as badge labels (robust parsing)
+    The bib file may contain tags as a single string. Normalize common formats:
+      - pipe-delimited: TagA-1, TagA-2|TagB
+    {% endcomment %}
+    {% if entry.tags %}
+      {% assign raw_tags = entry.tags | strip %}
+      {% assign raw_tags = raw_tags | remove: '[' | remove: ']' | remove: '"' | remove: "'" %}
+      {% if raw_tags contains '|' %}
+        {% assign tag_items = raw_tags | split: '|' %}
+      {% endif %}
+
+      <div class="tags">
+        {% for tag in tag_items %}
+          {% assign clean = tag | strip %}
+          {% if clean != '' %}
+            <span class="badge badge-light mr-1" aria-label="tag">{{ clean }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
