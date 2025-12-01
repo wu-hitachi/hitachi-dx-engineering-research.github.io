@@ -32,7 +32,7 @@ Software Engineering research at Hitachi has been supporting the safety and secu
 </div>
 Playback time: about 5 minutes
 
-[Here's](<https://www.youtube.com/watch?v=1RDdBRm3yco>) the 2 minute version
+[Here's](https://www.youtube.com/watch?v=1RDdBRm3yco) the 2 minute version
 
 **[brochure(pdf)](assets/pdf/2024DXEngineering.pdf)**
 

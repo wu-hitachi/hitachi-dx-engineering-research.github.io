@@ -7,8 +7,8 @@ nav: true
 nav_order: 7
 ---
 
-
 以下、募集業種検索ページにて、
+
 <html lang="ja">
 <head>
   <meta charset="UTF-8">

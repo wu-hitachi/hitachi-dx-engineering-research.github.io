@@ -191,9 +191,10 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-    {% comment %}Render tags (if present) as badge labels (robust parsing)
-    The bib file may contain tags as a single string. Normalize common formats:
-      - pipe-delimited: TagA-1, TagA-2|TagB
+    {% comment %}
+      Render tags (if present) as badge labels (robust parsing)
+      The bib file may contain tags as a single string. Normalize common formats:
+        - pipe-delimited: TagA-1, TagA-2|TagB
     {% endcomment %}
     {% if entry.tags %}
       {% assign raw_tags = entry.tags | strip %}
@@ -206,16 +207,16 @@
         {% for tag in tag_items %}
           {% assign clean = tag | strip %}
           {% if clean != '' %}
-              <span
-                class="badge badge-light mr-1 tag-badge"
-                role="button"
-                tabindex="0"
-                aria-label="tag"
-                data-tag="{{ clean | escape }}"
-                title="Filter by {{ clean }}"
-              >
-                {{ clean }}
-              </span>
+            <span
+              class="badge badge-light mr-1 tag-badge"
+              role="button"
+              tabindex="0"
+              aria-label="tag"
+              data-tag="{{ clean | escape }}"
+              title="Filter by {{ clean }}"
+            >
+              {{ clean }}
+            </span>
           {% endif %}
         {% endfor %}
       </div>
