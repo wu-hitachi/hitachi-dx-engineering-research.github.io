@@ -96,4 +96,6 @@ Playback time: about 5 minutes
 
 </div>
 
+[Read more](https://rd.hitachi.com/_tags/Software_&_Systems)
+
 <!-- **[Software Engineering Conferences and Journals](confAndJournals.html)** -->

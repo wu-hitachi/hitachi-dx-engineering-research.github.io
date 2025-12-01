@@ -97,4 +97,6 @@ latest_posts:
 
 </div>
 
+[もっと見る](https://rd.hitachi.co.jp/_tags/%E5%85%88%E7%AB%AF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%EF%BC%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
+
 <!-- **[Software Engineering Conferences and Journals](confAndJournals.html)** -->
