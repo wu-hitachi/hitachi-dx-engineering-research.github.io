@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
 ## Modernizing Business with IT
 
 Modern IT system development method for achieving "Digital Transformation".
