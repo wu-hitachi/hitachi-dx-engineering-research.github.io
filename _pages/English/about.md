@@ -27,9 +27,13 @@ latest_posts:
 
 Software Engineering research at Hitachi has been supporting the safety and security of society through the highly-reliable products and services provided by the Hitachi group. We strive to achieve advanced software development suitable for the digital transformation era.
 
-<div>
-<iframe width="600" height="400" src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
-</div>
+<iframe
+  src="https://www.youtube.com/embed/VV4KXtKip1o"
+  style="width:100%; aspect-ratio:16/9; border:0;"
+  loading="lazy"
+  allowfullscreen
+></iframe>
+
 Playback time: about 5 minutes
 
 [Here's](https://www.youtube.com/watch?v=1RDdBRm3yco) the 2 minute version

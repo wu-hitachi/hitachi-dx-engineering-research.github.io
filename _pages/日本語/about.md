@@ -28,9 +28,13 @@ latest_posts:
 日立のソフトウェア工学研究は、日立グループが提供する信頼性の高い製品・サービスを通じて、社会の安全・安心を支えてきました。
 デジタルトランスフォーメーション時代にふさわしい高度なソフトウェア開発の実現を目指しています。
 
-<div>
-<iframe width="600" height="400" src="https://www.youtube.com/embed/VV4KXtKip1o"></iframe>
-</div>
+<iframe
+  src="https://www.youtube.com/embed/VV4KXtKip1o"
+  style="width:100%; aspect-ratio:16/9; border:0;"
+  loading="lazy"
+  allowfullscreen
+></iframe>
+
 再生時間：約5分
 
 ２分間バージョンは[こちら](https://www.youtube.com/watch?v=1RDdBRm3yco)です
