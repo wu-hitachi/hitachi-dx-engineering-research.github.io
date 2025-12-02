@@ -348,6 +348,10 @@ external_links:
 # -----------------------------------------------------------------------------
 
 languages: ["ja-jp", "en-us"]
+# Language display names
+language_names:
+  ja-jp: "日本語"
+  en-us: "English"
 default_lang: "ja-jp" # This need to be the same as the first entry in the languages list
 exclude_from_localization: ["assets"]
 lang_from_path: true
