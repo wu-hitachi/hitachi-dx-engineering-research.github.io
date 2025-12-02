@@ -6,8 +6,8 @@ if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
   updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
 }
-if ("English".length > 0) {
-  updatedUrl = updatedUrl.replace("/English", "");
+if ("en-us".length > 0) {
+  updatedUrl = updatedUrl.replace("/en-us", "");
 }
 // get the ninja-keys element
 const ninja = document.querySelector('ninja-keys');
@@ -18,30 +18,44 @@ ninja.data = [{
     title: "About",
     section: "Navigation menu",
     handler: () => {
-      window.location.href = "/English/";
+      window.location.href = "/en-us/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/English/publications/";
+            window.location.href = "/en-us/publications/";
           },
         },{id: "nav-tech",
           title: "Tech",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/English/tech/";
+            window.location.href = "/en-us/tech/";
           },
         },{id: "nav-recruitment",
           title: "Recruitment",
           description: "",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/English/recruitment/";
+            window.location.href = "/en-us/recruitment/";
           },
-        },{
+        },{id: "dropdown-hitachi-ltd",
+              title: "Hitachi, Ltd.",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "en-ushttps://www.hitachi.com/en/";
+              },
+            },{id: "dropdown-research-amp-development-group",
+              title: "Research &amp; Development Group",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "en-ushttps://www.hitachi.com/rd/index.html";
+              },
+            },{
         id: 'social-email',
         title: 'Send an email',
         section: 'Socials',
@@ -77,8 +91,8 @@ ninja.data = [{
           window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
-          id: 'lang-日本語',
-          title: '日本語',
+          id: 'lang-ja-jp',
+          title: 'ja-jp',
           section: 'Languages',
           handler: () => {
             window.location.href = "" + updatedUrl;
