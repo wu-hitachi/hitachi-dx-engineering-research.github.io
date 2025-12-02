@@ -9,5 +9,5 @@ children:
   - title: Hitachi, Ltd.
     permalink: https://www.hitachi.com/en/
   - title: Research & Development Group
-    permalink: https://www.hitachi.com/rd/index.html/
+    permalink: https://www.hitachi.com/rd/index.html
 ---

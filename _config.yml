@@ -347,8 +347,12 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["日本語", "English"]
-default_lang: "日本語" # This need to tbe the same as the first entry in the languages list
+languages: ["ja-jp", "en-us"]
+# Language display names
+language_names:
+  ja-jp: "日本語"
+  en-us: "English"
+default_lang: "ja-jp" # This need to be the same as the first entry in the languages list
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
