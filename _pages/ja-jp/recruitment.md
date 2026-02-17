@@ -7,6 +7,16 @@ nav: true
 nav_order: 7
 ---
 
+
+## 新卒採用
+
+新卒採用については、以下のページをご確認ください。
+
+- [新卒採用（研究開発）](https://www.hitachi.co.jp/recruit/newgraduate/jm-navi/rd/index.html)
+
+
+## キャリア採用
+
 以下、募集業種検索ページにて、
 
 <html lang="ja">
