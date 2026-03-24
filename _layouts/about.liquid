@@ -63,6 +63,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- New publications -->
+    {% if page.new_publications and page.new_publications.enabled %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.new_publications }}</a>
+      </h2>
+      {% include new_publications.liquid %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
