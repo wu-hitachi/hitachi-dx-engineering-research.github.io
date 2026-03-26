@@ -12,7 +12,6 @@ nav_order: 7
 For new graduate recruitment opportunities, please refer to the following page:
 
 - [New Graduate Recruitment (R&D)](https://www.hitachi.co.jp/recruit/en/newgraduate/jm-navi/rd/index.html)
-  
 
 ## Mid-career (Experienced) Recruitment
 
